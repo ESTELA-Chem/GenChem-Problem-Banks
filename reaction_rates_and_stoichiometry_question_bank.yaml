@@ -1,0 +1,278 @@
+title: "Reaction Rates and Stoichiometry"
+date_created: "2026-10-05"
+learning_objective: "Use the stoichiometry of a reaction to relate the rates at which the concentrations of its reactants and products change as the reaction proceeds."
+author: "Julie Donnelly"
+notation: "Average reaction rate is represented using concentration changes over a finite time interval, Δ[X]/Δt."
+question_count: 17
+questions:
+  - id: RRStoich-01
+    question_stem: |-
+      For the reaction
+      $\mathrm{H_2(g) + I_2(g) \rightarrow 2HI(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{HI}$ over a time interval?
+    choices:
+      A: '$\dfrac{\Delta[\mathrm{HI}]}{\Delta t}$'
+      B: '$2\dfrac{\Delta[\mathrm{HI}]}{\Delta t}$'
+      C: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{HI}]}{\Delta t}$'
+      D: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{HI}]}{\Delta t}$'
+    distractors:
+      A: '$\dfrac{\Delta[\mathrm{HI}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 2.
+      B: '$2\dfrac{\Delta[\mathrm{HI}]}{\Delta t}$' # Multiplies by 2 instead of dividing by 2.
+      C: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{HI}]}{\Delta t}$' # Correctly divides by 2 but incorrectly uses a negative sign for a product.
+    correct_answer_choice: D
+
+  - id: RRStoich-02
+    question_stem: |-
+      For the reaction
+      $\mathrm{2O_3(g) \rightarrow 3O_2(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{O_3}$ over a time interval?
+    choices:
+      A: '$-\dfrac{\Delta[\mathrm{O_3}]}{\Delta t}$'
+      B: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{O_3}]}{\Delta t}$'
+      C: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{O_3}]}{\Delta t}$'
+      D: '$-2\dfrac{\Delta[\mathrm{O_3}]}{\Delta t}$'
+    distractors:
+      A: '$-\dfrac{\Delta[\mathrm{O_3}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 2.
+      C: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{O_3}]}{\Delta t}$' # Correctly divides by 2 but omits the negative sign required for a reactant.
+      D: '$-2\dfrac{\Delta[\mathrm{O_3}]}{\Delta t}$' # Multiplies by 2 instead of dividing by 2.
+    correct_answer_choice: B
+
+  - id: RRStoich-03
+    question_stem: |-
+      For the reaction
+      $\mathrm{2O_3(g) \rightarrow 3O_2(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{O_2}$ over a time interval?
+    choices:
+      A: '$-\dfrac{1}{3}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      B: '$\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      C: '$\dfrac{1}{3}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      D: '$3\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+    distractors:
+      A: '$-\dfrac{1}{3}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Correctly divides by 3 but incorrectly uses a negative sign for a product.
+      B: '$\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 3.
+      D: '$3\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Multiplies by 3 instead of dividing by 3.
+    correct_answer_choice: C
+
+  - id: RRStoich-04
+    question_stem: |-
+      For the reaction
+      $\mathrm{2N_2O_5(g) \rightarrow 4NO_2(g) + O_2(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{N_2O_5}$ over a time interval?
+    choices:
+      A: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{N_2O_5}]}{\Delta t}$'
+      B: '$-2\dfrac{\Delta[\mathrm{N_2O_5}]}{\Delta t}$'
+      C: '$-\dfrac{\Delta[\mathrm{N_2O_5}]}{\Delta t}$'
+      D: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{N_2O_5}]}{\Delta t}$'
+    distractors:
+      A: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{N_2O_5}]}{\Delta t}$' # Correctly divides by 2 but omits the negative sign required for a reactant.
+      B: '$-2\dfrac{\Delta[\mathrm{N_2O_5}]}{\Delta t}$' # Multiplies by 2 instead of dividing by 2.
+      C: '$-\dfrac{\Delta[\mathrm{N_2O_5}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 2.
+    correct_answer_choice: D
+
+  - id: RRStoich-05
+    question_stem: |-
+      For the reaction
+      $\mathrm{2N_2O_5(g) \rightarrow 4NO_2(g) + O_2(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{NO_2}$ over a time interval?
+    choices:
+      A: '$\dfrac{1}{4}\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$'
+      B: '$-\dfrac{1}{4}\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$'
+      C: '$\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$'
+      D: '$4\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$'
+    distractors:
+      B: '$-\dfrac{1}{4}\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$' # Correctly divides by 4 but incorrectly uses a negative sign for a product.
+      C: '$\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 4.
+      D: '$4\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$' # Multiplies by 4 instead of dividing by 4.
+    correct_answer_choice: A
+
+  - id: RRStoich-06
+    question_stem: |-
+      For the reaction
+      $\mathrm{N_2(g) + 3H_2(g) \rightarrow 2NH_3(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{H_2}$ over a time interval?
+    choices:
+      A: '$-3\dfrac{\Delta[\mathrm{H_2}]}{\Delta t}$'
+      B: '$-\dfrac{1}{3}\dfrac{\Delta[\mathrm{H_2}]}{\Delta t}$'
+      C: '$\dfrac{1}{3}\dfrac{\Delta[\mathrm{H_2}]}{\Delta t}$'
+      D: '$-\dfrac{\Delta[\mathrm{H_2}]}{\Delta t}$'
+    distractors:
+      A: '$-3\dfrac{\Delta[\mathrm{H_2}]}{\Delta t}$' # Multiplies by 3 instead of dividing by 3.
+      C: '$\dfrac{1}{3}\dfrac{\Delta[\mathrm{H_2}]}{\Delta t}$' # Correctly divides by 3 but omits the negative sign required for a reactant.
+      D: '$-\dfrac{\Delta[\mathrm{H_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 3.
+    correct_answer_choice: B
+
+  - id: RRStoich-07
+    question_stem: |-
+      For the reaction
+      $\mathrm{N_2(g) + 3H_2(g) \rightarrow 2NH_3(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{NH_3}$ over a time interval?
+    choices:
+      A: '$\dfrac{\Delta[\mathrm{NH_3}]}{\Delta t}$'
+      B: '$2\dfrac{\Delta[\mathrm{NH_3}]}{\Delta t}$'
+      C: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{NH_3}]}{\Delta t}$'
+      D: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{NH_3}]}{\Delta t}$'
+    distractors:
+      A: '$\dfrac{\Delta[\mathrm{NH_3}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 2.
+      B: '$2\dfrac{\Delta[\mathrm{NH_3}]}{\Delta t}$' # Multiplies by 2 instead of dividing by 2.
+      D: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{NH_3}]}{\Delta t}$' # Correctly divides by 2 but incorrectly uses a negative sign for a product.
+    correct_answer_choice: C
+
+  - id: RRStoich-08
+    question_stem: |-
+      For the reaction
+      $\mathrm{2NO(g) + O_2(g) \rightarrow 2NO_2(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{NO}$ over a time interval?
+    choices:
+      A: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{NO}]}{\Delta t}$'
+      B: '$-\dfrac{\Delta[\mathrm{NO}]}{\Delta t}$'
+      C: '$-2\dfrac{\Delta[\mathrm{NO}]}{\Delta t}$'
+      D: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{NO}]}{\Delta t}$'
+    distractors:
+      A: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{NO}]}{\Delta t}$' # Correctly divides by 2 but omits the negative sign required for a reactant.
+      B: '$-\dfrac{\Delta[\mathrm{NO}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 2.
+      C: '$-2\dfrac{\Delta[\mathrm{NO}]}{\Delta t}$' # Multiplies by 2 instead of dividing by 2.
+    correct_answer_choice: D
+
+  - id: RRStoich-09
+    question_stem: |-
+      For the reaction
+      $\mathrm{2NO(g) + O_2(g) \rightarrow 2NO_2(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{NO_2}$ over a time interval?
+    choices:
+      A: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$'
+      B: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$'
+      C: '$\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$'
+      D: '$2\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$'
+    distractors:
+      B: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$' # Correctly divides by 2 but incorrectly uses a negative sign for a product.
+      C: '$\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 2.
+      D: '$2\dfrac{\Delta[\mathrm{NO_2}]}{\Delta t}$' # Multiplies by 2 instead of dividing by 2.
+    correct_answer_choice: A
+
+  - id: RRStoich-10
+    question_stem: |-
+      For the reaction
+      $\mathrm{CH_4(g) + 2O_2(g) \rightarrow CO_2(g) + 2H_2O(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{O_2}$ over a time interval?
+    choices:
+      A: '$-\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      B: '$-2\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      C: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      D: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+    distractors:
+      A: '$-\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 2.
+      B: '$-2\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Multiplies by 2 instead of dividing by 2.
+      D: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Correctly divides by 2 but omits the negative sign required for a reactant.
+    correct_answer_choice: C
+
+  - id: RRStoich-11
+    question_stem: |-
+      For the reaction
+      $\mathrm{2H_2S(g) + 3O_2(g) \rightarrow 2SO_2(g) + 2H_2O(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{O_2}$ over a time interval?
+    choices:
+      A: '$-\dfrac{1}{3}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      B: '$\dfrac{1}{3}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      C: '$-\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      D: '$-3\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+    distractors:
+      B: '$\dfrac{1}{3}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Correctly divides by 3 but omits the negative sign required for a reactant.
+      C: '$-\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 3.
+      D: '$-3\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Multiplies by 3 instead of dividing by 3.
+    correct_answer_choice: A
+
+  - id: RRStoich-12
+    question_stem: |-
+      For the reaction
+      $\mathrm{2H_2S(g) + 3O_2(g) \rightarrow 2SO_2(g) + 2H_2O(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{SO_2}$ over a time interval?
+    choices:
+      A: '$\dfrac{\Delta[\mathrm{SO_2}]}{\Delta t}$'
+      B: '$2\dfrac{\Delta[\mathrm{SO_2}]}{\Delta t}$'
+      C: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{SO_2}]}{\Delta t}$'
+      D: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{SO_2}]}{\Delta t}$'
+    distractors:
+      A: '$\dfrac{\Delta[\mathrm{SO_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 2.
+      B: '$2\dfrac{\Delta[\mathrm{SO_2}]}{\Delta t}$' # Multiplies by 2 instead of dividing by 2.
+      C: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{SO_2}]}{\Delta t}$' # Correctly divides by 2 but incorrectly uses a negative sign for a product.
+    correct_answer_choice: D
+
+  - id: RRStoich-13
+    question_stem: |-
+      For the reaction
+      $\mathrm{C_2H_4(g) + 3O_2(g) \rightarrow 2CO_2(g) + 2H_2O(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{CO_2}$ over a time interval?
+    choices:
+      A: '$\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$'
+      B: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$'
+      C: '$\dfrac{1}{2}\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$'
+      D: '$2\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$'
+    distractors:
+      A: '$\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 2.
+      B: '$-\dfrac{1}{2}\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$' # Correctly divides by 2 but incorrectly uses a negative sign for a product.
+      D: '$2\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$' # Multiplies by 2 instead of dividing by 2.
+    correct_answer_choice: C
+
+  - id: RRStoich-14
+    question_stem: |-
+      For the reaction
+      $\mathrm{4NH_3(g) + 5O_2(g) \rightarrow 4NO(g) + 6H_2O(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{O_2}$ over a time interval?
+    choices:
+      A: '$-5\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      B: '$\dfrac{1}{5}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      C: '$-\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      D: '$-\dfrac{1}{5}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+    distractors:
+      A: '$-5\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Multiplies by 5 instead of dividing by 5.
+      B: '$\dfrac{1}{5}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Correctly divides by 5 but omits the negative sign required for a reactant.
+      C: '$-\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 5.
+    correct_answer_choice: D
+
+  - id: RRStoich-15
+    question_stem: |-
+      For the reaction
+      $\mathrm{4NH_3(g) + 5O_2(g) \rightarrow 4NO(g) + 6H_2O(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{H_2O}$ over a time interval?
+    choices:
+      A: '$\dfrac{1}{6}\dfrac{\Delta[\mathrm{H_2O}]}{\Delta t}$'
+      B: '$-\dfrac{1}{6}\dfrac{\Delta[\mathrm{H_2O}]}{\Delta t}$'
+      C: '$\dfrac{\Delta[\mathrm{H_2O}]}{\Delta t}$'
+      D: '$6\dfrac{\Delta[\mathrm{H_2O}]}{\Delta t}$'
+    distractors:
+      B: '$-\dfrac{1}{6}\dfrac{\Delta[\mathrm{H_2O}]}{\Delta t}$' # Correctly divides by 6 but incorrectly uses a negative sign for a product.
+      C: '$\dfrac{\Delta[\mathrm{H_2O}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 6.
+      D: '$6\dfrac{\Delta[\mathrm{H_2O}]}{\Delta t}$' # Multiplies by 6 instead of dividing by 6.
+    correct_answer_choice: A
+
+  - id: RRStoich-16
+    question_stem: |-
+      For the reaction
+      $\mathrm{2C_2H_6(g) + 7O_2(g) \rightarrow 4CO_2(g) + 6H_2O(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{O_2}$ over a time interval?
+    choices:
+      A: '$-\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      B: '$-\dfrac{1}{7}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      C: '$\dfrac{1}{7}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+      D: '$-7\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$'
+    distractors:
+      A: '$-\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 7.
+      C: '$\dfrac{1}{7}\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Correctly divides by 7 but omits the negative sign required for a reactant.
+      D: '$-7\dfrac{\Delta[\mathrm{O_2}]}{\Delta t}$' # Multiplies by 7 instead of dividing by 7.
+    correct_answer_choice: B
+
+  - id: RRStoich-17
+    question_stem: |-
+      For the reaction
+      $\mathrm{2C_2H_6(g) + 7O_2(g) \rightarrow 4CO_2(g) + 6H_2O(g)}$,
+      which expression represents the average rate of the reaction in terms of the change in concentration of $\mathrm{CO_2}$ over a time interval?
+    choices:
+      A: '$4\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$'
+      B: '$-\dfrac{1}{4}\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$'
+      C: '$\dfrac{1}{4}\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$'
+      D: '$\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$'
+    distractors:
+      A: '$4\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$' # Multiplies by 4 instead of dividing by 4.
+      B: '$-\dfrac{1}{4}\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$' # Correctly divides by 4 but incorrectly uses a negative sign for a product.
+      D: '$\dfrac{\Delta[\mathrm{CO_2}]}{\Delta t}$' # Omits division by the stoichiometric coefficient 4.
+    correct_answer_choice: C
