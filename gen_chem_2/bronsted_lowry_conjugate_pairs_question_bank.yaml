@@ -1,0 +1,307 @@
+title: "Brønsted-Lowry Conjugate Acid-Base Pairs"
+date_created: "2026-10-15"
+learning_objective: "Define Brønsted-Lowry acids and bases and identify conjugate acid-base pairs."
+author: "Julie Donnelly"
+notation: "A Brønsted-Lowry acid donates a proton, and a Brønsted-Lowry base accepts a proton. Members of a conjugate acid-base pair differ by exactly one proton."
+question_count: 20
+questions:
+  - id: ConjugatePair-01
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{CH_3COOH(aq) + H_2O(l) \rightleftharpoons H_3O^+(aq) + CH_3COO^-(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{CH_3COOH}$ and $\mathrm{H_2O}$'
+      B: '$\mathrm{CH_3COOH}$ and $\mathrm{CH_3COO^-}$'
+      C: '$\mathrm{H_2O}$ and $\mathrm{CH_3COO^-}$'
+      D: '$\mathrm{H_3O^+}$ and $\mathrm{CH_3COO^-}$'
+    distractors:
+      A: '$\mathrm{CH_3COOH}$ and $\mathrm{H_2O}$' # These are the reacting acid and base, but they do not differ by one proton.
+      C: '$\mathrm{H_2O}$ and $\mathrm{CH_3COO^-}$' # These species have different molecular frameworks and are not related by one proton.
+      D: '$\mathrm{H_3O^+}$ and $\mathrm{CH_3COO^-}$' # These are products, but they are not conjugates of one another.
+    correct_answer_choice: B
+  - id: ConjugatePair-02
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HCOOH(aq) + H_2O(l) \rightleftharpoons HCOO^-(aq) + H_3O^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HCOOH}$ and $\mathrm{HCOO^-}$'
+      B: '$\mathrm{HCOOH}$ and $\mathrm{H_2O}$'
+      C: '$\mathrm{HCOO^-}$ and $\mathrm{H_3O^+}$'
+      D: '$\mathrm{HCOOH}$ and $\mathrm{H_3O^+}$'
+    distractors:
+      B: '$\mathrm{HCOOH}$ and $\mathrm{H_2O}$' # These are the reacting acid and base rather than a conjugate pair.
+      C: '$\mathrm{HCOO^-}$ and $\mathrm{H_3O^+}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{HCOOH}$ and $\mathrm{H_3O^+}$' # These species have different molecular frameworks and are not conjugates.
+    correct_answer_choice: A
+  - id: ConjugatePair-03
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HF(aq) + H_2O(l) \rightleftharpoons F^-(aq) + H_3O^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HF}$ and $\mathrm{H_2O}$'
+      B: '$\mathrm{F^-}$ and $\mathrm{H_3O^+}$'
+      C: '$\mathrm{HF}$ and $\mathrm{H_3O^+}$'
+      D: '$\mathrm{HF}$ and $\mathrm{F^-}$'
+    distractors:
+      A: '$\mathrm{HF}$ and $\mathrm{H_2O}$' # These are the proton donor and proton acceptor, but they are not conjugates.
+      B: '$\mathrm{F^-}$ and $\mathrm{H_3O^+}$' # These products do not differ by exactly one proton.
+      C: '$\mathrm{HF}$ and $\mathrm{H_3O^+}$' # Hydronium is formed from water, not from HF.
+    correct_answer_choice: D
+  - id: ConjugatePair-04
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HNO_2(aq) + H_2O(l) \rightleftharpoons NO_2^-(aq) + H_3O^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HNO_2}$ and $\mathrm{H_2O}$'
+      B: '$\mathrm{NO_2^-}$ and $\mathrm{H_3O^+}$'
+      C: '$\mathrm{H_2O}$ and $\mathrm{H_3O^+}$'
+      D: '$\mathrm{HNO_2}$ and $\mathrm{H_3O^+}$'
+    distractors:
+      A: '$\mathrm{HNO_2}$ and $\mathrm{H_2O}$' # These react through proton transfer but do not differ by one proton.
+      B: '$\mathrm{NO_2^-}$ and $\mathrm{H_3O^+}$' # These are products rather than a species and its conjugate.
+      D: '$\mathrm{HNO_2}$ and $\mathrm{H_3O^+}$' # These species have different molecular frameworks and are not conjugates.
+    correct_answer_choice: C
+  - id: ConjugatePair-05
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{H_2CO_3(aq) + H_2O(l) \rightleftharpoons HCO_3^-(aq) + H_3O^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{H_2CO_3}$ and $\mathrm{HCO_3^-}$'
+      B: '$\mathrm{H_2CO_3}$ and $\mathrm{H_2O}$'
+      C: '$\mathrm{HCO_3^-}$ and $\mathrm{H_3O^+}$'
+      D: '$\mathrm{H_2CO_3}$ and $\mathrm{H_3O^+}$'
+    distractors:
+      B: '$\mathrm{H_2CO_3}$ and $\mathrm{H_2O}$' # These are the reacting acid and base rather than a conjugate pair.
+      C: '$\mathrm{HCO_3^-}$ and $\mathrm{H_3O^+}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{H_2CO_3}$ and $\mathrm{H_3O^+}$' # These species do not have the same molecular framework.
+    correct_answer_choice: A
+  - id: ConjugatePair-06
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HClO(aq) + H_2O(l) \rightleftharpoons ClO^-(aq) + H_3O^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HClO}$ and $\mathrm{H_2O}$'
+      B: '$\mathrm{H_2O}$ and $\mathrm{ClO^-}$'
+      C: '$\mathrm{HClO}$ and $\mathrm{H_3O^+}$'
+      D: '$\mathrm{HClO}$ and $\mathrm{ClO^-}$'
+    distractors:
+      A: '$\mathrm{HClO}$ and $\mathrm{H_2O}$' # These are the acid and base reactants rather than conjugates.
+      B: '$\mathrm{H_2O}$ and $\mathrm{ClO^-}$' # These species differ in composition, not simply by one proton.
+      C: '$\mathrm{HClO}$ and $\mathrm{H_3O^+}$' # These species have different molecular frameworks and are not conjugates.
+    correct_answer_choice: D
+  - id: ConjugatePair-07
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{NH_3(aq) + H_2O(l) \rightleftharpoons NH_4^+(aq) + OH^-(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{NH_3}$ and $\mathrm{H_2O}$'
+      B: '$\mathrm{NH_3}$ and $\mathrm{NH_4^+}$'
+      C: '$\mathrm{NH_4^+}$ and $\mathrm{OH^-}$'
+      D: '$\mathrm{H_2O}$ and $\mathrm{NH_4^+}$'
+    distractors:
+      A: '$\mathrm{NH_3}$ and $\mathrm{H_2O}$' # These are the proton acceptor and proton donor rather than conjugates.
+      C: '$\mathrm{NH_4^+}$ and $\mathrm{OH^-}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{H_2O}$ and $\mathrm{NH_4^+}$' # Water does not become ammonium by gaining a proton.
+    correct_answer_choice: B
+  - id: ConjugatePair-08
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{CH_3NH_2(aq) + H_2O(l) \rightleftharpoons CH_3NH_3^+(aq) + OH^-(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{CH_3NH_2}$ and $\mathrm{CH_3NH_3^+}$'
+      B: '$\mathrm{CH_3NH_2}$ and $\mathrm{H_2O}$'
+      C: '$\mathrm{CH_3NH_3^+}$ and $\mathrm{OH^-}$'
+      D: '$\mathrm{CH_3NH_2}$ and $\mathrm{OH^-}$'
+    distractors:
+      B: '$\mathrm{CH_3NH_2}$ and $\mathrm{H_2O}$' # These are reacting acid-base partners rather than conjugates.
+      C: '$\mathrm{CH_3NH_3^+}$ and $\mathrm{OH^-}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{CH_3NH_2}$ and $\mathrm{OH^-}$' # These species have different molecular frameworks and are not conjugates.
+    correct_answer_choice: A
+  - id: ConjugatePair-09
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{C_5H_5N(aq) + H_2O(l) \rightleftharpoons C_5H_5NH^+(aq) + OH^-(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{C_5H_5N}$ and $\mathrm{H_2O}$'
+      B: '$\mathrm{C_5H_5NH^+}$ and $\mathrm{OH^-}$'
+      C: '$\mathrm{H_2O}$ and $\mathrm{C_5H_5NH^+}$'
+      D: '$\mathrm{C_5H_5N}$ and $\mathrm{C_5H_5NH^+}$'
+    distractors:
+      A: '$\mathrm{C_5H_5N}$ and $\mathrm{H_2O}$' # These are the proton acceptor and proton donor rather than conjugates.
+      B: '$\mathrm{C_5H_5NH^+}$ and $\mathrm{OH^-}$' # These products do not differ by exactly one proton.
+      C: '$\mathrm{H_2O}$ and $\mathrm{C_5H_5NH^+}$' # Adding a proton to water produces hydronium, not protonated pyridine.
+    correct_answer_choice: D
+  - id: ConjugatePair-10
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{CH_3COO^-(aq) + H_2O(l) \rightleftharpoons CH_3COOH(aq) + OH^-(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{CH_3COO^-}$ and $\mathrm{H_2O}$'
+      B: '$\mathrm{CH_3COOH}$ and $\mathrm{OH^-}$'
+      C: '$\mathrm{H_2O}$ and $\mathrm{OH^-}$'
+      D: '$\mathrm{CH_3COO^-}$ and $\mathrm{OH^-}$'
+    distractors:
+      A: '$\mathrm{CH_3COO^-}$ and $\mathrm{H_2O}$' # These are the proton acceptor and proton donor rather than conjugates.
+      B: '$\mathrm{CH_3COOH}$ and $\mathrm{OH^-}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{CH_3COO^-}$ and $\mathrm{OH^-}$' # Both can act as bases, but they are not a conjugate pair.
+    correct_answer_choice: C
+  - id: ConjugatePair-11
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HCO_3^-(aq) + H_2O(l) \rightleftharpoons H_2CO_3(aq) + OH^-(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HCO_3^-}$ and $\mathrm{H_2CO_3}$'
+      B: '$\mathrm{HCO_3^-}$ and $\mathrm{H_2O}$'
+      C: '$\mathrm{H_2CO_3}$ and $\mathrm{OH^-}$'
+      D: '$\mathrm{HCO_3^-}$ and $\mathrm{OH^-}$'
+    distractors:
+      B: '$\mathrm{HCO_3^-}$ and $\mathrm{H_2O}$' # These are the proton acceptor and proton donor rather than conjugates.
+      C: '$\mathrm{H_2CO_3}$ and $\mathrm{OH^-}$' # These products have different molecular frameworks.
+      D: '$\mathrm{HCO_3^-}$ and $\mathrm{OH^-}$' # Both can accept protons, but they are not conjugates.
+    correct_answer_choice: A
+  - id: ConjugatePair-12
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{F^-(aq) + H_2O(l) \rightleftharpoons HF(aq) + OH^-(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{F^-}$ and $\mathrm{H_2O}$'
+      B: '$\mathrm{HF}$ and $\mathrm{OH^-}$'
+      C: '$\mathrm{H_2O}$ and $\mathrm{HF}$'
+      D: '$\mathrm{F^-}$ and $\mathrm{HF}$'
+    distractors:
+      A: '$\mathrm{F^-}$ and $\mathrm{H_2O}$' # These are the proton acceptor and proton donor rather than conjugates.
+      B: '$\mathrm{HF}$ and $\mathrm{OH^-}$' # These products do not differ by exactly one proton.
+      C: '$\mathrm{H_2O}$ and $\mathrm{HF}$' # These species have different central atoms and are not conjugates.
+    correct_answer_choice: D
+  - id: ConjugatePair-13
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{CH_3COOH(aq) + NH_3(aq) \rightleftharpoons CH_3COO^-(aq) + NH_4^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{CH_3COOH}$ and $\mathrm{NH_3}$'
+      B: '$\mathrm{CH_3COOH}$ and $\mathrm{CH_3COO^-}$'
+      C: '$\mathrm{CH_3COO^-}$ and $\mathrm{NH_4^+}$'
+      D: '$\mathrm{NH_3}$ and $\mathrm{CH_3COO^-}$'
+    distractors:
+      A: '$\mathrm{CH_3COOH}$ and $\mathrm{NH_3}$' # These are the reacting acid and base rather than conjugates.
+      C: '$\mathrm{CH_3COO^-}$ and $\mathrm{NH_4^+}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{NH_3}$ and $\mathrm{CH_3COO^-}$' # Ammonia does not become acetate through proton transfer.
+    correct_answer_choice: B
+  - id: ConjugatePair-14
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HCOOH(aq) + CH_3NH_2(aq) \rightleftharpoons HCOO^-(aq) + CH_3NH_3^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HCOOH}$ and $\mathrm{CH_3NH_2}$'
+      B: '$\mathrm{HCOO^-}$ and $\mathrm{CH_3NH_3^+}$'
+      C: '$\mathrm{CH_3NH_2}$ and $\mathrm{CH_3NH_3^+}$'
+      D: '$\mathrm{HCOOH}$ and $\mathrm{CH_3NH_3^+}$'
+    distractors:
+      A: '$\mathrm{HCOOH}$ and $\mathrm{CH_3NH_2}$' # These are the reacting acid and base rather than conjugates.
+      B: '$\mathrm{HCOO^-}$ and $\mathrm{CH_3NH_3^+}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{HCOOH}$ and $\mathrm{CH_3NH_3^+}$' # These species have different molecular frameworks and are not conjugates.
+    correct_answer_choice: C
+  - id: ConjugatePair-15
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HF(aq) + C_5H_5N(aq) \rightleftharpoons F^-(aq) + C_5H_5NH^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HF}$ and $\mathrm{F^-}$'
+      B: '$\mathrm{HF}$ and $\mathrm{C_5H_5N}$'
+      C: '$\mathrm{F^-}$ and $\mathrm{C_5H_5NH^+}$'
+      D: '$\mathrm{HF}$ and $\mathrm{C_5H_5NH^+}$'
+    distractors:
+      B: '$\mathrm{HF}$ and $\mathrm{C_5H_5N}$' # These are the proton donor and proton acceptor rather than conjugates.
+      C: '$\mathrm{F^-}$ and $\mathrm{C_5H_5NH^+}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{HF}$ and $\mathrm{C_5H_5NH^+}$' # These species have different molecular frameworks and are not conjugates.
+    correct_answer_choice: A
+  - id: ConjugatePair-16
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HNO_2(aq) + NH_3(aq) \rightleftharpoons NO_2^-(aq) + NH_4^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HNO_2}$ and $\mathrm{NH_3}$'
+      B: '$\mathrm{NO_2^-}$ and $\mathrm{NH_4^+}$'
+      C: '$\mathrm{HNO_2}$ and $\mathrm{NH_4^+}$'
+      D: '$\mathrm{NH_3}$ and $\mathrm{NH_4^+}$'
+    distractors:
+      A: '$\mathrm{HNO_2}$ and $\mathrm{NH_3}$' # These are the reacting acid and base rather than conjugates.
+      B: '$\mathrm{NO_2^-}$ and $\mathrm{NH_4^+}$' # These products do not differ by exactly one proton.
+      C: '$\mathrm{HNO_2}$ and $\mathrm{NH_4^+}$' # These species have different molecular frameworks and are not conjugates.
+    correct_answer_choice: D
+  - id: ConjugatePair-17
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{H_2CO_3(aq) + CH_3COO^-(aq) \rightleftharpoons HCO_3^-(aq) + CH_3COOH(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{H_2CO_3}$ and $\mathrm{CH_3COO^-}$'
+      B: '$\mathrm{HCO_3^-}$ and $\mathrm{CH_3COOH}$'
+      C: '$\mathrm{H_2CO_3}$ and $\mathrm{HCO_3^-}$'
+      D: '$\mathrm{CH_3COO^-}$ and $\mathrm{HCO_3^-}$'
+    distractors:
+      A: '$\mathrm{H_2CO_3}$ and $\mathrm{CH_3COO^-}$' # These are the proton donor and proton acceptor rather than conjugates.
+      B: '$\mathrm{HCO_3^-}$ and $\mathrm{CH_3COOH}$' # These products have different molecular frameworks.
+      D: '$\mathrm{CH_3COO^-}$ and $\mathrm{HCO_3^-}$' # These species can accept protons but are not conjugates of one another.
+    correct_answer_choice: C
+  - id: ConjugatePair-18
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HClO(aq) + CH_3NH_2(aq) \rightleftharpoons ClO^-(aq) + CH_3NH_3^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HClO}$ and $\mathrm{CH_3NH_2}$'
+      B: '$\mathrm{HClO}$ and $\mathrm{ClO^-}$'
+      C: '$\mathrm{ClO^-}$ and $\mathrm{CH_3NH_3^+}$'
+      D: '$\mathrm{HClO}$ and $\mathrm{CH_3NH_3^+}$'
+    distractors:
+      A: '$\mathrm{HClO}$ and $\mathrm{CH_3NH_2}$' # These are the reacting acid and base rather than conjugates.
+      C: '$\mathrm{ClO^-}$ and $\mathrm{CH_3NH_3^+}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{HClO}$ and $\mathrm{CH_3NH_3^+}$' # These species have different molecular frameworks and are not conjugates.
+    correct_answer_choice: B
+  - id: ConjugatePair-19
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{HCO_3^-(aq) + H_2O(l) \rightleftharpoons CO_3^{2-}(aq) + H_3O^+(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{HCO_3^-}$ and $\mathrm{CO_3^{2-}}$'
+      B: '$\mathrm{HCO_3^-}$ and $\mathrm{H_2O}$'
+      C: '$\mathrm{CO_3^{2-}}$ and $\mathrm{H_3O^+}$'
+      D: '$\mathrm{HCO_3^-}$ and $\mathrm{H_3O^+}$'
+    distractors:
+      B: '$\mathrm{HCO_3^-}$ and $\mathrm{H_2O}$' # These are the reacting acid and base rather than conjugates.
+      C: '$\mathrm{CO_3^{2-}}$ and $\mathrm{H_3O^+}$' # These products do not differ by exactly one proton.
+      D: '$\mathrm{HCO_3^-}$ and $\mathrm{H_3O^+}$' # Hydronium is formed from water, not from bicarbonate.
+    correct_answer_choice: A
+  - id: ConjugatePair-20
+    question_stem: |-
+      Consider the Brønsted-Lowry acid-base reaction
+      $\mathrm{C_5H_5NH^+(aq) + CH_3COO^-(aq) \rightleftharpoons C_5H_5N(aq) + CH_3COOH(aq)}$.
+      Which two species form a conjugate acid-base pair?
+    choices:
+      A: '$\mathrm{C_5H_5NH^+}$ and $\mathrm{CH_3COO^-}$'
+      B: '$\mathrm{C_5H_5N}$ and $\mathrm{CH_3COOH}$'
+      C: '$\mathrm{CH_3COO^-}$ and $\mathrm{C_5H_5N}$'
+      D: '$\mathrm{C_5H_5NH^+}$ and $\mathrm{C_5H_5N}$'
+    distractors:
+      A: '$\mathrm{C_5H_5NH^+}$ and $\mathrm{CH_3COO^-}$' # These are the reacting acid and base rather than conjugates.
+      B: '$\mathrm{C_5H_5N}$ and $\mathrm{CH_3COOH}$' # These products do not differ by exactly one proton.
+      C: '$\mathrm{CH_3COO^-}$ and $\mathrm{C_5H_5N}$' # Both can accept protons, but they are not conjugates of one another.
+    correct_answer_choice: D
