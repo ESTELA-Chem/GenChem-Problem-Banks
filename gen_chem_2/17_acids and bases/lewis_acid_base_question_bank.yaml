@@ -1,0 +1,150 @@
+title: "Lewis Acid and Base Classification"
+date_created: "2026-10-20"
+learning_objective: "Define Lewis acids and bases."
+author: "Julie Donnelly"
+notation: "A Lewis acid accepts an electron pair, whereas a Lewis base donates an electron pair."
+question_count: 11
+questions:
+  - id: LewisAcidBase-01
+    question_stem: |-
+      Which of the following species can be classified as a Lewis acid?
+    choices:
+      A: '$\mathrm{NH_3}$'
+      B: '$\mathrm{F^-}$'
+      C: '$\mathrm{BF_3}$'
+      D: '$\mathrm{CH_3OH}$'
+    distractors:
+      A: '$\mathrm{NH_3}$' # NH3 is a Lewis base because the nitrogen atom can donate a lone pair.
+      B: '$\mathrm{F^-}$' # F- is a Lewis base because it can donate a lone pair.
+      D: '$\mathrm{CH_3OH}$' # CH3OH is a Lewis base because its oxygen atom can donate a lone pair.
+    correct_answer_choice: C
+  - id: LewisAcidBase-02
+    question_stem: |-
+      Which of the following species can be classified as a Lewis acid?
+    choices:
+      A: '$\mathrm{BCl_3}$'
+      B: '$\mathrm{CN^-}$'
+      C: '$\mathrm{NH_3}$'
+      D: '$\mathrm{F^-}$'
+    distractors:
+      B: '$\mathrm{CN^-}$' # CN- is a Lewis base because it can donate an electron pair.
+      C: '$\mathrm{NH_3}$' # NH3 is a Lewis base because the nitrogen atom can donate a lone pair.
+      D: '$\mathrm{F^-}$' # F- is a Lewis base because it can donate a lone pair.
+    correct_answer_choice: A
+  - id: LewisAcidBase-03
+    question_stem: |-
+      Which of the following species can be classified as a Lewis acid?
+    choices:
+      A: '$\mathrm{CH_3OH}$'
+      B: '$\mathrm{CN^-}$'
+      C: '$\mathrm{F^-}$'
+      D: '$\mathrm{AlCl_3}$'
+    distractors:
+      A: '$\mathrm{CH_3OH}$' # CH3OH is a Lewis base because its oxygen atom can donate a lone pair.
+      B: '$\mathrm{CN^-}$' # CN- is a Lewis base because it can donate an electron pair.
+      C: '$\mathrm{F^-}$' # F- is a Lewis base because it can donate a lone pair.
+    correct_answer_choice: D
+  - id: LewisAcidBase-04
+    question_stem: |-
+      Which of the following species can be classified as a Lewis acid?
+    choices:
+      A: '$\mathrm{F^-}$'
+      B: '$\mathrm{Ag^+}$'
+      C: '$\mathrm{NH_3}$'
+      D: '$\mathrm{CN^-}$'
+    distractors:
+      A: '$\mathrm{F^-}$' # F- is a Lewis base because it can donate a lone pair.
+      C: '$\mathrm{NH_3}$' # NH3 is a Lewis base because the nitrogen atom can donate a lone pair.
+      D: '$\mathrm{CN^-}$' # CN- is a Lewis base because it can donate an electron pair.
+    correct_answer_choice: B
+  - id: LewisAcidBase-05
+    question_stem: |-
+      Which of the following species can be classified as a Lewis acid?
+    choices:
+      A: '$\mathrm{Cu^{2+}}$'
+      B: '$\mathrm{CH_3OH}$'
+      C: '$\mathrm{F^-}$'
+      D: '$\mathrm{NH_3}$'
+    distractors:
+      B: '$\mathrm{CH_3OH}$' # CH3OH is a Lewis base because its oxygen atom can donate a lone pair.
+      C: '$\mathrm{F^-}$' # F- is a Lewis base because it can donate a lone pair.
+      D: '$\mathrm{NH_3}$' # NH3 is a Lewis base because the nitrogen atom can donate a lone pair.
+    correct_answer_choice: A
+  - id: LewisAcidBase-06
+    question_stem: |-
+      Which of the following species can be classified as a Lewis acid?
+    choices:
+      A: '$\mathrm{CN^-}$'
+      B: '$\mathrm{NH_3}$'
+      C: '$\mathrm{Fe^{3+}}$'
+      D: '$\mathrm{CH_3OH}$'
+    distractors:
+      A: '$\mathrm{CN^-}$' # CN- is a Lewis base because it can donate an electron pair.
+      B: '$\mathrm{NH_3}$' # NH3 is a Lewis base because the nitrogen atom can donate a lone pair.
+      D: '$\mathrm{CH_3OH}$' # CH3OH is a Lewis base because its oxygen atom can donate a lone pair.
+    correct_answer_choice: C
+  - id: LewisAcidBase-07
+    question_stem: |-
+      Which of the following species can be classified as a Lewis acid?
+    choices:
+      A: '$\mathrm{NH_3}$'
+      B: '$\mathrm{F^-}$'
+      C: '$\mathrm{CN^-}$'
+      D: '$\mathrm{Zn^{2+}}$'
+    distractors:
+      A: '$\mathrm{NH_3}$' # NH3 is a Lewis base because the nitrogen atom can donate a lone pair.
+      B: '$\mathrm{F^-}$' # F- is a Lewis base because it can donate a lone pair.
+      C: '$\mathrm{CN^-}$' # CN- is a Lewis base because it can donate an electron pair.
+    correct_answer_choice: D
+  - id: LewisAcidBase-08
+    question_stem: |-
+      Which of the following species can be classified as a Lewis base?
+    choices:
+      A: '$\mathrm{BF_3}$'
+      B: '$\mathrm{NH_3}$'
+      C: '$\mathrm{Ag^+}$'
+      D: '$\mathrm{AlCl_3}$'
+    distractors:
+      A: '$\mathrm{BF_3}$' # BF3 is a Lewis acid because its electron-deficient boron atom can accept an electron pair.
+      C: '$\mathrm{Ag^+}$' # Ag+ is a Lewis acid because it can accept an electron pair from a ligand.
+      D: '$\mathrm{AlCl_3}$' # AlCl3 is a Lewis acid because its aluminum center can accept an electron pair.
+    correct_answer_choice: B
+  - id: LewisAcidBase-09
+    question_stem: |-
+      Which of the following species can be classified as a Lewis base?
+    choices:
+      A: '$\mathrm{F^-}$'
+      B: '$\mathrm{BCl_3}$'
+      C: '$\mathrm{Cu^{2+}}$'
+      D: '$\mathrm{BF_3}$'
+    distractors:
+      B: '$\mathrm{BCl_3}$' # BCl3 is a Lewis acid because its electron-deficient boron atom can accept an electron pair.
+      C: '$\mathrm{Cu^{2+}}$' # Cu2+ is a Lewis acid because it can accept electron pairs from ligands.
+      D: '$\mathrm{BF_3}$' # BF3 is a Lewis acid because its electron-deficient boron atom can accept an electron pair.
+    correct_answer_choice: A
+  - id: LewisAcidBase-10
+    question_stem: |-
+      Which of the following species can be classified as a base according to the Lewis definition?
+    choices:
+      A: '$\mathrm{Fe^{3+}}$'
+      B: '$\mathrm{AlCl_3}$'
+      C: '$\mathrm{Zn^{2+}}$'
+      D: '$\mathrm{CN^-}$'
+    distractors:
+      A: '$\mathrm{Fe^{3+}}$' # Fe3+ is a Lewis acid because it can accept electron pairs from ligands.
+      B: '$\mathrm{AlCl_3}$' # AlCl3 is a Lewis acid because its aluminum center can accept an electron pair.
+      C: '$\mathrm{Zn^{2+}}$' # Zn2+ is a Lewis acid because it can accept electron pairs from ligands.
+    correct_answer_choice: D
+  - id: LewisAcidBase-11
+    question_stem: |-
+      Which of the following species can be classified as a Lewis base?
+    choices:
+      A: '$\mathrm{Ag^+}$'
+      B: '$\mathrm{BF_3}$'
+      C: '$\mathrm{CH_3OH}$'
+      D: '$\mathrm{BCl_3}$'
+    distractors:
+      A: '$\mathrm{Ag^+}$' # Ag+ is a Lewis acid because it can accept an electron pair from a ligand.
+      B: '$\mathrm{BF_3}$' # BF3 is a Lewis acid because its electron-deficient boron atom can accept an electron pair.
+      D: '$\mathrm{BCl_3}$' # BCl3 is a Lewis acid because its electron-deficient boron atom can accept an electron pair.
+    correct_answer_choice: C
