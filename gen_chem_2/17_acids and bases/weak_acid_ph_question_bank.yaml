@@ -1,0 +1,202 @@
+title: "pH Calculations for Weak Acids"
+date_created: "2026-10-26"
+learning_objective: "Calculate the pH of a weak acid solution."
+author: "Julie Donnelly"
+notation: "Use the small-$x$ approximation for each weak monoprotic acid or first ionization: $[\\mathrm{H_3O^+}] \\approx \\sqrt{K_aC}$, followed by $\\mathrm{pH} = -\\log[\\mathrm{H_3O^+}]$."
+question_count: 15
+questions:
+  - id: WeakAcidpH-01
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.150 M aqueous solution of acetic acid, $\mathrm{CH_3COOH}$, with $K_a = 1.8 \times 10^{-5}$.
+    choices:
+      A: '0.82'
+      B: '2.78'
+      C: '4.74'
+      D: '7.00'
+    distractors:
+      A: '0.82' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      C: '4.74' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      D: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: B
+  - id: WeakAcidpH-02
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.08 M aqueous solution of formic acid, $\mathrm{HCOOH}$, with $K_a = 1.8 \times 10^{-4}$.
+    choices:
+      A: '3.74'
+      B: '7.00'
+      C: '2.42'
+      D: '1.10'
+    distractors:
+      A: '3.74' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      B: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+      D: '1.10' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+    correct_answer_choice: C
+  - id: WeakAcidpH-03
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.120 M aqueous solution of benzoic acid, $\mathrm{C_6H_5COOH}$, with $K_a = 6.3 \times 10^{-5}$.
+    choices:
+      A: '2.56'
+      B: '0.92'
+      C: '7.00'
+      D: '4.20'
+    distractors:
+      B: '0.92' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      C: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+      D: '4.20' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+    correct_answer_choice: A
+  - id: WeakAcidpH-04
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.200 M aqueous solution of carbonic acid, $\mathrm{H_2CO_3}$, with $K_{a1} = 4.3 \times 10^{-7}$.
+    choices:
+      A: '6.37'
+      B: '0.70'
+      C: '3.53'
+      D: '7.00'
+    distractors:
+      A: '6.37' # Treats $K_{a1}$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      B: '0.70' # Assumes the first ionization is complete and calculates pH directly from the initial acid concentration.
+      D: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: C
+  - id: WeakAcidpH-05
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.05 M aqueous solution of hydrogen sulfide, $\mathrm{H_2S}$, with $K_{a1} = 8.9 \times 10^{-8}$.
+    choices:
+      A: '1.30'
+      B: '7.05'
+      C: '7.00'
+      D: '4.18'
+    distractors:
+      A: '1.30' # Assumes the first ionization is complete and calculates pH directly from the initial acid concentration.
+      B: '7.05' # Treats $K_{a1}$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      C: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: D
+  - id: WeakAcidpH-06
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.100 M aqueous solution of phenol, $\mathrm{C_6H_5OH}$, with $K_a = 1.0 \times 10^{-10}$.
+    choices:
+      A: '5.50'
+      B: '10.00'
+      C: '1.00'
+      D: '7.00'
+    distractors:
+      B: '10.00' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      C: '1.00' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      D: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: A
+  - id: WeakAcidpH-07
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.250 M aqueous solution of nitrous acid, $\mathrm{HNO_2}$, with $K_a = 4.5 \times 10^{-4}$.
+    choices:
+      A: '0.60'
+      B: '3.35'
+      C: '7.00'
+      D: '1.97'
+    distractors:
+      A: '0.60' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      B: '3.35' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      C: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: D
+  - id: WeakAcidpH-08
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.180 M aqueous solution of hypochlorous acid, $\mathrm{HClO}$, with $K_a = 2.9 \times 10^{-8}$.
+    choices:
+      A: '7.54'
+      B: '4.14'
+      C: '0.74'
+      D: '7.00'
+    distractors:
+      A: '7.54' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      C: '0.74' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      D: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: B
+  - id: WeakAcidpH-09
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.09 M aqueous solution of hypobromous acid, $\mathrm{HBrO}$, with $K_a = 2.8 \times 10^{-9}$.
+    choices:
+      A: '1.05'
+      B: '7.00'
+      C: '4.80'
+      D: '8.55'
+    distractors:
+      A: '1.05' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      B: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+      D: '8.55' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+    correct_answer_choice: C
+  - id: WeakAcidpH-10
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.140 M aqueous solution of hydrocyanic acid, $\mathrm{HCN}$, with $K_a = 4.9 \times 10^{-10}$.
+    choices:
+      A: '5.08'
+      B: '9.31'
+      C: '7.00'
+      D: '0.85'
+    distractors:
+      B: '9.31' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      C: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+      D: '0.85' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+    correct_answer_choice: A
+  - id: WeakAcidpH-11
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.300 M aqueous solution of hydrofluoric acid, $\mathrm{HF}$, with $K_a = 6.3 \times 10^{-4}$.
+    choices:
+      A: '3.20'
+      B: '0.52'
+      C: '1.86'
+      D: '7.00'
+    distractors:
+      A: '3.20' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      B: '0.52' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      D: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: C
+  - id: WeakAcidpH-12
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.300 M aqueous solution of cyanic acid, $\mathrm{HCNO}$, with $K_a = 3.5 \times 10^{-4}$.
+    choices:
+      A: '0.52'
+      B: '3.46'
+      C: '7.00'
+      D: '1.99'
+    distractors:
+      A: '0.52' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      B: '3.46' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      C: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: D
+  - id: WeakAcidpH-13
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.025 M aqueous solution of acetic acid, $\mathrm{CH_3COOH}$, with $K_a = 1.8 \times 10^{-5}$.
+    choices:
+      A: '1.60'
+      B: '3.17'
+      C: '4.74'
+      D: '7.00'
+    distractors:
+      A: '1.60' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      C: '4.74' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      D: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: B
+  - id: WeakAcidpH-14
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.06 M aqueous solution of benzoic acid, $\mathrm{C_6H_5COOH}$, with $K_a = 6.3 \times 10^{-5}$.
+    choices:
+      A: '4.20'
+      B: '2.71'
+      C: '1.22'
+      D: '7.00'
+    distractors:
+      A: '4.20' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+      C: '1.22' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      D: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+    correct_answer_choice: B
+  - id: WeakAcidpH-15
+    question_stem: |-
+      Using the small-$x$ approximation, determine the pH of a 0.200 M aqueous solution of formic acid, $\mathrm{HCOOH}$, with $K_a = 1.8 \times 10^{-4}$.
+    choices:
+      A: '7.00'
+      B: '0.70'
+      C: '3.74'
+      D: '2.22'
+    distractors:
+      A: '7.00' # Assumes that a weak acid does not ionize and that the solution remains neutral.
+      B: '0.70' # Treats the weak acid as completely ionized and calculates pH directly from the initial acid concentration.
+      C: '3.74' # Treats $K_a$ as though it were $[\mathrm{H_3O^+}]$, so the selected value is the acid constant expressed with the p operator rather than the solution pH.
+    correct_answer_choice: D
