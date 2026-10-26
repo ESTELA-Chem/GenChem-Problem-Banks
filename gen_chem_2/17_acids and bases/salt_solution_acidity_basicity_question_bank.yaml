@@ -1,0 +1,332 @@
+title: "Acidity and Basicity of Aqueous Salt Solutions"
+date_created: "2026-10-26"
+learning_objective: "Determine the overall acidity or basicity of salt solutions."
+author: "Julie Donnelly"
+notation: "Assume dilute aqueous solutions under introductory-chemistry conditions. A salt solution is classified by whether an ion appreciably hydrolyzes to produce $\\mathrm{H_3O^+}$ or $\\mathrm{OH^-}$; solutions containing only spectator ions are approximately neutral."
+question_count: 25
+questions:
+  - id: SaltBasicity-01
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{NH_4Cl}$'
+      B: '$\mathrm{NaCl}$'
+      C: '$\mathrm{NaF}$'
+      D: '$\mathrm{KNO_3}$'
+    distractors:
+      A: '$\mathrm{NH_4Cl}$' # $\mathrm{NH_4^+}$ is the conjugate acid of the weak base $\mathrm{NH_3}$ and produces $\mathrm{H_3O^+}$; $\mathrm{Cl^-}$ is a spectator.
+      B: '$\mathrm{NaCl}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{KNO_3}$' # Neither $\mathrm{K^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: C
+  - id: SaltBasicity-02
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{NaNO_2}$'
+      B: '$\mathrm{NH_4NO_3}$'
+      C: '$\mathrm{LiCl}$'
+      D: '$\mathrm{NaBr}$'
+    distractors:
+      B: '$\mathrm{NH_4NO_3}$' # $\mathrm{NH_4^+}$ is the conjugate acid of the weak base $\mathrm{NH_3}$ and produces $\mathrm{H_3O^+}$; $\mathrm{NO_3^-}$ is a spectator.
+      C: '$\mathrm{LiCl}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{NaBr}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: A
+  - id: SaltBasicity-03
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{Al(NO_3)_3}$'
+      B: '$\mathrm{KBr}$'
+      C: '$\mathrm{NaNO_3}$'
+      D: '$\mathrm{NaClO}$'
+    distractors:
+      A: '$\mathrm{Al(NO_3)_3}$' # The hydrated $\mathrm{Al^{3+}}$ ion acidifies water by promoting proton transfer from coordinated water molecules; $\mathrm{NO_3^-}$ is a spectator.
+      B: '$\mathrm{KBr}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      C: '$\mathrm{NaNO_3}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: D
+  - id: SaltBasicity-04
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{Fe(NO_3)_3}$'
+      B: '$\mathrm{KCN}$'
+      C: '$\mathrm{NaI}$'
+      D: '$\mathrm{KCl}$'
+    distractors:
+      A: '$\mathrm{Fe(NO_3)_3}$' # The hydrated $\mathrm{Fe^{3+}}$ ion acidifies water by promoting proton transfer from coordinated water molecules; $\mathrm{NO_3^-}$ is a spectator.
+      C: '$\mathrm{NaI}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{I^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{KCl}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: B
+  - id: SaltBasicity-05
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{LiNO_3}$'
+      B: '$\mathrm{Cu(NO_3)_2}$'
+      C: '$\mathrm{Na_2CO_3}$'
+      D: '$\mathrm{NaCl}$'
+    distractors:
+      A: '$\mathrm{LiNO_3}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      B: '$\mathrm{Cu(NO_3)_2}$' # The hydrated $\mathrm{Cu^{2+}}$ ion acidifies water by promoting proton transfer from coordinated water molecules; $\mathrm{NO_3^-}$ is a spectator.
+      D: '$\mathrm{NaCl}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: C
+  - id: SaltBasicity-06
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{Na_3PO_4}$'
+      B: '$\mathrm{NH_4Cl}$'
+      C: '$\mathrm{KI}$'
+      D: '$\mathrm{NaNO_3}$'
+    distractors:
+      B: '$\mathrm{NH_4Cl}$' # $\mathrm{NH_4^+}$ is the conjugate acid of the weak base $\mathrm{NH_3}$ and produces $\mathrm{H_3O^+}$; $\mathrm{Cl^-}$ is a spectator.
+      C: '$\mathrm{KI}$' # Neither $\mathrm{K^+}$ nor $\mathrm{I^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{NaNO_3}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: A
+  - id: SaltBasicity-07
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{NH_4NO_3}$'
+      B: '$\mathrm{NaF}$'
+      C: '$\mathrm{KBr}$'
+      D: '$\mathrm{LiCl}$'
+    distractors:
+      A: '$\mathrm{NH_4NO_3}$' # $\mathrm{NH_4^+}$ is the conjugate acid of the weak base $\mathrm{NH_3}$ and produces $\mathrm{H_3O^+}$; $\mathrm{NO_3^-}$ is a spectator.
+      C: '$\mathrm{KBr}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{LiCl}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: B
+  - id: SaltBasicity-08
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{NaBr}$'
+      B: '$\mathrm{Al(NO_3)_3}$'
+      C: '$\mathrm{KNO_3}$'
+      D: '$\mathrm{NaNO_2}$'
+    distractors:
+      A: '$\mathrm{NaBr}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      B: '$\mathrm{Al(NO_3)_3}$' # The hydrated $\mathrm{Al^{3+}}$ ion acidifies water by promoting proton transfer from coordinated water molecules; $\mathrm{NO_3^-}$ is a spectator.
+      C: '$\mathrm{KNO_3}$' # Neither $\mathrm{K^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: D
+  - id: SaltBasicity-09
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{NaClO}$'
+      B: '$\mathrm{Fe(NO_3)_3}$'
+      C: '$\mathrm{NaI}$'
+      D: '$\mathrm{LiNO_3}$'
+    distractors:
+      B: '$\mathrm{Fe(NO_3)_3}$' # The hydrated $\mathrm{Fe^{3+}}$ ion acidifies water by promoting proton transfer from coordinated water molecules; $\mathrm{NO_3^-}$ is a spectator.
+      C: '$\mathrm{NaI}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{I^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{LiNO_3}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: A
+  - id: SaltBasicity-10
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{NH_4Cl}$'
+      B: '$\mathrm{KCl}$'
+      C: '$\mathrm{KCN}$'
+      D: '$\mathrm{NaNO_3}$'
+    distractors:
+      A: '$\mathrm{NH_4Cl}$' # $\mathrm{NH_4^+}$ is the conjugate acid of the weak base $\mathrm{NH_3}$ and produces $\mathrm{H_3O^+}$; $\mathrm{Cl^-}$ is a spectator.
+      B: '$\mathrm{KCl}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{NaNO_3}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: C
+  - id: SaltBasicity-11
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{Cu(NO_3)_2}$'
+      B: '$\mathrm{Na_2CO_3}$'
+      C: '$\mathrm{KI}$'
+      D: '$\mathrm{NaCl}$'
+    distractors:
+      A: '$\mathrm{Cu(NO_3)_2}$' # The hydrated $\mathrm{Cu^{2+}}$ ion acidifies water by promoting proton transfer from coordinated water molecules; $\mathrm{NO_3^-}$ is a spectator.
+      C: '$\mathrm{KI}$' # Neither $\mathrm{K^+}$ nor $\mathrm{I^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{NaCl}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: B
+  - id: SaltBasicity-12
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{NaBr}$'
+      B: '$\mathrm{NH_4NO_3}$'
+      C: '$\mathrm{LiCl}$'
+      D: '$\mathrm{Na_3PO_4}$'
+    distractors:
+      A: '$\mathrm{NaBr}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      B: '$\mathrm{NH_4NO_3}$' # $\mathrm{NH_4^+}$ is the conjugate acid of the weak base $\mathrm{NH_3}$ and produces $\mathrm{H_3O^+}$; $\mathrm{NO_3^-}$ is a spectator.
+      C: '$\mathrm{LiCl}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: D
+  - id: SaltBasicity-13
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{NaF}$'
+      B: '$\mathrm{Al(NO_3)_3}$'
+      C: '$\mathrm{KBr}$'
+      D: '$\mathrm{NaI}$'
+    distractors:
+      B: '$\mathrm{Al(NO_3)_3}$' # The hydrated $\mathrm{Al^{3+}}$ ion acidifies water by promoting proton transfer from coordinated water molecules; $\mathrm{NO_3^-}$ is a spectator.
+      C: '$\mathrm{KBr}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{NaI}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{I^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: A
+  - id: SaltBasicity-14
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{KNO_3}$'
+      B: '$\mathrm{Fe(NO_3)_3}$'
+      C: '$\mathrm{NaNO_2}$'
+      D: '$\mathrm{NaCl}$'
+    distractors:
+      A: '$\mathrm{KNO_3}$' # Neither $\mathrm{K^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      B: '$\mathrm{Fe(NO_3)_3}$' # The hydrated $\mathrm{Fe^{3+}}$ ion acidifies water by promoting proton transfer from coordinated water molecules; $\mathrm{NO_3^-}$ is a spectator.
+      D: '$\mathrm{NaCl}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: C
+  - id: SaltBasicity-15
+    question_stem: |-
+      Which of the following salts forms a basic aqueous solution?
+    choices:
+      A: '$\mathrm{Cu(NO_3)_2}$'
+      B: '$\mathrm{LiNO_3}$'
+      C: '$\mathrm{KCl}$'
+      D: '$\mathrm{NaClO}$'
+    distractors:
+      A: '$\mathrm{Cu(NO_3)_2}$' # The hydrated $\mathrm{Cu^{2+}}$ ion acidifies water by promoting proton transfer from coordinated water molecules; $\mathrm{NO_3^-}$ is a spectator.
+      B: '$\mathrm{LiNO_3}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      C: '$\mathrm{KCl}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: D
+  - id: SaltAcidity-01
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{NaCl}$'
+      B: '$\mathrm{NH_4Cl}$'
+      C: '$\mathrm{NaF}$'
+      D: '$\mathrm{KNO_3}$'
+    distractors:
+      A: '$\mathrm{NaCl}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      C: '$\mathrm{NaF}$' # $\mathrm{F^-}$ is the conjugate base of the weak acid $\mathrm{HF}$ and reacts with water to produce $\mathrm{OH^-}$; $\mathrm{Na^+}$ is a spectator.
+      D: '$\mathrm{KNO_3}$' # Neither $\mathrm{K^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: B
+  - id: SaltAcidity-02
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{NH_4NO_3}$'
+      B: '$\mathrm{NaNO_2}$'
+      C: '$\mathrm{LiCl}$'
+      D: '$\mathrm{NaBr}$'
+    distractors:
+      B: '$\mathrm{NaNO_2}$' # $\mathrm{NO_2^-}$ is the conjugate base of the weak acid $\mathrm{HNO_2}$ and reacts with water to produce $\mathrm{OH^-}$; $\mathrm{Na^+}$ is a spectator.
+      C: '$\mathrm{LiCl}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{NaBr}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: A
+  - id: SaltAcidity-03
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{NaClO}$'
+      B: '$\mathrm{KBr}$'
+      C: '$\mathrm{NaNO_3}$'
+      D: '$\mathrm{Al(NO_3)_3}$'
+    distractors:
+      A: '$\mathrm{NaClO}$' # $\mathrm{ClO^-}$ is the conjugate base of the weak acid $\mathrm{HClO}$ and reacts with water to produce $\mathrm{OH^-}$; $\mathrm{Na^+}$ is a spectator.
+      B: '$\mathrm{KBr}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      C: '$\mathrm{NaNO_3}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: D
+  - id: SaltAcidity-04
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{KCN}$'
+      B: '$\mathrm{Fe(NO_3)_3}$'
+      C: '$\mathrm{NaI}$'
+      D: '$\mathrm{KCl}$'
+    distractors:
+      A: '$\mathrm{KCN}$' # $\mathrm{CN^-}$ is the conjugate base of the weak acid $\mathrm{HCN}$ and reacts with water to produce $\mathrm{OH^-}$; $\mathrm{K^+}$ is a spectator.
+      C: '$\mathrm{NaI}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{I^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{KCl}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: B
+  - id: SaltAcidity-05
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{LiNO_3}$'
+      B: '$\mathrm{Na_2CO_3}$'
+      C: '$\mathrm{Cu(NO_3)_2}$'
+      D: '$\mathrm{NaCl}$'
+    distractors:
+      A: '$\mathrm{LiNO_3}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      B: '$\mathrm{Na_2CO_3}$' # $\mathrm{CO_3^{2-}}$ accepts a proton from water and produces $\mathrm{OH^-}$; $\mathrm{Na^+}$ is a spectator.
+      D: '$\mathrm{NaCl}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: C
+  - id: SaltAcidity-06
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{NH_4Cl}$'
+      B: '$\mathrm{Na_3PO_4}$'
+      C: '$\mathrm{KI}$'
+      D: '$\mathrm{NaNO_3}$'
+    distractors:
+      B: '$\mathrm{Na_3PO_4}$' # $\mathrm{PO_4^{3-}}$ accepts a proton from water and produces $\mathrm{OH^-}$; $\mathrm{Na^+}$ is a spectator.
+      C: '$\mathrm{KI}$' # Neither $\mathrm{K^+}$ nor $\mathrm{I^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{NaNO_3}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: A
+  - id: SaltAcidity-07
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{NaF}$'
+      B: '$\mathrm{KBr}$'
+      C: '$\mathrm{NH_4NO_3}$'
+      D: '$\mathrm{LiCl}$'
+    distractors:
+      A: '$\mathrm{NaF}$' # $\mathrm{F^-}$ is the conjugate base of the weak acid $\mathrm{HF}$ and reacts with water to produce $\mathrm{OH^-}$; $\mathrm{Na^+}$ is a spectator.
+      B: '$\mathrm{KBr}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{LiCl}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: C
+  - id: SaltAcidity-08
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{NaBr}$'
+      B: '$\mathrm{Al(NO_3)_3}$'
+      C: '$\mathrm{KNO_3}$'
+      D: '$\mathrm{NaNO_2}$'
+    distractors:
+      A: '$\mathrm{NaBr}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{Br^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      C: '$\mathrm{KNO_3}$' # Neither $\mathrm{K^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{NaNO_2}$' # $\mathrm{NO_2^-}$ is the conjugate base of the weak acid $\mathrm{HNO_2}$ and reacts with water to produce $\mathrm{OH^-}$; $\mathrm{Na^+}$ is a spectator.
+    correct_answer_choice: B
+  - id: SaltAcidity-09
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{NaClO}$'
+      B: '$\mathrm{NaI}$'
+      C: '$\mathrm{LiNO_3}$'
+      D: '$\mathrm{Fe(NO_3)_3}$'
+    distractors:
+      A: '$\mathrm{NaClO}$' # $\mathrm{ClO^-}$ is the conjugate base of the weak acid $\mathrm{HClO}$ and reacts with water to produce $\mathrm{OH^-}$; $\mathrm{Na^+}$ is a spectator.
+      B: '$\mathrm{NaI}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{I^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      C: '$\mathrm{LiNO_3}$' # Neither $\mathrm{Li^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: D
+  - id: SaltAcidity-10
+    question_stem: |-
+      Which of the following salts forms an acidic aqueous solution?
+    choices:
+      A: '$\mathrm{Cu(NO_3)_2}$'
+      B: '$\mathrm{Na_2CO_3}$'
+      C: '$\mathrm{KCl}$'
+      D: '$\mathrm{NaNO_3}$'
+    distractors:
+      B: '$\mathrm{Na_2CO_3}$' # $\mathrm{CO_3^{2-}}$ accepts a proton from water and produces $\mathrm{OH^-}$; $\mathrm{Na^+}$ is a spectator.
+      C: '$\mathrm{KCl}$' # Neither $\mathrm{K^+}$ nor $\mathrm{Cl^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+      D: '$\mathrm{NaNO_3}$' # Neither $\mathrm{Na^+}$ nor $\mathrm{NO_3^-}$ appreciably hydrolyzes, so the solution is approximately neutral.
+    correct_answer_choice: A
