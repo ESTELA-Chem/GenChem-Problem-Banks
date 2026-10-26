@@ -1,0 +1,267 @@
+title: "Comparing Weak Acid and Base Strengths"
+date_created: "2026-10-26"
+learning_objective: "Predict the strength of acids and bases conceptually and mathematically using Ka and Kb."
+author: "Julie Donnelly"
+notation: "All ionization constants are aqueous values at approximately 25 degrees C. A larger Ka indicates a stronger acid, and a larger Kb indicates a stronger base."
+question_count: 20
+questions:
+  - id: AcidStrength-01
+    question_stem: |-
+      Which of the following acids is the strongest based on the $K_a$ values provided?
+    choices:
+      A: 'Acetic acid ($\mathrm{CH_3COOH}$): $K_a = 1.8 \times 10^{-5}$'
+      B: 'Hydrofluoric acid ($\mathrm{HF}$): $K_a = 7.2 \times 10^{-4}$'
+      C: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$'
+      D: 'Hypochlorous acid ($\mathrm{HClO}$): $K_a = 3.5 \times 10^{-8}$'
+    distractors:
+      A: 'Acetic acid ($\mathrm{CH_3COOH}$): $K_a = 1.8 \times 10^{-5}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      C: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      D: 'Hypochlorous acid ($\mathrm{HClO}$): $K_a = 3.5 \times 10^{-8}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+    correct_answer_choice: B
+  - id: AcidStrength-02
+    question_stem: |-
+      Which of the following acids is the weakest based on the $K_a$ values provided?
+    choices:
+      A: 'Hydrogen cyanide ($\mathrm{HCN}$): $K_a = 6.2 \times 10^{-10}$'
+      B: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$'
+      C: 'Nitrous acid ($\mathrm{HNO_2}$): $K_a = 4.0 \times 10^{-4}$'
+      D: 'Hypochlorous acid ($\mathrm{HClO}$): $K_a = 3.5 \times 10^{-8}$'
+    distractors:
+      B: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      C: 'Nitrous acid ($\mathrm{HNO_2}$): $K_a = 4.0 \times 10^{-4}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      D: 'Hypochlorous acid ($\mathrm{HClO}$): $K_a = 3.5 \times 10^{-8}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+    correct_answer_choice: A
+  - id: AcidStrength-03
+    question_stem: |-
+      Which of the following acids is the strongest based on the $K_a$ values provided?
+    choices:
+      A: 'Lactic acid ($\mathrm{CH_3CH(OH)COOH}$): $K_a = 1.4 \times 10^{-4}$'
+      B: 'Propionic acid ($\mathrm{CH_3CH_2COOH}$): $K_a = 1.3 \times 10^{-5}$'
+      C: 'Pyridinium ion ($\mathrm{C_5H_5NH^+}$): $K_a = 5.6 \times 10^{-6}$'
+      D: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$'
+    distractors:
+      B: 'Propionic acid ($\mathrm{CH_3CH_2COOH}$): $K_a = 1.3 \times 10^{-5}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      C: 'Pyridinium ion ($\mathrm{C_5H_5NH^+}$): $K_a = 5.6 \times 10^{-6}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      D: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+    correct_answer_choice: A
+  - id: AcidStrength-04
+    question_stem: |-
+      Which of the following acids is the weakest based on the $K_a$ values provided?
+    choices:
+      A: 'Ammonium ion ($\mathrm{NH_4^+}$): $K_a = 5.6 \times 10^{-10}$'
+      B: 'Benzoic acid ($\mathrm{C_6H_5COOH}$): $K_a = 6.5 \times 10^{-5}$'
+      C: 'Hydrogen cyanide ($\mathrm{HCN}$): $K_a = 6.2 \times 10^{-10}$'
+      D: 'Phenol ($\mathrm{C_6H_5OH}$): $K_a = 1.6 \times 10^{-10}$'
+    distractors:
+      A: 'Ammonium ion ($\mathrm{NH_4^+}$): $K_a = 5.6 \times 10^{-10}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      B: 'Benzoic acid ($\mathrm{C_6H_5COOH}$): $K_a = 6.5 \times 10^{-5}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      C: 'Hydrogen cyanide ($\mathrm{HCN}$): $K_a = 6.2 \times 10^{-10}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+    correct_answer_choice: D
+  - id: AcidStrength-05
+    question_stem: |-
+      Which of the following acids is the strongest based on the $K_a$ values provided?
+    choices:
+      A: 'Formic acid ($\mathrm{HCOOH}$): $K_a = 1.8 \times 10^{-4}$'
+      B: 'Acetic acid ($\mathrm{CH_3COOH}$): $K_a = 1.8 \times 10^{-5}$'
+      C: 'Pyridinium ion ($\mathrm{C_5H_5NH^+}$): $K_a = 5.6 \times 10^{-6}$'
+      D: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$'
+    distractors:
+      B: 'Acetic acid ($\mathrm{CH_3COOH}$): $K_a = 1.8 \times 10^{-5}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      C: 'Pyridinium ion ($\mathrm{C_5H_5NH^+}$): $K_a = 5.6 \times 10^{-6}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      D: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+    correct_answer_choice: A
+  - id: AcidStrength-06
+    question_stem: |-
+      Which of the following acids is the weakest based on the $K_a$ values provided?
+    choices:
+      A: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$'
+      B: 'Hydrogen sulfide, first ionization ($\mathrm{H_2S}$): $K_a = 9.1 \times 10^{-8}$'
+      C: 'Hypochlorous acid ($\mathrm{HClO}$): $K_a = 3.5 \times 10^{-8}$'
+      D: 'Nitrous acid ($\mathrm{HNO_2}$): $K_a = 4.0 \times 10^{-4}$'
+    distractors:
+      A: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      B: 'Hydrogen sulfide, first ionization ($\mathrm{H_2S}$): $K_a = 9.1 \times 10^{-8}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      D: 'Nitrous acid ($\mathrm{HNO_2}$): $K_a = 4.0 \times 10^{-4}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+    correct_answer_choice: C
+  - id: AcidStrength-07
+    question_stem: |-
+      Which of the following acids is the strongest based on the $K_a$ values provided?
+    choices:
+      A: 'Pyridinium ion ($\mathrm{C_5H_5NH^+}$): $K_a = 5.6 \times 10^{-6}$'
+      B: 'Ammonium ion ($\mathrm{NH_4^+}$): $K_a = 5.6 \times 10^{-10}$'
+      C: 'Phenol ($\mathrm{C_6H_5OH}$): $K_a = 1.6 \times 10^{-10}$'
+      D: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$'
+    distractors:
+      B: 'Ammonium ion ($\mathrm{NH_4^+}$): $K_a = 5.6 \times 10^{-10}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      C: 'Phenol ($\mathrm{C_6H_5OH}$): $K_a = 1.6 \times 10^{-10}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      D: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+    correct_answer_choice: A
+  - id: AcidStrength-08
+    question_stem: |-
+      Which of the following acids is the weakest based on the $K_a$ values provided?
+    choices:
+      A: 'Benzoic acid ($\mathrm{C_6H_5COOH}$): $K_a = 6.5 \times 10^{-5}$'
+      B: 'Lactic acid ($\mathrm{CH_3CH(OH)COOH}$): $K_a = 1.4 \times 10^{-4}$'
+      C: 'Pyridinium ion ($\mathrm{C_5H_5NH^+}$): $K_a = 5.6 \times 10^{-6}$'
+      D: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$'
+    distractors:
+      A: 'Benzoic acid ($\mathrm{C_6H_5COOH}$): $K_a = 6.5 \times 10^{-5}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      B: 'Lactic acid ($\mathrm{CH_3CH(OH)COOH}$): $K_a = 1.4 \times 10^{-4}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      C: 'Pyridinium ion ($\mathrm{C_5H_5NH^+}$): $K_a = 5.6 \times 10^{-6}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+    correct_answer_choice: D
+  - id: AcidStrength-09
+    question_stem: |-
+      Which of the following acids is the strongest based on the $K_a$ values provided?
+    choices:
+      A: 'Hydrogen cyanide ($\mathrm{HCN}$): $K_a = 6.2 \times 10^{-10}$'
+      B: 'Carbonic acid, first ionization ($\mathrm{H_2CO_3}$): $K_a = 4.3 \times 10^{-7}$'
+      C: 'Hydrogen sulfide, first ionization ($\mathrm{H_2S}$): $K_a = 9.1 \times 10^{-8}$'
+      D: 'Ammonium ion ($\mathrm{NH_4^+}$): $K_a = 5.6 \times 10^{-10}$'
+    distractors:
+      A: 'Hydrogen cyanide ($\mathrm{HCN}$): $K_a = 6.2 \times 10^{-10}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      C: 'Hydrogen sulfide, first ionization ($\mathrm{H_2S}$): $K_a = 9.1 \times 10^{-8}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+      D: 'Ammonium ion ($\mathrm{NH_4^+}$): $K_a = 5.6 \times 10^{-10}$' # Incorrect. This value is smaller than the largest $K_a$ in the set.
+    correct_answer_choice: B
+  - id: AcidStrength-10
+    question_stem: |-
+      Which of the following acids is the weakest based on the $K_a$ values provided?
+    choices:
+      A: 'Hydrofluoric acid ($\mathrm{HF}$): $K_a = 7.2 \times 10^{-4}$'
+      B: 'Formic acid ($\mathrm{HCOOH}$): $K_a = 1.8 \times 10^{-4}$'
+      C: 'Acetic acid ($\mathrm{CH_3COOH}$): $K_a = 1.8 \times 10^{-5}$'
+      D: 'Pyridinium ion ($\mathrm{C_5H_5NH^+}$): $K_a = 5.6 \times 10^{-6}$'
+    distractors:
+      A: 'Hydrofluoric acid ($\mathrm{HF}$): $K_a = 7.2 \times 10^{-4}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      B: 'Formic acid ($\mathrm{HCOOH}$): $K_a = 1.8 \times 10^{-4}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+      C: 'Acetic acid ($\mathrm{CH_3COOH}$): $K_a = 1.8 \times 10^{-5}$' # Incorrect. This value is larger than the smallest $K_a$ in the set.
+    correct_answer_choice: D
+  - id: BaseStrength-11
+    question_stem: |-
+      Which of the following bases is the strongest based on the $K_b$ values provided?
+    choices:
+      A: 'Ammonia ($\mathrm{NH_3}$): $K_b = 1.8 \times 10^{-5}$'
+      B: 'Pyridine ($\mathrm{C_5H_5N}$): $K_b = 1.8 \times 10^{-9}$'
+      C: 'Acetate ion ($\mathrm{CH_3COO^-}$): $K_b = 5.7 \times 10^{-10}$'
+      D: 'Methylamine ($\mathrm{CH_3NH_2}$): $K_b = 4.4 \times 10^{-4}$'
+    distractors:
+      A: 'Ammonia ($\mathrm{NH_3}$): $K_b = 1.8 \times 10^{-5}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      B: 'Pyridine ($\mathrm{C_5H_5N}$): $K_b = 1.8 \times 10^{-9}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      C: 'Acetate ion ($\mathrm{CH_3COO^-}$): $K_b = 5.7 \times 10^{-10}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+    correct_answer_choice: D
+  - id: BaseStrength-12
+    question_stem: |-
+      Which of the following bases is the weakest based on the $K_b$ values provided?
+    choices:
+      A: 'Cyanide ion ($\mathrm{CN^-}$): $K_b = 1.6 \times 10^{-5}$'
+      B: 'Fluoride ion ($\mathrm{F^-}$): $K_b = 1.4 \times 10^{-11}$'
+      C: 'Nitrite ion ($\mathrm{NO_2^-}$): $K_b = 2.5 \times 10^{-11}$'
+      D: 'Acetate ion ($\mathrm{CH_3COO^-}$): $K_b = 5.7 \times 10^{-10}$'
+    distractors:
+      A: 'Cyanide ion ($\mathrm{CN^-}$): $K_b = 1.6 \times 10^{-5}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      C: 'Nitrite ion ($\mathrm{NO_2^-}$): $K_b = 2.5 \times 10^{-11}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      D: 'Acetate ion ($\mathrm{CH_3COO^-}$): $K_b = 5.7 \times 10^{-10}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+    correct_answer_choice: B
+  - id: BaseStrength-13
+    question_stem: |-
+      Which of the following bases is the strongest based on the $K_b$ values provided?
+    choices:
+      A: 'Aniline ($\mathrm{C_6H_5NH_2}$): $K_b = 4.3 \times 10^{-10}$'
+      B: 'Pyridine ($\mathrm{C_5H_5N}$): $K_b = 1.8 \times 10^{-9}$'
+      C: 'Trimethylamine ($\mathrm{(CH_3)_3N}$): $K_b = 6.5 \times 10^{-5}$'
+      D: 'Hydroxylamine ($\mathrm{NH_2OH}$): $K_b = 1.1 \times 10^{-8}$'
+    distractors:
+      A: 'Aniline ($\mathrm{C_6H_5NH_2}$): $K_b = 4.3 \times 10^{-10}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      B: 'Pyridine ($\mathrm{C_5H_5N}$): $K_b = 1.8 \times 10^{-9}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      D: 'Hydroxylamine ($\mathrm{NH_2OH}$): $K_b = 1.1 \times 10^{-8}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+    correct_answer_choice: C
+  - id: BaseStrength-14
+    question_stem: |-
+      Which of the following bases is the weakest based on the $K_b$ values provided?
+    choices:
+      A: 'Ethylamine ($\mathrm{CH_3CH_2NH_2}$): $K_b = 5.6 \times 10^{-4}$'
+      B: 'Ammonia ($\mathrm{NH_3}$): $K_b = 1.8 \times 10^{-5}$'
+      C: 'Hydrazine ($\mathrm{N_2H_4}$): $K_b = 1.3 \times 10^{-6}$'
+      D: 'Pyridine ($\mathrm{C_5H_5N}$): $K_b = 1.8 \times 10^{-9}$'
+    distractors:
+      A: 'Ethylamine ($\mathrm{CH_3CH_2NH_2}$): $K_b = 5.6 \times 10^{-4}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      B: 'Ammonia ($\mathrm{NH_3}$): $K_b = 1.8 \times 10^{-5}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      C: 'Hydrazine ($\mathrm{N_2H_4}$): $K_b = 1.3 \times 10^{-6}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+    correct_answer_choice: D
+  - id: BaseStrength-15
+    question_stem: |-
+      Which of the following bases is the strongest based on the $K_b$ values provided?
+    choices:
+      A: 'Hypochlorite ion ($\mathrm{ClO^-}$): $K_b = 2.9 \times 10^{-7}$'
+      B: 'Nitrite ion ($\mathrm{NO_2^-}$): $K_b = 2.5 \times 10^{-11}$'
+      C: 'Fluoride ion ($\mathrm{F^-}$): $K_b = 1.4 \times 10^{-11}$'
+      D: 'Formate ion ($\mathrm{HCOO^-}$): $K_b = 5.6 \times 10^{-11}$'
+    distractors:
+      B: 'Nitrite ion ($\mathrm{NO_2^-}$): $K_b = 2.5 \times 10^{-11}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      C: 'Fluoride ion ($\mathrm{F^-}$): $K_b = 1.4 \times 10^{-11}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      D: 'Formate ion ($\mathrm{HCOO^-}$): $K_b = 5.6 \times 10^{-11}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+    correct_answer_choice: A
+  - id: BaseStrength-16
+    question_stem: |-
+      Which of the following bases is the weakest based on the $K_b$ values provided?
+    choices:
+      A: 'Bicarbonate ion ($\mathrm{HCO_3^-}$): $K_b = 2.3 \times 10^{-8}$'
+      B: 'Ammonia ($\mathrm{NH_3}$): $K_b = 1.8 \times 10^{-5}$'
+      C: 'Cyanide ion ($\mathrm{CN^-}$): $K_b = 1.6 \times 10^{-5}$'
+      D: 'Pyridine ($\mathrm{C_5H_5N}$): $K_b = 1.8 \times 10^{-9}$'
+    distractors:
+      A: 'Bicarbonate ion ($\mathrm{HCO_3^-}$): $K_b = 2.3 \times 10^{-8}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      B: 'Ammonia ($\mathrm{NH_3}$): $K_b = 1.8 \times 10^{-5}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      C: 'Cyanide ion ($\mathrm{CN^-}$): $K_b = 1.6 \times 10^{-5}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+    correct_answer_choice: D
+  - id: BaseStrength-17
+    question_stem: |-
+      Which of the following bases is the strongest based on the $K_b$ values provided?
+    choices:
+      A: 'Hydroxylamine ($\mathrm{NH_2OH}$): $K_b = 1.1 \times 10^{-8}$'
+      B: 'Hydrazine ($\mathrm{N_2H_4}$): $K_b = 1.3 \times 10^{-6}$'
+      C: 'Acetate ion ($\mathrm{CH_3COO^-}$): $K_b = 5.7 \times 10^{-10}$'
+      D: 'Pyridine ($\mathrm{C_5H_5N}$): $K_b = 1.8 \times 10^{-9}$'
+    distractors:
+      A: 'Hydroxylamine ($\mathrm{NH_2OH}$): $K_b = 1.1 \times 10^{-8}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      C: 'Acetate ion ($\mathrm{CH_3COO^-}$): $K_b = 5.7 \times 10^{-10}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      D: 'Pyridine ($\mathrm{C_5H_5N}$): $K_b = 1.8 \times 10^{-9}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+    correct_answer_choice: B
+  - id: BaseStrength-18
+    question_stem: |-
+      Which of the following bases is the weakest based on the $K_b$ values provided?
+    choices:
+      A: 'Dimethylamine ($\mathrm{(CH_3)_2NH}$): $K_b = 5.4 \times 10^{-4}$'
+      B: 'Trimethylamine ($\mathrm{(CH_3)_3N}$): $K_b = 6.5 \times 10^{-5}$'
+      C: 'Ammonia ($\mathrm{NH_3}$): $K_b = 1.8 \times 10^{-5}$'
+      D: 'Hypochlorite ion ($\mathrm{ClO^-}$): $K_b = 2.9 \times 10^{-7}$'
+    distractors:
+      A: 'Dimethylamine ($\mathrm{(CH_3)_2NH}$): $K_b = 5.4 \times 10^{-4}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      B: 'Trimethylamine ($\mathrm{(CH_3)_3N}$): $K_b = 6.5 \times 10^{-5}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      C: 'Ammonia ($\mathrm{NH_3}$): $K_b = 1.8 \times 10^{-5}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+    correct_answer_choice: D
+  - id: BaseStrength-19
+    question_stem: |-
+      Which of the following bases is the strongest based on the $K_b$ values provided?
+    choices:
+      A: 'Acetate ion ($\mathrm{CH_3COO^-}$): $K_b = 5.7 \times 10^{-10}$'
+      B: 'Formate ion ($\mathrm{HCOO^-}$): $K_b = 5.6 \times 10^{-11}$'
+      C: 'Benzoate ion ($\mathrm{C_6H_5COO^-}$): $K_b = 1.5 \times 10^{-10}$'
+      D: 'Cyanide ion ($\mathrm{CN^-}$): $K_b = 1.6 \times 10^{-5}$'
+    distractors:
+      A: 'Acetate ion ($\mathrm{CH_3COO^-}$): $K_b = 5.7 \times 10^{-10}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      B: 'Formate ion ($\mathrm{HCOO^-}$): $K_b = 5.6 \times 10^{-11}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+      C: 'Benzoate ion ($\mathrm{C_6H_5COO^-}$): $K_b = 1.5 \times 10^{-10}$' # Incorrect. This value is smaller than the largest $K_b$ in the set.
+    correct_answer_choice: D
+  - id: BaseStrength-20
+    question_stem: |-
+      Which of the following bases is the weakest based on the $K_b$ values provided?
+    choices:
+      A: 'Pyridine ($\mathrm{C_5H_5N}$): $K_b = 1.8 \times 10^{-9}$'
+      B: 'Methylamine ($\mathrm{CH_3NH_2}$): $K_b = 4.4 \times 10^{-4}$'
+      C: 'Hydrazine ($\mathrm{N_2H_4}$): $K_b = 1.3 \times 10^{-6}$'
+      D: 'Hydroxylamine ($\mathrm{NH_2OH}$): $K_b = 1.1 \times 10^{-8}$'
+    distractors:
+      B: 'Methylamine ($\mathrm{CH_3NH_2}$): $K_b = 4.4 \times 10^{-4}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      C: 'Hydrazine ($\mathrm{N_2H_4}$): $K_b = 1.3 \times 10^{-6}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+      D: 'Hydroxylamine ($\mathrm{NH_2OH}$): $K_b = 1.1 \times 10^{-8}$' # Incorrect. This value is larger than the smallest $K_b$ in the set.
+    correct_answer_choice: A
