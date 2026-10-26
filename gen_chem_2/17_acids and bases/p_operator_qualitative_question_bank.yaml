@@ -1,0 +1,163 @@
+title: "Qualitative Comparison of pH and Hydronium-Ion Concentration"
+date_created: "2026-10-26"
+learning_objective: "Quantify acidity and basicity using the p operator."
+author: "Julie Donnelly"
+notation: "The pH is defined as $\\mathrm{pH} = -\\log[\\mathrm{H_3O^+}]$. Therefore, pH decreases as hydronium-ion concentration increases."
+question_count: 12
+questions:
+  - id: pOperator-01
+    question_stem: |-
+      Which solution has the highest hydronium-ion concentration, $[\mathrm{H_3O^+}]$, as indicated by its pH?
+    choices:
+      A: 'A solution with pH = 2.5'
+      B: 'A solution with pH = 5.0'
+      C: 'A solution with pH = 7.0'
+      D: 'A solution with pH = 9.5'
+    distractors:
+      B: 'A solution with pH = 5.0' # Its pH is higher than 2.5, so its hydronium-ion concentration is lower.
+      C: 'A solution with pH = 7.0' # Its pH is higher than 2.5 and 5.0, so its hydronium-ion concentration is lower than in those solutions.
+      D: 'A solution with pH = 9.5' # It has the highest pH listed, so it has the lowest hydronium-ion concentration.
+    correct_answer_choice: A
+  - id: pOperator-02
+    question_stem: |-
+      Which solution has the highest hydronium-ion concentration, $[\mathrm{H_3O^+}]$, as indicated by its pH?
+    choices:
+      A: 'A solution with pH = 8.4'
+      B: 'A solution with pH = 6.2'
+      C: 'A solution with pH = 3.1'
+      D: 'A solution with pH = 11.0'
+    distractors:
+      A: 'A solution with pH = 8.4' # Its pH is higher than 3.1, so its hydronium-ion concentration is lower.
+      B: 'A solution with pH = 6.2' # Its pH is higher than 3.1, so its hydronium-ion concentration is lower.
+      D: 'A solution with pH = 11.0' # It has the highest pH listed, so it has the lowest hydronium-ion concentration.
+    correct_answer_choice: C
+  - id: pOperator-03
+    question_stem: |-
+      Which solution has the highest hydronium-ion concentration, $[\mathrm{H_3O^+}]$, as indicated by its pH?
+    choices:
+      A: 'A solution with pH = 10.6'
+      B: 'A solution with pH = 4.8'
+      C: 'A solution with pH = 7.3'
+      D: 'A solution with pH = 1.9'
+    distractors:
+      A: 'A solution with pH = 10.6' # It has the highest pH listed, so it has the lowest hydronium-ion concentration.
+      B: 'A solution with pH = 4.8' # Its pH is higher than 1.9, so its hydronium-ion concentration is lower.
+      C: 'A solution with pH = 7.3' # Its pH is higher than 1.9 and 4.8, so its hydronium-ion concentration is lower than in those solutions.
+    correct_answer_choice: D
+  - id: pOperator-04
+    question_stem: |-
+      Which solution has the lowest hydronium-ion concentration, $[\mathrm{H_3O^+}]$, as indicated by its pH?
+    choices:
+      A: 'A solution with pH = 3.0'
+      B: 'A solution with pH = 6.5'
+      C: 'A solution with pH = 8.0'
+      D: 'A solution with pH = 11.5'
+    distractors:
+      A: 'A solution with pH = 3.0' # It has the lowest pH listed, so it has the highest hydronium-ion concentration.
+      B: 'A solution with pH = 6.5' # Its pH is lower than 11.5, so its hydronium-ion concentration is higher.
+      C: 'A solution with pH = 8.0' # Its pH is lower than 11.5, so its hydronium-ion concentration is higher.
+    correct_answer_choice: D
+  - id: pOperator-05
+    question_stem: |-
+      Which solution has the lowest hydronium-ion concentration, $[\mathrm{H_3O^+}]$, as indicated by its pH?
+    choices:
+      A: 'A solution with pH = 9.8'
+      B: 'A solution with pH = 4.2'
+      C: 'A solution with pH = 7.0'
+      D: 'A solution with pH = 2.6'
+    distractors:
+      B: 'A solution with pH = 4.2' # Its pH is lower than 9.8, so its hydronium-ion concentration is higher.
+      C: 'A solution with pH = 7.0' # Its pH is lower than 9.8, so its hydronium-ion concentration is higher.
+      D: 'A solution with pH = 2.6' # It has the lowest pH listed, so it has the highest hydronium-ion concentration.
+    correct_answer_choice: A
+  - id: pOperator-06
+    question_stem: |-
+      Which solution has the lowest hydronium-ion concentration, $[\mathrm{H_3O^+}]$, as indicated by its pH?
+    choices:
+      A: 'A solution with pH = 5.7'
+      B: 'A solution with pH = 12.1'
+      C: 'A solution with pH = 3.4'
+      D: 'A solution with pH = 8.6'
+    distractors:
+      A: 'A solution with pH = 5.7' # Its pH is lower than 12.1, so its hydronium-ion concentration is higher.
+      C: 'A solution with pH = 3.4' # It has the lowest pH listed, so it has the highest hydronium-ion concentration.
+      D: 'A solution with pH = 8.6' # Its pH is lower than 12.1, so its hydronium-ion concentration is higher.
+    correct_answer_choice: B
+  - id: pOperator-07
+    question_stem: |-
+      Which solution has the highest pH, as indicated by its hydronium-ion concentration, $[\mathrm{H_3O^+}]$?
+    choices:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 3.0 \times 10^{-3}\ \mathrm{M}$'
+      B: 'A solution with $[\mathrm{H_3O^+}] = 3.0 \times 10^{-5}\ \mathrm{M}$'
+      C: 'A solution with $[\mathrm{H_3O^+}] = 3.0 \times 10^{-7}\ \mathrm{M}$'
+      D: 'A solution with $[\mathrm{H_3O^+}] = 3.0 \times 10^{-10}\ \mathrm{M}$'
+    distractors:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 3.0 \times 10^{-3}\ \mathrm{M}$' # It has the highest hydronium-ion concentration listed, so it has the lowest pH.
+      B: 'A solution with $[\mathrm{H_3O^+}] = 3.0 \times 10^{-5}\ \mathrm{M}$' # Its hydronium-ion concentration is higher than those in choices C and D, so its pH is lower.
+      C: 'A solution with $[\mathrm{H_3O^+}] = 3.0 \times 10^{-7}\ \mathrm{M}$' # Its hydronium-ion concentration is higher than that in choice D, so its pH is lower.
+    correct_answer_choice: D
+  - id: pOperator-08
+    question_stem: |-
+      Which solution has the highest pH, as indicated by its hydronium-ion concentration, $[\mathrm{H_3O^+}]$?
+    choices:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 8.0 \times 10^{-9}\ \mathrm{M}$'
+      B: 'A solution with $[\mathrm{H_3O^+}] = 8.0 \times 10^{-4}\ \mathrm{M}$'
+      C: 'A solution with $[\mathrm{H_3O^+}] = 8.0 \times 10^{-6}\ \mathrm{M}$'
+      D: 'A solution with $[\mathrm{H_3O^+}] = 8.0 \times 10^{-2}\ \mathrm{M}$'
+    distractors:
+      B: 'A solution with $[\mathrm{H_3O^+}] = 8.0 \times 10^{-4}\ \mathrm{M}$' # Its hydronium-ion concentration is higher than that in choice A, so its pH is lower.
+      C: 'A solution with $[\mathrm{H_3O^+}] = 8.0 \times 10^{-6}\ \mathrm{M}$' # Its hydronium-ion concentration is higher than that in choice A, so its pH is lower.
+      D: 'A solution with $[\mathrm{H_3O^+}] = 8.0 \times 10^{-2}\ \mathrm{M}$' # It has the highest hydronium-ion concentration listed, so it has the lowest pH.
+    correct_answer_choice: A
+  - id: pOperator-09
+    question_stem: |-
+      Which solution has the highest pH, as indicated by its hydronium-ion concentration, $[\mathrm{H_3O^+}]$?
+    choices:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 5.0 \times 10^{-5}\ \mathrm{M}$'
+      B: 'A solution with $[\mathrm{H_3O^+}] = 5.0 \times 10^{-11}\ \mathrm{M}$'
+      C: 'A solution with $[\mathrm{H_3O^+}] = 5.0 \times 10^{-3}\ \mathrm{M}$'
+      D: 'A solution with $[\mathrm{H_3O^+}] = 5.0 \times 10^{-7}\ \mathrm{M}$'
+    distractors:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 5.0 \times 10^{-5}\ \mathrm{M}$' # Its hydronium-ion concentration is higher than those in choices B and D, so its pH is lower.
+      C: 'A solution with $[\mathrm{H_3O^+}] = 5.0 \times 10^{-3}\ \mathrm{M}$' # It has the highest hydronium-ion concentration listed, so it has the lowest pH.
+      D: 'A solution with $[\mathrm{H_3O^+}] = 5.0 \times 10^{-7}\ \mathrm{M}$' # Its hydronium-ion concentration is higher than that in choice B, so its pH is lower.
+    correct_answer_choice: B
+  - id: pOperator-10
+    question_stem: |-
+      Which solution has the lowest pH, as indicated by its hydronium-ion concentration, $[\mathrm{H_3O^+}]$?
+    choices:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 6.0 \times 10^{-9}\ \mathrm{M}$'
+      B: 'A solution with $[\mathrm{H_3O^+}] = 6.0 \times 10^{-6}\ \mathrm{M}$'
+      C: 'A solution with $[\mathrm{H_3O^+}] = 6.0 \times 10^{-2}\ \mathrm{M}$'
+      D: 'A solution with $[\mathrm{H_3O^+}] = 6.0 \times 10^{-7}\ \mathrm{M}$'
+    distractors:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 6.0 \times 10^{-9}\ \mathrm{M}$' # It has the lowest hydronium-ion concentration listed, so it has the highest pH.
+      B: 'A solution with $[\mathrm{H_3O^+}] = 6.0 \times 10^{-6}\ \mathrm{M}$' # Its hydronium-ion concentration is lower than that in choice C, so its pH is higher.
+      D: 'A solution with $[\mathrm{H_3O^+}] = 6.0 \times 10^{-7}\ \mathrm{M}$' # Its hydronium-ion concentration is lower than those in choices B and C, so its pH is higher.
+    correct_answer_choice: C
+  - id: pOperator-11
+    question_stem: |-
+      Which solution has the lowest pH, as indicated by its hydronium-ion concentration, $[\mathrm{H_3O^+}]$?
+    choices:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 2.0 \times 10^{-8}\ \mathrm{M}$'
+      B: 'A solution with $[\mathrm{H_3O^+}] = 2.0 \times 10^{-4}\ \mathrm{M}$'
+      C: 'A solution with $[\mathrm{H_3O^+}] = 2.0 \times 10^{-10}\ \mathrm{M}$'
+      D: 'A solution with $[\mathrm{H_3O^+}] = 2.0 \times 10^{-6}\ \mathrm{M}$'
+    distractors:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 2.0 \times 10^{-8}\ \mathrm{M}$' # Its hydronium-ion concentration is lower than those in choices B and D, so its pH is higher.
+      C: 'A solution with $[\mathrm{H_3O^+}] = 2.0 \times 10^{-10}\ \mathrm{M}$' # It has the lowest hydronium-ion concentration listed, so it has the highest pH.
+      D: 'A solution with $[\mathrm{H_3O^+}] = 2.0 \times 10^{-6}\ \mathrm{M}$' # Its hydronium-ion concentration is lower than that in choice B, so its pH is higher.
+    correct_answer_choice: B
+  - id: pOperator-12
+    question_stem: |-
+      Which solution has the lowest pH, as indicated by its hydronium-ion concentration, $[\mathrm{H_3O^+}]$?
+    choices:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 4.0 \times 10^{-7}\ \mathrm{M}$'
+      B: 'A solution with $[\mathrm{H_3O^+}] = 4.0 \times 10^{-9}\ \mathrm{M}$'
+      C: 'A solution with $[\mathrm{H_3O^+}] = 4.0 \times 10^{-5}\ \mathrm{M}$'
+      D: 'A solution with $[\mathrm{H_3O^+}] = 4.0 \times 10^{-1}\ \mathrm{M}$'
+    distractors:
+      A: 'A solution with $[\mathrm{H_3O^+}] = 4.0 \times 10^{-7}\ \mathrm{M}$' # Its hydronium-ion concentration is lower than those in choices C and D, so its pH is higher.
+      B: 'A solution with $[\mathrm{H_3O^+}] = 4.0 \times 10^{-9}\ \mathrm{M}$' # It has the lowest hydronium-ion concentration listed, so it has the highest pH.
+      C: 'A solution with $[\mathrm{H_3O^+}] = 4.0 \times 10^{-5}\ \mathrm{M}$' # Its hydronium-ion concentration is lower than that in choice D, so its pH is higher.
+    correct_answer_choice: D
