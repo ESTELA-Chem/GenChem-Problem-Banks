@@ -1,0 +1,202 @@
+title: "Buffer Action and Resistance to pH Change"
+date_created: "2026-10-26"
+learning_objective: "Explain the action of a buffer to resist changes in pH."
+author: "Julie Donnelly"
+notation: "Added strong base is consumed primarily by the weakly acidic buffer component, while added strong acid is consumed primarily by the weakly basic buffer component. Chemical names and formulas are provided for all species."
+question_count: 15
+questions:
+  - id: BufferAction-01
+    question_stem: |-
+      A solution contains approximately equal concentrations of acetic acid, $\mathrm{CH_3COOH}$, and sodium acetate, $\mathrm{CH_3COONa}$, in water. Adding a small amount of sodium hydroxide, $\mathrm{NaOH}$, causes the pH to rise only slightly because the hydroxide ions, $\mathrm{OH^-}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Acetic acid, $\mathrm{CH_3COOH}$'
+      B: 'Acetate ions, $\mathrm{CH_3COO^-}$'
+      C: 'Sodium ions, $\mathrm{Na^+}$'
+      D: 'Water, $\mathrm{H_2O}$'
+    distractors:
+      B: 'Acetate ions, $\mathrm{CH_3COO^-}$' # Acetate ions primarily neutralize added strong acid, not added strong base.
+      C: 'Sodium ions, $\mathrm{Na^+}$' # Sodium ions are spectators and do not provide the buffering action.
+      D: 'Water, $\mathrm{H_2O}$' # Water is the solvent, not the principal buffer component that consumes the added hydroxide ions.
+    correct_answer_choice: A
+  - id: BufferAction-02
+    question_stem: |-
+      A solution contains approximately equal concentrations of acetic acid, $\mathrm{CH_3COOH}$, and potassium acetate, $\mathrm{CH_3COOK}$, in water. Adding a small amount of hydrochloric acid, $\mathrm{HCl}$, causes the pH to decrease only slightly because the hydronium ions, $\mathrm{H_3O^+}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Acetic acid, $\mathrm{CH_3COOH}$'
+      B: 'Potassium ions, $\mathrm{K^+}$'
+      C: 'Acetate ions, $\mathrm{CH_3COO^-}$'
+      D: 'Water, $\mathrm{H_2O}$'
+    distractors:
+      A: 'Acetic acid, $\mathrm{CH_3COOH}$' # Acetic acid primarily neutralizes added strong base, not added strong acid.
+      B: 'Potassium ions, $\mathrm{K^+}$' # Potassium ions are spectators and do not provide the buffering action.
+      D: 'Water, $\mathrm{H_2O}$' # Water is not the principal buffer component that consumes the added hydronium ions.
+    correct_answer_choice: C
+  - id: BufferAction-03
+    question_stem: |-
+      A solution contains approximately equal concentrations of formic acid, $\mathrm{HCOOH}$, and sodium formate, $\mathrm{HCOONa}$, in water. Adding a small amount of potassium hydroxide, $\mathrm{KOH}$, causes the pH to rise only slightly because the hydroxide ions, $\mathrm{OH^-}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Formate ions, $\mathrm{HCOO^-}$'
+      B: 'Sodium ions, $\mathrm{Na^+}$'
+      C: 'Formic acid, $\mathrm{HCOOH}$'
+      D: 'Potassium ions, $\mathrm{K^+}$'
+    distractors:
+      A: 'Formate ions, $\mathrm{HCOO^-}$' # Formate ions primarily neutralize added strong acid, not added strong base.
+      B: 'Sodium ions, $\mathrm{Na^+}$' # Sodium ions are spectators.
+      D: 'Potassium ions, $\mathrm{K^+}$' # Potassium ions introduced with potassium hydroxide are spectators.
+    correct_answer_choice: C
+  - id: BufferAction-04
+    question_stem: |-
+      A solution contains approximately equal concentrations of benzoic acid, $\mathrm{C_6H_5COOH}$, and sodium benzoate, $\mathrm{C_6H_5COONa}$, in water. Adding a small amount of nitric acid, $\mathrm{HNO_3}$, causes the pH to decrease only slightly because the hydronium ions, $\mathrm{H_3O^+}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Benzoate ions, $\mathrm{C_6H_5COO^-}$'
+      B: 'Benzoic acid, $\mathrm{C_6H_5COOH}$'
+      C: 'Sodium ions, $\mathrm{Na^+}$'
+      D: 'Nitrate ions, $\mathrm{NO_3^-}$'
+    distractors:
+      B: 'Benzoic acid, $\mathrm{C_6H_5COOH}$' # Benzoic acid primarily neutralizes added strong base.
+      C: 'Sodium ions, $\mathrm{Na^+}$' # Sodium ions are spectators.
+      D: 'Nitrate ions, $\mathrm{NO_3^-}$' # Nitrate ions introduced with nitric acid are spectators.
+    correct_answer_choice: A
+  - id: BufferAction-05
+    question_stem: |-
+      A solution contains approximately equal concentrations of hydrofluoric acid, $\mathrm{HF}$, and potassium fluoride, $\mathrm{KF}$, in water. Adding a small amount of lithium hydroxide, $\mathrm{LiOH}$, causes the pH to rise only slightly because the hydroxide ions, $\mathrm{OH^-}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Fluoride ions, $\mathrm{F^-}$'
+      B: 'Potassium ions, $\mathrm{K^+}$'
+      C: 'Lithium ions, $\mathrm{Li^+}$'
+      D: 'Hydrofluoric acid, $\mathrm{HF}$'
+    distractors:
+      A: 'Fluoride ions, $\mathrm{F^-}$' # Fluoride ions primarily neutralize added strong acid.
+      B: 'Potassium ions, $\mathrm{K^+}$' # Potassium ions are spectators.
+      C: 'Lithium ions, $\mathrm{Li^+}$' # Lithium ions introduced with lithium hydroxide are spectators.
+    correct_answer_choice: D
+  - id: BufferAction-06
+    question_stem: |-
+      A solution contains approximately equal concentrations of nitrous acid, $\mathrm{HNO_2}$, and sodium nitrite, $\mathrm{NaNO_2}$, in water. Adding a small amount of hydrobromic acid, $\mathrm{HBr}$, causes the pH to decrease only slightly because the hydronium ions, $\mathrm{H_3O^+}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Nitrous acid, $\mathrm{HNO_2}$'
+      B: 'Nitrite ions, $\mathrm{NO_2^-}$'
+      C: 'Sodium ions, $\mathrm{Na^+}$'
+      D: 'Bromide ions, $\mathrm{Br^-}$'
+    distractors:
+      A: 'Nitrous acid, $\mathrm{HNO_2}$' # Nitrous acid primarily neutralizes added strong base.
+      C: 'Sodium ions, $\mathrm{Na^+}$' # Sodium ions are spectators.
+      D: 'Bromide ions, $\mathrm{Br^-}$' # Bromide ions introduced with hydrobromic acid are spectators.
+    correct_answer_choice: B
+  - id: BufferAction-07
+    question_stem: |-
+      A solution contains approximately equal concentrations of hypochlorous acid, $\mathrm{HClO}$, and sodium hypochlorite, $\mathrm{NaClO}$, in water. Adding a small amount of barium hydroxide, $\mathrm{Ba(OH)_2}$, causes the pH to rise only slightly because the hydroxide ions, $\mathrm{OH^-}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Hypochlorite ions, $\mathrm{ClO^-}$'
+      B: 'Barium ions, $\mathrm{Ba^{2+}}$'
+      C: 'Hypochlorous acid, $\mathrm{HClO}$'
+      D: 'Sodium ions, $\mathrm{Na^+}$'
+    distractors:
+      A: 'Hypochlorite ions, $\mathrm{ClO^-}$' # Hypochlorite ions primarily neutralize added strong acid.
+      B: 'Barium ions, $\mathrm{Ba^{2+}}$' # Barium ions are spectators in the acid-base reaction.
+      D: 'Sodium ions, $\mathrm{Na^+}$' # Sodium ions are spectators.
+    correct_answer_choice: C
+  - id: BufferAction-08
+    question_stem: |-
+      A solution contains approximately equal concentrations of carbonic acid, $\mathrm{H_2CO_3}$, and sodium bicarbonate, $\mathrm{NaHCO_3}$, in water. Adding a small amount of perchloric acid, $\mathrm{HClO_4}$, causes the pH to decrease only slightly because the hydronium ions, $\mathrm{H_3O^+}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Carbonic acid, $\mathrm{H_2CO_3}$'
+      B: 'Sodium ions, $\mathrm{Na^+}$'
+      C: 'Perchlorate ions, $\mathrm{ClO_4^-}$'
+      D: 'Bicarbonate ions, $\mathrm{HCO_3^-}$'
+    distractors:
+      A: 'Carbonic acid, $\mathrm{H_2CO_3}$' # Carbonic acid primarily neutralizes added strong base.
+      B: 'Sodium ions, $\mathrm{Na^+}$' # Sodium ions are spectators.
+      C: 'Perchlorate ions, $\mathrm{ClO_4^-}$' # Perchlorate ions introduced with perchloric acid are spectators.
+    correct_answer_choice: D
+  - id: BufferAction-09
+    question_stem: |-
+      A solution contains approximately equal concentrations of sodium bicarbonate, $\mathrm{NaHCO_3}$, and sodium carbonate, $\mathrm{Na_2CO_3}$, in water. Adding a small amount of potassium hydroxide, $\mathrm{KOH}$, causes the pH to rise only slightly because the hydroxide ions, $\mathrm{OH^-}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Bicarbonate ions, $\mathrm{HCO_3^-}$'
+      B: 'Carbonate ions, $\mathrm{CO_3^{2-}}$'
+      C: 'Sodium ions, $\mathrm{Na^+}$'
+      D: 'Potassium ions, $\mathrm{K^+}$'
+    distractors:
+      B: 'Carbonate ions, $\mathrm{CO_3^{2-}}$' # Carbonate ions are the weakly basic member and primarily consume added strong acid.
+      C: 'Sodium ions, $\mathrm{Na^+}$' # Sodium ions are spectators.
+      D: 'Potassium ions, $\mathrm{K^+}$' # Potassium ions introduced with potassium hydroxide are spectators.
+    correct_answer_choice: A
+  - id: BufferAction-10
+    question_stem: |-
+      A solution contains approximately equal concentrations of phosphoric acid, $\mathrm{H_3PO_4}$, and sodium dihydrogen phosphate, $\mathrm{NaH_2PO_4}$, in water. Adding a small amount of nitric acid, $\mathrm{HNO_3}$, causes the pH to decrease only slightly because the hydronium ions, $\mathrm{H_3O^+}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Phosphoric acid, $\mathrm{H_3PO_4}$'
+      B: 'Dihydrogen phosphate ions, $\mathrm{H_2PO_4^-}$'
+      C: 'Sodium ions, $\mathrm{Na^+}$'
+      D: 'Nitrate ions, $\mathrm{NO_3^-}$'
+    distractors:
+      A: 'Phosphoric acid, $\mathrm{H_3PO_4}$' # Phosphoric acid is the acidic member and primarily consumes added strong base.
+      C: 'Sodium ions, $\mathrm{Na^+}$' # Sodium ions are spectators.
+      D: 'Nitrate ions, $\mathrm{NO_3^-}$' # Nitrate ions introduced with nitric acid are spectators.
+    correct_answer_choice: B
+  - id: BufferAction-11
+    question_stem: |-
+      A solution contains approximately equal concentrations of sodium dihydrogen phosphate, $\mathrm{NaH_2PO_4}$, and sodium hydrogen phosphate, $\mathrm{Na_2HPO_4}$, in water. Adding a small amount of sodium hydroxide, $\mathrm{NaOH}$, causes the pH to rise only slightly because the hydroxide ions, $\mathrm{OH^-}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Hydrogen phosphate ions, $\mathrm{HPO_4^{2-}}$'
+      B: 'Sodium ions, $\mathrm{Na^+}$'
+      C: 'Dihydrogen phosphate ions, $\mathrm{H_2PO_4^-}$'
+      D: 'Water, $\mathrm{H_2O}$'
+    distractors:
+      A: 'Hydrogen phosphate ions, $\mathrm{HPO_4^{2-}}$' # Hydrogen phosphate ions are the weakly basic member and primarily consume added strong acid.
+      B: 'Sodium ions, $\mathrm{Na^+}$' # Sodium ions are spectators.
+      D: 'Water, $\mathrm{H_2O}$' # Water is not the principal buffer component that consumes the added base.
+    correct_answer_choice: C
+  - id: BufferAction-12
+    question_stem: |-
+      A solution contains approximately equal concentrations of ammonia, $\mathrm{NH_3}$, and ammonium chloride, $\mathrm{NH_4Cl}$, in water. Adding a small amount of hydrochloric acid, $\mathrm{HCl}$, causes the pH to decrease only slightly because the hydronium ions, $\mathrm{H_3O^+}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Ammonia, $\mathrm{NH_3}$'
+      B: 'Ammonium ions, $\mathrm{NH_4^+}$'
+      C: 'Chloride ions, $\mathrm{Cl^-}$'
+      D: 'Water, $\mathrm{H_2O}$'
+    distractors:
+      B: 'Ammonium ions, $\mathrm{NH_4^+}$' # Ammonium ions are the acidic member and primarily consume added strong base.
+      C: 'Chloride ions, $\mathrm{Cl^-}$' # Chloride ions are spectators.
+      D: 'Water, $\mathrm{H_2O}$' # Water is not the principal buffer component that consumes the added acid.
+    correct_answer_choice: A
+  - id: BufferAction-13
+    question_stem: |-
+      A solution contains approximately equal concentrations of ammonia, $\mathrm{NH_3}$, and ammonium nitrate, $\mathrm{NH_4NO_3}$, in water. Adding a small amount of strontium hydroxide, $\mathrm{Sr(OH)_2}$, causes the pH to rise only slightly because the hydroxide ions, $\mathrm{OH^-}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Ammonia, $\mathrm{NH_3}$'
+      B: 'Nitrate ions, $\mathrm{NO_3^-}$'
+      C: 'Strontium ions, $\mathrm{Sr^{2+}}$'
+      D: 'Ammonium ions, $\mathrm{NH_4^+}$'
+    distractors:
+      A: 'Ammonia, $\mathrm{NH_3}$' # Ammonia is the weakly basic member and primarily consumes added strong acid.
+      B: 'Nitrate ions, $\mathrm{NO_3^-}$' # Nitrate ions are spectators.
+      C: 'Strontium ions, $\mathrm{Sr^{2+}}$' # Strontium ions introduced with strontium hydroxide are spectators.
+    correct_answer_choice: D
+  - id: BufferAction-14
+    question_stem: |-
+      A solution contains approximately equal concentrations of methylamine, $\mathrm{CH_3NH_2}$, and methylammonium chloride, $\mathrm{CH_3NH_3Cl}$, in water. Adding a small amount of hydroiodic acid, $\mathrm{HI}$, causes the pH to decrease only slightly because the hydronium ions, $\mathrm{H_3O^+}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Methylammonium ions, $\mathrm{CH_3NH_3^+}$'
+      B: 'Chloride ions, $\mathrm{Cl^-}$'
+      C: 'Methylamine, $\mathrm{CH_3NH_2}$'
+      D: 'Iodide ions, $\mathrm{I^-}$'
+    distractors:
+      A: 'Methylammonium ions, $\mathrm{CH_3NH_3^+}$' # Methylammonium ions are the acidic member and primarily consume added strong base.
+      B: 'Chloride ions, $\mathrm{Cl^-}$' # Chloride ions are spectators.
+      D: 'Iodide ions, $\mathrm{I^-}$' # Iodide ions introduced with hydroiodic acid are spectators.
+    correct_answer_choice: C
+  - id: BufferAction-15
+    question_stem: |-
+      A solution contains approximately equal concentrations of methylamine, $\mathrm{CH_3NH_2}$, and methylammonium bromide, $\mathrm{CH_3NH_3Br}$, in water. Adding a small amount of calcium hydroxide, $\mathrm{Ca(OH)_2}$, causes the pH to rise only slightly because the hydroxide ions, $\mathrm{OH^-}$, react mainly with the ________ in the buffer.
+    choices:
+      A: 'Methylammonium ions, $\mathrm{CH_3NH_3^+}$'
+      B: 'Methylamine, $\mathrm{CH_3NH_2}$'
+      C: 'Bromide ions, $\mathrm{Br^-}$'
+      D: 'Calcium ions, $\mathrm{Ca^{2+}}$'
+    distractors:
+      B: 'Methylamine, $\mathrm{CH_3NH_2}$' # Methylamine is the weakly basic member and primarily consumes added strong acid.
+      C: 'Bromide ions, $\mathrm{Br^-}$' # Bromide ions are spectators.
+      D: 'Calcium ions, $\mathrm{Ca^{2+}}$' # Calcium ions introduced with calcium hydroxide are spectators.
+    correct_answer_choice: A
