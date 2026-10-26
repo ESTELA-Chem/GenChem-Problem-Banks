@@ -1,0 +1,202 @@
+title: "Identifying Components of Effective Buffers"
+date_created: "2026-10-26"
+learning_objective: "Define and identify the components of a buffer, including a conjugate acid-base pair present at comparable concentrations."
+author: "Julie Donnelly"
+notation: "An effective buffer contains appreciable amounts of a weak acid and its conjugate base, or a weak base and its conjugate acid. The conjugate partners differ by one proton and are present at comparable concentrations."
+question_count: 15
+questions:
+  - id: BufferComponents-01
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.10 M $\mathrm{HCl}$ and 0.10 M $\mathrm{NaCl}$'
+      B: '0.10 M $\mathrm{CH_3COOH}$ and 0.10 M $\mathrm{CH_3COONa}$'
+      C: '0.10 M $\mathrm{CH_3COOH}$ and 0.10 M $\mathrm{NaCl}$'
+      D: '0.0010 M $\mathrm{CH_3COOH}$ and 0.10 M $\mathrm{CH_3COONa}$'
+    distractors:
+      A: '0.10 M $\mathrm{HCl}$ and 0.10 M $\mathrm{NaCl}$' # $\mathrm{HCl}$ is a strong acid, and $\mathrm{Cl^-}$ is an ineffective conjugate base.
+      C: '0.10 M $\mathrm{CH_3COOH}$ and 0.10 M $\mathrm{NaCl}$' # $\mathrm{Cl^-}$ is not the conjugate base of $\mathrm{CH_3COOH}$.
+      D: '0.0010 M $\mathrm{CH_3COOH}$ and 0.10 M $\mathrm{CH_3COONa}$' # The conjugate pair is present, but the 100:1 concentration ratio is outside the usual effective buffer range and gives strongly unbalanced capacity.
+    correct_answer_choice: B
+  - id: BufferComponents-02
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.20 M $\mathrm{NH_3}$ and 0.20 M $\mathrm{NH_4Cl}$'
+      B: '0.20 M $\mathrm{NaOH}$ and 0.20 M $\mathrm{NH_4Cl}$'
+      C: '0.20 M $\mathrm{NH_3}$ and 0.20 M $\mathrm{NaCl}$'
+      D: '0.20 M $\mathrm{NH_3}$ and 0.0020 M $\mathrm{NH_4Cl}$'
+    distractors:
+      B: '0.20 M $\mathrm{NaOH}$ and 0.20 M $\mathrm{NH_4Cl}$' # Equal amounts of $\mathrm{NaOH}$ and $\mathrm{NH_4^+}$ react stoichiometrically, converting essentially all $\mathrm{NH_4^+}$ to $\mathrm{NH_3}$ rather than leaving appreciable amounts of both conjugate partners.
+      C: '0.20 M $\mathrm{NH_3}$ and 0.20 M $\mathrm{NaCl}$' # $\mathrm{NaCl}$ does not supply the conjugate acid $\mathrm{NH_4^+}$.
+      D: '0.20 M $\mathrm{NH_3}$ and 0.0020 M $\mathrm{NH_4Cl}$' # The conjugate pair is present, but the 100:1 concentration ratio is outside the usual effective buffer range and gives strongly unbalanced capacity.
+    correct_answer_choice: A
+  - id: BufferComponents-03
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.15 M $\mathrm{HCOOH}$ and 0.15 M $\mathrm{NaNO_3}$'
+      B: '0.15 M $\mathrm{HNO_3}$ and 0.15 M $\mathrm{HCOONa}$'
+      C: '0.15 M $\mathrm{HCOOH}$ and 0.0015 M $\mathrm{HCOONa}$'
+      D: '0.15 M $\mathrm{HCOOH}$ and 0.15 M $\mathrm{HCOONa}$'
+    distractors:
+      A: '0.15 M $\mathrm{HCOOH}$ and 0.15 M $\mathrm{NaNO_3}$' # $\mathrm{NO_3^-}$ is not the conjugate base of $\mathrm{HCOOH}$.
+      B: '0.15 M $\mathrm{HNO_3}$ and 0.15 M $\mathrm{HCOONa}$' # $\mathrm{HNO_3}$ is a strong acid and is not the conjugate acid of HCOO^-.
+      C: '0.15 M $\mathrm{HCOOH}$ and 0.0015 M $\mathrm{HCOONa}$' # The conjugate pair is present, but the 100:1 concentration ratio is outside the usual effective buffer range.
+    correct_answer_choice: D
+  - id: BufferComponents-04
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.12 M $\mathrm{HCl}$ and 0.12 M $\mathrm{NaF}$'
+      B: '0.12 M $\mathrm{HF}$ and 0.12 M $\mathrm{NaF}$'
+      C: '0.12 M $\mathrm{HF}$ and 0.12 M $\mathrm{NaCl}$'
+      D: '0.0012 M $\mathrm{HF}$ and 0.12 M $\mathrm{NaF}$'
+    distractors:
+      A: '0.12 M $\mathrm{HCl}$ and 0.12 M $\mathrm{NaF}$' # Equal amounts of $\mathrm{HCl}$ and $\mathrm{F^-}$ react essentially completely to form $\mathrm{HF}$, rather than leave appreciable amounts of both $\mathrm{HF}$ and $\mathrm{F^-}$.
+      C: '0.12 M $\mathrm{HF}$ and 0.12 M $\mathrm{NaCl}$' # $\mathrm{Cl^-}$ is not the conjugate base of $\mathrm{HF}$.
+      D: '0.0012 M $\mathrm{HF}$ and 0.12 M $\mathrm{NaF}$' # The conjugate pair is present, but the 100:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: B
+  - id: BufferComponents-05
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.080 M $\mathrm{HNO_2}$ and 0.080 M $\mathrm{NaNO_2}$'
+      B: '0.080 M $\mathrm{HNO_3}$ and 0.080 M $\mathrm{NaNO_2}$'
+      C: '0.080 M $\mathrm{HNO_2}$ and 0.080 M $\mathrm{NaNO_3}$'
+      D: '0.080 M $\mathrm{HNO_2}$ and 0.00080 M $\mathrm{NaNO_2}$'
+    distractors:
+      B: '0.080 M $\mathrm{HNO_3}$ and 0.080 M $\mathrm{NaNO_2}$' # $\mathrm{HNO_3}$ is a strong acid and is not the conjugate acid of $\mathrm{NO_2^-}$.
+      C: '0.080 M $\mathrm{HNO_2}$ and 0.080 M $\mathrm{NaNO_3}$' # $\mathrm{NO_3^-}$ is not the conjugate base of $\mathrm{HNO_2}$.
+      D: '0.080 M $\mathrm{HNO_2}$ and 0.00080 M $\mathrm{NaNO_2}$' # The conjugate pair is present, but the 100:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: A
+  - id: BufferComponents-06
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.10 M $\mathrm{$\mathrm{HCl}$O}$ and 0.10 M $\mathrm{NaCl}$'
+      B: '0.10 M $\mathrm{HCl}$ and 0.10 M $\mathrm{$\mathrm{NaCl}$O}$'
+      C: '0.10 M $\mathrm{$\mathrm{HCl}$O}$ and 0.10 M $\mathrm{$\mathrm{NaCl}$O}$'
+      D: '0.10 M $\mathrm{$\mathrm{HCl}$O}$ and 0.0010 M $\mathrm{$\mathrm{NaCl}$O}$'
+    distractors:
+      A: '0.10 M $\mathrm{$\mathrm{HCl}$O}$ and 0.10 M $\mathrm{NaCl}$' # $\mathrm{Cl^-}$ is not the conjugate base of $\mathrm{$\mathrm{HCl}$O}$.
+      B: '0.10 M $\mathrm{HCl}$ and 0.10 M $\mathrm{$\mathrm{NaCl}$O}$' # Equal amounts of $\mathrm{HCl}$ and $\mathrm{ClO^-}$ react essentially completely to form $\mathrm{$\mathrm{HCl}$O}$, rather than leave appreciable amounts of both $\mathrm{$\mathrm{HCl}$O}$ and $\mathrm{ClO^-}$.
+      D: '0.10 M $\mathrm{$\mathrm{HCl}$O}$ and 0.0010 M $\mathrm{$\mathrm{NaCl}$O}$' # The conjugate pair is present, but the 100:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: C
+  - id: BufferComponents-07
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.050 M $\mathrm{H_2CO_3}$ and 0.050 M $\mathrm{NaHCO_3}$'
+      B: '0.050 M $\mathrm{H_2CO_3}$ and 0.050 M $\mathrm{NaCl}$'
+      C: '0.050 M $\mathrm{HCl}$ and 0.050 M $\mathrm{NaHCO_3}$'
+      D: '0.00050 M $\mathrm{H_2CO_3}$ and 0.050 M $\mathrm{NaHCO_3}$'
+    distractors:
+      B: '0.050 M $\mathrm{H_2CO_3}$ and 0.050 M $\mathrm{NaCl}$' # $\mathrm{Cl^-}$ is not the conjugate base of $\mathrm{H_2CO_3}$.
+      C: '0.050 M $\mathrm{HCl}$ and 0.050 M $\mathrm{NaHCO_3}$' # $\mathrm{HCl}$ is a strong acid and reacts stoichiometrically with $\mathrm{HCO_3^-}$ rather than supplying a weak conjugate pair at comparable concentrations.
+      D: '0.00050 M $\mathrm{H_2CO_3}$ and 0.050 M $\mathrm{NaHCO_3}$' # The conjugate pair is present, but the 100:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: A
+  - id: BufferComponents-08
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.20 M $\mathrm{NaHCO_3}$ and 0.20 M $\mathrm{NaCl}$'
+      B: '0.20 M $\mathrm{NaHCO_3}$ and 0.20 M $\mathrm{Na_2CO_3}$'
+      C: '0.20 M $\mathrm{NaHCO_3}$ and 0.20 M $\mathrm{Na_2SO_4}$'
+      D: '0.20 M $\mathrm{NaHCO_3}$ and 0.0020 M $\mathrm{Na_2CO_3}$'
+    distractors:
+      A: '0.20 M $\mathrm{NaHCO_3}$ and 0.20 M $\mathrm{NaCl}$' # $\mathrm{Cl^-}$ is not the conjugate base of $\mathrm{HCO_3^-}$.
+      C: '0.20 M $\mathrm{NaHCO_3}$ and 0.20 M $\mathrm{Na_2SO_4}$' # $\mathrm{SO_4^2-}$ is not the conjugate base of $\mathrm{HCO_3^-}$; these ions are not a conjugate acid-base pair.
+      D: '0.20 M $\mathrm{NaHCO_3}$ and 0.0020 M $\mathrm{Na_2CO_3}$' # The conjugate pair is present, but the 100:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: B
+  - id: BufferComponents-09
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.10 M $\mathrm{H_3PO_4}$ and 0.10 M $\mathrm{NaCl}$'
+      B: '0.10 M $\mathrm{HCl}$ and 0.10 M $\mathrm{NaH_2PO_4}$'
+      C: '0.10 M $\mathrm{H_3PO_4}$ and 0.0010 M $\mathrm{NaH_2PO_4}$'
+      D: '0.10 M $\mathrm{H_3PO_4}$ and 0.10 M $\mathrm{NaH_2PO_4}$'
+    distractors:
+      A: '0.10 M $\mathrm{H_3PO_4}$ and 0.10 M $\mathrm{NaCl}$' # $\mathrm{Cl^-}$ is not the conjugate base of $\mathrm{H_3PO_4}$.
+      B: '0.10 M $\mathrm{HCl}$ and 0.10 M $\mathrm{NaH_2PO_4}$' # $\mathrm{HCl}$ is a strong acid and is not the conjugate acid of $\mathrm{H_2PO_4^-}$.
+      C: '0.10 M $\mathrm{H_3PO_4}$ and 0.0010 M $\mathrm{NaH_2PO_4}$' # The conjugate pair is present, but the 100:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: D
+  - id: BufferComponents-10
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.075 M $\mathrm{NaH_2PO_4}$ and 0.075 M $\mathrm{Na_2HPO_4}$'
+      B: '0.075 M $\mathrm{NaH_2PO_4}$ and 0.075 M $\mathrm{NaCl}$'
+      C: '0.075 M $\mathrm{HCl}$ and 0.075 M $\mathrm{Na_2HPO_4}$'
+      D: '0.075 M $\mathrm{NaH_2PO_4}$ and 0.00075 M $\mathrm{Na_2HPO_4}$'
+    distractors:
+      B: '0.075 M $\mathrm{NaH_2PO_4}$ and 0.075 M $\mathrm{NaCl}$' # $\mathrm{Cl^-}$ is not the conjugate base of $\mathrm{H_2PO_4^-}$.
+      C: '0.075 M $\mathrm{HCl}$ and 0.075 M $\mathrm{Na_2HPO_4}$' # $\mathrm{HCl}$ is a strong acid and reacts stoichiometrically with $\mathrm{HPO_4^2-}$ rather than directly supplying the weak conjugate pair at comparable concentrations.
+      D: '0.075 M $\mathrm{NaH_2PO_4}$ and 0.00075 M $\mathrm{Na_2HPO_4}$' # The conjugate pair is present, but the 100:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: A
+  - id: BufferComponents-11
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.10 M $\mathrm{CH_3NH_2}$ and 0.10 M $\mathrm{NaCl}$'
+      B: '0.10 M $\mathrm{NaOH}$ and 0.10 M $\mathrm{CH_3$\mathrm{NH_3}$Cl}$'
+      C: '0.10 M $\mathrm{CH_3NH_2}$ and 0.10 M $\mathrm{CH_3$\mathrm{NH_3}$Cl}$'
+      D: '0.10 M $\mathrm{CH_3NH_2}$ and 0.0010 M $\mathrm{CH_3$\mathrm{NH_3}$Cl}$'
+    distractors:
+      A: '0.10 M $\mathrm{CH_3NH_2}$ and 0.10 M $\mathrm{NaCl}$' # $\mathrm{NaCl}$ does not provide the conjugate acid $\mathrm{CH_3$\mathrm{NH_3}$^+}$.
+      B: '0.10 M $\mathrm{NaOH}$ and 0.10 M $\mathrm{CH_3$\mathrm{NH_3}$Cl}$' # Equal amounts of $\mathrm{NaOH}$ and $\mathrm{CH_3$\mathrm{NH_3}$^+}$ react stoichiometrically, leaving essentially no appreciable conjugate acid.
+      D: '0.10 M $\mathrm{CH_3NH_2}$ and 0.0010 M $\mathrm{CH_3$\mathrm{NH_3}$Cl}$' # The conjugate pair is present, but the 100:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: C
+  - id: BufferComponents-12
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.060 M $\mathrm{C_6H_5COOH}$ and 0.060 M $\mathrm{NaCl}$'
+      B: '0.060 M $\mathrm{C_6H_5COOH}$ and 0.060 M $\mathrm{C_6H_5COONa}$'
+      C: '0.060 M $\mathrm{HCl}$ and 0.060 M $\mathrm{C_6H_5COONa}$'
+      D: '0.00060 M $\mathrm{C_6H_5COOH}$ and 0.060 M $\mathrm{C_6H_5COONa}$'
+    distractors:
+      A: '0.060 M $\mathrm{C_6H_5COOH}$ and 0.060 M $\mathrm{NaCl}$' # $\mathrm{Cl^-}$ is not the conjugate base of benzoic acid.
+      C: '0.060 M $\mathrm{HCl}$ and 0.060 M $\mathrm{C_6H_5COONa}$' # Equal amounts of $\mathrm{HCl}$ and benzoate react essentially completely to form benzoic acid, rather than leave appreciable amounts of both conjugate partners.
+      D: '0.00060 M $\mathrm{C_6H_5COOH}$ and 0.060 M $\mathrm{C_6H_5COONa}$' # The conjugate pair is present, but the 100:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: B
+  - id: BufferComponents-13
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.120 M $\mathrm{CH_3COOH}$ and 0.080 M $\mathrm{CH_3COONa}$'
+      B: '0.120 M $\mathrm{HCl}$ and 0.080 M $\mathrm{CH_3COONa}$'
+      C: '0.120 M $\mathrm{CH_3COOH}$ and 0.080 M $\mathrm{NaCl}$'
+      D: '0.120 M $\mathrm{CH_3COOH}$ and 0.00080 M $\mathrm{CH_3COONa}$'
+    distractors:
+      B: '0.120 M $\mathrm{HCl}$ and 0.080 M $\mathrm{CH_3COONa}$' # $\mathrm{HCl}$ is a strong acid and is not the conjugate acid of acetate.
+      C: '0.120 M $\mathrm{CH_3COOH}$ and 0.080 M $\mathrm{NaCl}$' # $\mathrm{Cl^-}$ is not the conjugate base of acetic acid.
+      D: '0.120 M $\mathrm{CH_3COOH}$ and 0.00080 M $\mathrm{CH_3COONa}$' # Although the species are conjugate partners, their concentration ratio is outside the usual effective buffer range.
+    correct_answer_choice: A
+  - id: BufferComponents-14
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.050 M $\mathrm{NH_3}$ and 0.050 M $\mathrm{NaCl}$'
+      B: '0.050 M $\mathrm{NaOH}$ and 0.075 M $\mathrm{NH_4Cl}$'
+      C: '0.00050 M $\mathrm{NH_3}$ and 0.075 M $\mathrm{NH_4Cl}$'
+      D: '0.050 M $\mathrm{NH_3}$ and 0.075 M $\mathrm{NH_4Cl}$'
+    distractors:
+      A: '0.050 M $\mathrm{NH_3}$ and 0.050 M $\mathrm{NaCl}$' # $\mathrm{NaCl}$ does not provide the conjugate acid $\mathrm{NH_4^+}$.
+      B: '0.050 M $\mathrm{NaOH}$ and 0.075 M $\mathrm{NH_4Cl}$' # $\mathrm{NaOH}$ is a strong base and reacts with $\mathrm{NH_4^+}$ rather than directly supplying a weak conjugate pair.
+      C: '0.00050 M $\mathrm{NH_3}$ and 0.075 M $\mathrm{NH_4Cl}$' # The conjugate pair is present, but the 150:1 concentration ratio gives strongly unbalanced buffer capacity.
+    correct_answer_choice: D
+  - id: BufferComponents-15
+    question_stem: |-
+      Which mixture will form an effective buffer solution?
+    choices:
+      A: '0.090 M $\mathrm{HNO_2}$ and 0.060 M $\mathrm{NaNO_3}$'
+      B: '0.090 M $\mathrm{HNO_3}$ and 0.060 M $\mathrm{NaNO_2}$'
+      C: '0.090 M $\mathrm{HNO_2}$ and 0.060 M $\mathrm{NaNO_2}$'
+      D: '0.00090 M $\mathrm{HNO_2}$ and 0.060 M $\mathrm{NaNO_2}$'
+    distractors:
+      A: '0.090 M $\mathrm{HNO_2}$ and 0.060 M $\mathrm{NaNO_3}$' # $\mathrm{NO_3^-}$ is not the conjugate base of $\mathrm{HNO_2}$.
+      B: '0.090 M $\mathrm{HNO_3}$ and 0.060 M $\mathrm{NaNO_2}$' # $\mathrm{HNO_3}$ is a strong acid and is not the conjugate acid of $\mathrm{NO_2^-}$.
+      D: '0.00090 M $\mathrm{HNO_2}$ and 0.060 M $\mathrm{NaNO_2}$' # The conjugate pair is present, but the concentration ratio is outside the usual effective buffer range and gives strongly unbalanced capacity.
+    correct_answer_choice: C
