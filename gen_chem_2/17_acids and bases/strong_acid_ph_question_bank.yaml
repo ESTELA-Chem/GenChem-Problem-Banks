@@ -1,0 +1,202 @@
+title: "pH Calculations for Strong Acids"
+date_created: "2026-10-26"
+learning_objective: "Calculate pH values for strong acids."
+author: "Julie Donnelly"
+notation: "Strong monoprotic acids are assumed to ionize completely in water, so $[\\mathrm{H_3O^+}]$ equals the initial acid concentration and $\\mathrm{pH} = -\\log[\\mathrm{H_3O^+}]$."
+question_count: 15
+questions:
+  - id: StrongAcidpH-01
+    question_stem: |-
+      Determine the pH of a 0.150 M aqueous solution of $\mathrm{HBr}$.
+    choices:
+      A: '1.125'
+      B: '0.824'
+      C: '0.150'
+      D: '1.000'
+    distractors:
+      A: '1.125' # Assumes $\mathrm{HBr}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      C: '0.150' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      D: '1.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+    correct_answer_choice: B
+  - id: StrongAcidpH-02
+    question_stem: |-
+      Determine the pH of a 0.0800 M aqueous solution of $\mathrm{HNO_3}$.
+    choices:
+      A: '1.097'
+      B: '1.398'
+      C: '2.000'
+      D: '0.0800'
+    distractors:
+      B: '1.398' # Assumes $\mathrm{HNO_3}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      C: '2.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+      D: '0.0800' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+    correct_answer_choice: A
+  - id: StrongAcidpH-03
+    question_stem: |-
+      Determine the pH of a 0.0250 M aqueous solution of $\mathrm{HClO_4}$.
+    choices:
+      A: '0.0250'
+      B: '1.903'
+      C: '2.000'
+      D: '1.602'
+    distractors:
+      A: '0.0250' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      B: '1.903' # Assumes $\mathrm{HClO_4}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      C: '2.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+    correct_answer_choice: D
+  - id: StrongAcidpH-04
+    question_stem: |-
+      Determine the pH of a 0.400 M aqueous solution of $\mathrm{HI}$.
+    choices:
+      A: '1.000'
+      B: '0.398'
+      C: '0.699'
+      D: '0.400'
+    distractors:
+      A: '1.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+      C: '0.699' # Assumes $\mathrm{HI}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      D: '0.400' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+    correct_answer_choice: B
+  - id: StrongAcidpH-05
+    question_stem: |-
+      Determine the pH of a 0.0500 M aqueous solution of $\mathrm{HCl}$.
+    choices:
+      A: '1.602'
+      B: '0.0500'
+      C: '1.301'
+      D: '2.000'
+    distractors:
+      A: '1.602' # Assumes $\mathrm{HCl}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      B: '0.0500' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      D: '2.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+    correct_answer_choice: C
+  - id: StrongAcidpH-06
+    question_stem: |-
+      Determine the pH of a 0.0125 M aqueous solution of $\mathrm{HBr}$.
+    choices:
+      A: '1.903'
+      B: '0.0125'
+      C: '2.204'
+      D: '2.000'
+    distractors:
+      B: '0.0125' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      C: '2.204' # Assumes $\mathrm{HBr}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      D: '2.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+    correct_answer_choice: A
+  - id: StrongAcidpH-07
+    question_stem: |-
+      Determine the pH of a 0.300 M aqueous solution of $\mathrm{HNO_3}$.
+    choices:
+      A: '0.824'
+      B: '1.000'
+      C: '0.300'
+      D: '0.523'
+    distractors:
+      A: '0.824' # Assumes $\mathrm{HNO_3}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      B: '1.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+      C: '0.300' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+    correct_answer_choice: D
+  - id: StrongAcidpH-08
+    question_stem: |-
+      Determine the pH of a 0.00630 M aqueous solution of $\mathrm{HClO_4}$.
+    choices:
+      A: '3.000'
+      B: '2.201'
+      C: '0.00630'
+      D: '2.502'
+    distractors:
+      A: '3.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+      C: '0.00630' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      D: '2.502' # Assumes $\mathrm{HClO_4}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+    correct_answer_choice: B
+  - id: StrongAcidpH-09
+    question_stem: |-
+      Determine the pH of a 0.220 M aqueous solution of $\mathrm{HI}$.
+    choices:
+      A: '0.658'
+      B: '0.959'
+      C: '0.220'
+      D: '1.000'
+    distractors:
+      B: '0.959' # Assumes $\mathrm{HI}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      C: '0.220' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      D: '1.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+    correct_answer_choice: A
+  - id: StrongAcidpH-10
+    question_stem: |-
+      Determine the pH of a 0.0400 M aqueous solution of $\mathrm{HCl}$.
+    choices:
+      A: '0.0400'
+      B: '1.699'
+      C: '2.000'
+      D: '1.398'
+    distractors:
+      A: '0.0400' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      B: '1.699' # Assumes $\mathrm{HCl}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      C: '2.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+    correct_answer_choice: D
+  - id: StrongAcidpH-11
+    question_stem: |-
+      Determine the pH of a 0.175 M aqueous solution of $\mathrm{HBr}$.
+    choices:
+      A: '1.000'
+      B: '1.058'
+      C: '0.757'
+      D: '0.175'
+    distractors:
+      A: '1.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+      B: '1.058' # Assumes $\mathrm{HBr}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      D: '0.175' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+    correct_answer_choice: C
+  - id: StrongAcidpH-12
+    question_stem: |-
+      Determine the pH of a 0.0900 M aqueous solution of $\mathrm{HNO_3}$.
+    choices:
+      A: '0.0900'
+      B: '1.046'
+      C: '1.347'
+      D: '2.000'
+    distractors:
+      A: '0.0900' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      C: '1.347' # Assumes $\mathrm{HNO_3}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      D: '2.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+    correct_answer_choice: B
+  - id: StrongAcidpH-13
+    question_stem: |-
+      Determine the pH of a 0.500 M aqueous solution of $\mathrm{HClO_4}$.
+    choices:
+      A: '0.301'
+      B: '0.500'
+      C: '0.602'
+      D: '1.000'
+    distractors:
+      B: '0.500' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      C: '0.602' # Assumes $\mathrm{HClO_4}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      D: '1.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+    correct_answer_choice: A
+  - id: StrongAcidpH-14
+    question_stem: |-
+      Determine the pH of a 0.0320 M aqueous solution of $\mathrm{HI}$.
+    choices:
+      A: '2.000'
+      B: '0.0320'
+      C: '1.796'
+      D: '1.495'
+    distractors:
+      A: '2.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+      B: '0.0320' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+      C: '1.796' # Assumes $\mathrm{HI}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+    correct_answer_choice: D
+  - id: StrongAcidpH-15
+    question_stem: |-
+      Determine the pH of a 0.250 M aqueous solution of $\mathrm{HCl}$.
+    choices:
+      A: '0.903'
+      B: '1.000'
+      C: '0.602'
+      D: '0.250'
+    distractors:
+      A: '0.903' # Assumes $\mathrm{HCl}$ is only 50% ionized, which underestimates $[\mathrm{H_3O^+}]$ and produces a pH that is too high.
+      B: '1.000' # Uses only the exponent in the scientific notation and ignores the coefficient.
+      D: '0.250' # Uses the hydronium-ion concentration directly as the pH instead of applying the negative logarithm.
+    correct_answer_choice: C
