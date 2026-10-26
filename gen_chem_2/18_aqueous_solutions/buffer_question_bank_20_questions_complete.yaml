@@ -1,0 +1,269 @@
+title: Buffer Solution pH Calculations
+date_created: '2026-10-26'
+learning_objective: Calculate the pH of a solution containing a weak acid or base and its conjugate partner using the appropriate
+  acid-base equilibrium relationship.
+author: Julie Donnelly
+notation: Students are provided with Kₐ or K_b values rather than pK values. Questions do not explicitly identify the solution
+  as a buffer. HTML subscript markup is used for K constants so subscripts are preserved during QTI export.
+question_count: 20
+questions:
+- id: Buffer-01
+  question_stem: A solution contains 0.120 M CH₃COOH and 0.300 M CH₃COONa. The K<sub>a</sub> for acetic acid is 1.8 × 10⁻⁵.
+    What is the pH of the solution?
+  choices:
+    A: '4.34'
+    B: '4.74'
+    C: '5.14'
+    D: '2.96'
+  distractors:
+    A: This answer results from reversing the conjugate-base-to-acid concentration ratio.
+    B: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats CH₃COOH as an isolated weak acid and ignores CH₃COO⁻.
+  correct_answer_choice: C
+- id: Buffer-02
+  question_stem: A solution contains 0.250 M CH₃COOH and 0.100 M CH₃COONa. The K<sub>a</sub> for acetic acid is 1.8 × 10⁻⁵.
+    What is the pH of the solution?
+  choices:
+    A: '4.34'
+    B: '5.14'
+    C: '4.74'
+    D: '2.80'
+  distractors:
+    B: This answer results from reversing the conjugate-base-to-acid concentration ratio.
+    C: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats CH₃COOH as an isolated weak acid and ignores CH₃COO⁻.
+  correct_answer_choice: A
+- id: Buffer-03
+  question_stem: A solution contains 0.080 M HCOOH and 0.200 M HCOONa. The K<sub>a</sub> for formic acid is 1.8 × 10⁻⁴. What
+    is the pH of the solution?
+  choices:
+    A: '3.34'
+    B: '3.74'
+    C: '4.14'
+    D: '2.42'
+  distractors:
+    A: This answer results from reversing the conjugate-base-to-acid concentration ratio.
+    B: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats HCOOH as an isolated weak acid and ignores HCOO⁻.
+  correct_answer_choice: C
+- id: Buffer-04
+  question_stem: A solution contains 0.300 M HCOOH and 0.120 M HCOONa. The K<sub>a</sub> for formic acid is 1.8 × 10⁻⁴. What
+    is the pH of the solution?
+  choices:
+    A: '3.34'
+    B: '4.14'
+    C: '3.74'
+    D: '2.13'
+  distractors:
+    B: This answer results from reversing the conjugate-base-to-acid concentration ratio.
+    C: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats HCOOH as an isolated weak acid and ignores HCOO⁻.
+  correct_answer_choice: A
+- id: Buffer-05
+  question_stem: A solution contains 0.100 M H₂CO₃ and 0.250 M NaHCO₃. The K<sub>a</sub> for carbonic acid is 4.5 × 10⁻⁷.
+    What is the pH of the solution?
+  choices:
+    A: '5.95'
+    B: '6.35'
+    C: '6.75'
+    D: '3.67'
+  distractors:
+    A: This answer results from reversing the conjugate-base-to-acid concentration ratio.
+    B: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats H₂CO₃ as an isolated weak acid and ignores HCO₃⁻.
+  correct_answer_choice: C
+- id: Buffer-06
+  question_stem: A solution contains 0.200 M H₂CO₃ and 0.080 M NaHCO₃. The K<sub>a</sub> for carbonic acid is 4.5 × 10⁻⁷.
+    What is the pH of the solution?
+  choices:
+    A: '5.95'
+    B: '6.75'
+    C: '6.35'
+    D: '3.52'
+  distractors:
+    B: This answer results from reversing the conjugate-base-to-acid concentration ratio.
+    C: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats H₂CO₃ as an isolated weak acid and ignores HCO₃⁻.
+  correct_answer_choice: A
+- id: Buffer-07
+  question_stem: A solution contains 0.150 M NaH₂PO₄ and 0.300 M Na₂HPO₄. The K<sub>a</sub> for H₂PO₄⁻ is 6.2 × 10⁻⁸. What
+    is the pH of the solution?
+  choices:
+    A: '6.91'
+    B: '7.21'
+    C: '7.51'
+    D: '4.11'
+  distractors:
+    A: This answer results from reversing the HPO₄²⁻-to-H₂PO₄⁻ concentration ratio.
+    B: This answer assumes pH = pKₐ even though the conjugate pair concentrations are unequal.
+    D: This answer treats H₂PO₄⁻ as an isolated weak acid and ignores HPO₄²⁻.
+  correct_answer_choice: C
+- id: Buffer-08
+  question_stem: A solution contains 0.300 M NaH₂PO₄ and 0.150 M Na₂HPO₄. The K<sub>a</sub> for H₂PO₄⁻ is 6.2 × 10⁻⁸. What
+    is the pH of the solution?
+  choices:
+    A: '6.91'
+    B: '7.51'
+    C: '7.21'
+    D: '4.26'
+  distractors:
+    B: This answer results from reversing the HPO₄²⁻-to-H₂PO₄⁻ concentration ratio.
+    C: This answer assumes pH = pKₐ even though the conjugate pair concentrations are unequal.
+    D: This answer treats H₂PO₄⁻ as an isolated weak acid and ignores HPO₄²⁻.
+  correct_answer_choice: A
+- id: Buffer-09
+  question_stem: A solution contains 0.100 M HF and 0.250 M NaF. The K<sub>a</sub> for HF is 6.8 × 10⁻⁴. What is the pH of
+    the solution?
+  choices:
+    A: '2.77'
+    B: '3.17'
+    C: '3.57'
+    D: '2.08'
+  distractors:
+    A: This answer results from reversing the F⁻-to-HF concentration ratio.
+    B: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats HF as an isolated weak acid and ignores F⁻.
+  correct_answer_choice: C
+- id: Buffer-10
+  question_stem: A solution contains 0.250 M HF and 0.100 M NaF. The K<sub>a</sub> for HF is 6.8 × 10⁻⁴. What is the pH of
+    the solution?
+  choices:
+    A: '2.77'
+    B: '3.57'
+    C: '3.17'
+    D: '1.89'
+  distractors:
+    B: This answer results from reversing the F⁻-to-HF concentration ratio.
+    C: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats HF as an isolated weak acid and ignores F⁻.
+  correct_answer_choice: A
+- id: Buffer-11
+  question_stem: A solution contains 0.150 M HOCl and 0.300 M NaOCl. The K<sub>a</sub> for HOCl is 3.0 × 10⁻⁸. What is the
+    pH of the solution?
+  choices:
+    A: '7.22'
+    B: '7.52'
+    C: '7.82'
+    D: '4.17'
+  distractors:
+    A: This answer results from reversing the OCl⁻-to-HOCl concentration ratio.
+    B: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats HOCl as an isolated weak acid and ignores OCl⁻.
+  correct_answer_choice: C
+- id: Buffer-12
+  question_stem: A solution contains 0.300 M HOCl and 0.150 M NaOCl. The K<sub>a</sub> for HOCl is 3.0 × 10⁻⁸. What is the
+    pH of the solution?
+  choices:
+    A: '7.22'
+    B: '7.82'
+    C: '7.52'
+    D: '4.32'
+  distractors:
+    B: This answer results from reversing the OCl⁻-to-HOCl concentration ratio.
+    C: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats HOCl as an isolated weak acid and ignores OCl⁻.
+  correct_answer_choice: A
+- id: Buffer-13
+  question_stem: A solution contains 0.120 M NH₄Cl and 0.300 M NH₃. The K<sub>b</sub> for NH₃ is 1.8 × 10⁻⁵. What is the pH
+    of the solution?
+  choices:
+    A: '8.85'
+    B: '9.25'
+    C: '9.65'
+    D: '11.04'
+  distractors:
+    A: This answer results from reversing the NH₄⁺-to-NH₃ concentration ratio in the base-form calculation.
+    B: This answer assumes pOH = pK_b even though the weak base and conjugate acid concentrations are unequal.
+    D: This answer treats NH₃ as an isolated weak base and ignores NH₄⁺.
+  correct_answer_choice: C
+- id: Buffer-14
+  question_stem: A solution contains 0.300 M NH₄Cl and 0.120 M NH₃. The K<sub>b</sub> for NH₃ is 1.8 × 10⁻⁵. What is the pH
+    of the solution?
+  choices:
+    A: '8.85'
+    B: '9.65'
+    C: '9.25'
+    D: '11.24'
+  distractors:
+    B: This answer results from reversing the NH₄⁺-to-NH₃ concentration ratio in the base-form calculation.
+    C: This answer assumes pOH = pK_b even though the weak base and conjugate acid concentrations are unequal.
+    D: This answer treats NH₃ as an isolated weak base and ignores NH₄⁺.
+  correct_answer_choice: A
+- id: Buffer-15
+  question_stem: A solution contains 0.100 M NaHCO₃ and 0.250 M Na₂CO₃. The K<sub>a</sub> for HCO₃⁻ is 4.7 × 10⁻¹¹. What is
+    the pH of the solution?
+  choices:
+    A: '9.93'
+    B: '10.33'
+    C: '10.73'
+    D: '8.18'
+  distractors:
+    A: This answer results from reversing the CO₃²⁻-to-HCO₃⁻ concentration ratio.
+    B: This answer assumes pH = pKₐ even though the conjugate pair concentrations are unequal.
+    D: This answer treats HCO₃⁻ as an isolated weak acid and ignores CO₃²⁻.
+  correct_answer_choice: C
+- id: Buffer-16
+  question_stem: A solution contains 0.250 M NaHCO₃ and 0.100 M Na₂CO₃. The K<sub>a</sub> for HCO₃⁻ is 4.7 × 10⁻¹¹. What is
+    the pH of the solution?
+  choices:
+    A: '9.93'
+    B: '10.73'
+    C: '10.33'
+    D: '8.03'
+  distractors:
+    B: This answer results from reversing the CO₃²⁻-to-HCO₃⁻ concentration ratio.
+    C: This answer assumes pH = pKₐ even though the conjugate pair concentrations are unequal.
+    D: This answer treats HCO₃⁻ as an isolated weak acid and ignores CO₃²⁻.
+  correct_answer_choice: A
+- id: Buffer-17
+  question_stem: A solution contains 0.200 M CH₃COOH and 0.500 M CH₃COONa. The K<sub>a</sub> for acetic acid is 1.8 × 10⁻⁵.
+    What is the pH of the solution?
+  choices:
+    A: '4.34'
+    B: '4.74'
+    C: '5.14'
+    D: '2.83'
+  distractors:
+    A: This answer results from reversing the conjugate-base-to-acid concentration ratio.
+    B: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats CH₃COOH as an isolated weak acid and ignores CH₃COO⁻.
+  correct_answer_choice: C
+- id: Buffer-18
+  question_stem: A solution contains 0.100 M HCOOH and 0.250 M HCOONa. The K<sub>a</sub> for formic acid is 1.8 × 10⁻⁴. What
+    is the pH of the solution?
+  choices:
+    A: '3.34'
+    B: '3.74'
+    C: '4.14'
+    D: '2.37'
+  distractors:
+    A: This answer results from reversing the conjugate-base-to-acid concentration ratio.
+    B: This answer assumes pH = pKₐ even though the conjugate base and weak acid concentrations are unequal.
+    D: This answer treats HCOOH as an isolated weak acid and ignores HCOO⁻.
+  correct_answer_choice: C
+- id: Buffer-19
+  question_stem: A solution contains 0.250 M NaH₂PO₄ and 0.100 M Na₂HPO₄. The K<sub>a</sub> for H₂PO₄⁻ is 6.2 × 10⁻⁸. What
+    is the pH of the solution?
+  choices:
+    A: '6.81'
+    B: '7.61'
+    C: '7.21'
+    D: '4.04'
+  distractors:
+    B: This answer results from reversing the HPO₄²⁻-to-H₂PO₄⁻ concentration ratio.
+    C: This answer assumes pH = pKₐ even though the conjugate pair concentrations are unequal.
+    D: This answer treats H₂PO₄⁻ as an isolated weak acid and ignores HPO₄²⁻.
+  correct_answer_choice: A
+- id: Buffer-20
+  question_stem: A solution contains 0.100 M NH₄Cl and 0.250 M NH₃. The K<sub>b</sub> for NH₃ is 1.8 × 10⁻⁵. What is the pH
+    of the solution?
+  choices:
+    A: '8.85'
+    B: '9.25'
+    C: '9.65'
+    D: '11.08'
+  distractors:
+    A: This answer results from reversing the NH₄⁺-to-NH₃ concentration ratio in the base-form calculation.
+    B: This answer assumes pOH = pK_b even though the weak base and conjugate acid concentrations are unequal.
+    D: This answer treats NH₃ as an isolated weak base and ignores NH₄⁺.
+  correct_answer_choice: C
