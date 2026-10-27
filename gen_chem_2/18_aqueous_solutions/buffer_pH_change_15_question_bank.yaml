@@ -1,0 +1,203 @@
+title: Final pH After Addition of Strong Acid or Base to a Buffer
+date_created: '2026-10-26'
+learning_objective: Calculate the final pH of a buffer solution after the addition of a small amount of strong acid or strong base.
+author: Julie Donnelly
+notation: Acid and base dissociation constants use portable HTML subscripts, such as K<sub>a</sub> and K<sub>b</sub>. Chemical formulas and ionic
+  charges use Unicode subscripts and superscripts. Assume 25 °C and pK<sub>w</sub> = 14.00 for questions involving K<sub>b</sub>.
+question_count: 15
+questions:
+- id: BufferChange-01
+  question_stem: A 0.750 L solution contains 0.160 M HF and 0.240 M NaF. The K<sub>a</sub> for HF is 6.8 × 10⁻⁴. After 0.0300 mol HCl is added,
+    what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '3.09'
+    B: '3.17'
+    C: '3.34'
+    D: '3.55'
+  distractors:
+    A: Subtracts the added H⁺ from F⁻ but does not increase the amount of HF produced.
+    C: Uses the original F⁻-to-HF ratio and therefore calculates the initial pH.
+    D: Treats HCl as if it converts HF into F⁻, reversing the neutralization reaction.
+  correct_answer_choice: B
+- id: BufferChange-02
+  question_stem: A 1.00 L solution contains 0.200 M CH₃COOH and 0.300 M CH₃COONa. The K<sub>a</sub> for acetic acid is 1.8 × 10⁻⁵. After 0.0500
+    mol HCl is added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '4.84'
+    B: '5.11'
+    C: '4.74'
+    D: '4.92'
+  distractors:
+    A: Subtracts the added H⁺ from CH₃COO⁻ but does not increase the amount of CH₃COOH produced.
+    B: Treats HCl as if it converts CH₃COOH into CH₃COO⁻, reversing the neutralization reaction.
+    D: Uses the original CH₃COO⁻-to-CH₃COOH ratio and therefore calculates the initial pH.
+  correct_answer_choice: C
+- id: BufferChange-03
+  question_stem: A 0.500 L solution contains 0.300 M HCOOH and 0.180 M HCOONa. The K<sub>a</sub> for formic acid is 1.8 × 10⁻⁴. After 0.0300 mol
+    NaOH is added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '3.27'
+    B: '3.52'
+    C: '3.62'
+    D: '3.74'
+  distractors:
+    A: Treats NaOH as if it converts HCOO⁻ into HCOOH, reversing the neutralization reaction.
+    B: Uses the original HCOO⁻-to-HCOOH ratio and therefore calculates the initial pH.
+    C: Subtracts the added OH⁻ from HCOOH but does not increase the amount of HCOO⁻ produced.
+  correct_answer_choice: D
+- id: BufferChange-04
+  question_stem: A 2.00 L solution contains 0.150 M H₂CO₃ and 0.250 M NaHCO₃. The K<sub>a</sub> for carbonic acid is 4.5 × 10⁻⁷. After 0.100 mol
+    HNO₃ is added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '6.57'
+    B: '6.35'
+    C: '6.82'
+    D: '6.47'
+  distractors:
+    A: Uses the original HCO₃⁻-to-H₂CO₃ ratio and therefore calculates the initial pH.
+    C: Treats HNO₃ as if it converts H₂CO₃ into HCO₃⁻, reversing the neutralization reaction.
+    D: Subtracts the added H⁺ from HCO₃⁻ but does not increase the amount of H₂CO₃ produced.
+  correct_answer_choice: B
+- id: BufferChange-05
+  question_stem: A 1.00 L solution contains 0.240 M NaH₂PO₄ and 0.160 M Na₂HPO₄. The K<sub>a</sub> for H₂PO₄⁻ is 6.2 × 10⁻⁸. After 0.0400 mol
+    KOH is added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '7.21'
+    B: '7.03'
+    C: '6.84'
+    D: '7.11'
+  distractors:
+    B: Uses the original HPO₄²⁻-to-H₂PO₄⁻ ratio and therefore calculates the initial pH.
+    C: Treats KOH as if it converts HPO₄²⁻ into H₂PO₄⁻, reversing the neutralization reaction.
+    D: Subtracts the added OH⁻ from H₂PO₄⁻ but does not increase the amount of HPO₄²⁻ produced.
+  correct_answer_choice: A
+- id: BufferChange-06
+  question_stem: A 0.500 L solution contains 0.400 M HOCl and 0.240 M NaOCl. The K<sub>a</sub> for HOCl is 3.0 × 10⁻⁸. After 0.0200 mol HCl is
+    added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '7.30'
+    B: '7.22'
+    C: '7.18'
+    D: '7.41'
+  distractors:
+    A: Uses the original OCl⁻-to-HOCl ratio and therefore calculates the initial pH.
+    B: Subtracts the added H⁺ from OCl⁻ but does not increase the amount of HOCl produced.
+    D: Treats HCl as if it converts HOCl into OCl⁻, reversing the neutralization reaction.
+  correct_answer_choice: C
+- id: BufferChange-07
+  question_stem: A 1.50 L solution contains 0.120 M HF and 0.200 M NaF. The K<sub>a</sub> for HF is 6.8 × 10⁻⁴. After 0.0450 mol NaOH is added,
+    what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '3.51'
+    B: '3.39'
+    C: '3.22'
+    D: '3.57'
+  distractors:
+    A: Subtracts the added OH⁻ from HF but does not increase the amount of F⁻ produced.
+    B: Uses the original F⁻-to-HF ratio and therefore calculates the initial pH.
+    C: Treats NaOH as if it converts F⁻ into HF, reversing the neutralization reaction.
+  correct_answer_choice: D
+- id: BufferChange-08
+  question_stem: A 1.00 L solution contains 0.300 M NaHCO₃ and 0.180 M Na₂CO₃. The K<sub>a</sub> for HCO₃⁻ is 4.7 × 10⁻¹¹. After 0.0300 mol HNO₃
+    is added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '9.99'
+    B: '10.22'
+    C: '10.11'
+    D: '10.03'
+  distractors:
+    B: Treats HNO₃ as if it converts HCO₃⁻ into CO₃²⁻, reversing the neutralization reaction.
+    C: Uses the original CO₃²⁻-to-HCO₃⁻ ratio and therefore calculates the initial pH.
+    D: Subtracts the added H⁺ from CO₃²⁻ but does not increase the amount of HCO₃⁻ produced.
+  correct_answer_choice: A
+- id: BufferChange-09
+  question_stem: A 1.00 L solution contains 0.250 M NH₃ and 0.150 M NH₄Cl. The K<sub>b</sub> for NH₃ is 1.8 × 10⁻⁵. After 0.0500 mol HCl is added,
+    what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '9.48'
+    B: '9.73'
+    C: '9.26'
+    D: '9.38'
+  distractors:
+    A: Uses the original NH₄⁺-to-NH₃ ratio and therefore calculates the initial pH.
+    B: Treats HCl as if it converts NH₄⁺ into NH₃, reversing the neutralization reaction.
+    D: Subtracts the added H⁺ from NH₃ but does not increase the amount of NH₄⁺ produced.
+  correct_answer_choice: C
+- id: BufferChange-10
+  question_stem: A 1.00 L solution contains 0.350 M CH₃COOH and 0.200 M CH₃COONa. The K<sub>a</sub> for acetic acid is 1.8 × 10⁻⁵. After 0.0600
+    mol NaOH is added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '4.50'
+    B: '4.70'
+    C: '4.28'
+    D: '4.58'
+  distractors:
+    A: Uses the original CH₃COO⁻-to-CH₃COOH ratio and therefore calculates the initial pH.
+    C: Treats NaOH as if it converts CH₃COO⁻ into CH₃COOH, reversing the neutralization reaction.
+    D: Subtracts the added OH⁻ from CH₃COOH but does not increase the amount of CH₃COO⁻ produced.
+  correct_answer_choice: B
+- id: BufferChange-11
+  question_stem: A 2.00 L solution contains 0.100 M HCOOH and 0.160 M HCOONa. The K<sub>a</sub> for formic acid is 1.8 × 10⁻⁴. After 0.0400 mol
+    HCl is added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '4.10'
+    B: '3.89'
+    C: '3.81'
+    D: '3.95'
+  distractors:
+    A: Treats HCl as if it converts HCOOH into HCOO⁻, reversing the neutralization reaction.
+    B: Subtracts the added H⁺ from HCOO⁻ but does not increase the amount of HCOOH produced.
+    D: Uses the original HCOO⁻-to-HCOOH ratio and therefore calculates the initial pH.
+  correct_answer_choice: C
+- id: BufferChange-12
+  question_stem: A 0.750 L solution contains 0.280 M H₂CO₃ and 0.160 M NaHCO₃. The K<sub>a</sub> for carbonic acid is 4.5 × 10⁻⁷. After 0.0300
+    mol KOH is added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '6.17'
+    B: '5.92'
+    C: '6.10'
+    D: '6.27'
+  distractors:
+    A: Subtracts the added OH⁻ from H₂CO₃ but does not increase the amount of HCO₃⁻ produced.
+    B: Treats KOH as if it converts HCO₃⁻ into H₂CO₃, reversing the neutralization reaction.
+    C: Uses the original HCO₃⁻-to-H₂CO₃ ratio and therefore calculates the initial pH.
+  correct_answer_choice: D
+- id: BufferChange-13
+  question_stem: A 1.50 L solution contains 0.140 M NaH₂PO₄ and 0.220 M Na₂HPO₄. The K<sub>a</sub> for H₂PO₄⁻ is 6.2 × 10⁻⁸. After 0.0600 mol
+    HNO₃ is added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '7.32'
+    B: '7.21'
+    C: '7.62'
+    D: '7.40'
+  distractors:
+    A: Subtracts the added H⁺ from HPO₄²⁻ but does not increase the amount of H₂PO₄⁻ produced.
+    C: Treats HNO₃ as if it converts H₂PO₄⁻ into HPO₄²⁻, reversing the neutralization reaction.
+    D: Uses the original HPO₄²⁻-to-H₂PO₄⁻ ratio and therefore calculates the initial pH.
+  correct_answer_choice: B
+- id: BufferChange-14
+  question_stem: A 1.00 L solution contains 0.180 M HOCl and 0.300 M NaOCl. The K<sub>a</sub> for HOCl is 3.0 × 10⁻⁸. After 0.0450 mol NaOH is
+    added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '7.58'
+    B: '7.87'
+    C: '7.74'
+    D: '7.93'
+  distractors:
+    A: Treats NaOH as if it converts OCl⁻ into HOCl, reversing the neutralization reaction.
+    B: Subtracts the added OH⁻ from HOCl but does not increase the amount of OCl⁻ produced.
+    C: Uses the original OCl⁻-to-HOCl ratio and therefore calculates the initial pH.
+  correct_answer_choice: D
+- id: BufferChange-15
+  question_stem: A 0.500 L solution contains 0.400 M NH₃ and 0.240 M NH₄Cl. The K<sub>b</sub> for NH₃ is 1.8 × 10⁻⁵. After 0.0200 mol NaOH is
+    added, what is the final pH? Assume the change in solution volume is negligible.
+  choices:
+    A: '9.60'
+    B: '9.52'
+    C: '9.36'
+    D: '9.48'
+  distractors:
+    B: Subtracts the added OH⁻ from NH₄⁺ but does not increase the amount of NH₃ produced.
+    C: Treats NaOH as if it converts NH₃ into NH₄⁺, reversing the neutralization reaction.
+    D: Uses the original NH₄⁺-to-NH₃ ratio and therefore calculates the initial pH.
+  correct_answer_choice: A

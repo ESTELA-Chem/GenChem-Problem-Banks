@@ -1,0 +1,248 @@
+title: Qualitative Effect of pH on Solubility
+date_created: '2026-10-26'
+learning_objective: Determine the effect of pH on solubility qualitatively.
+author: Julie Donnelly
+notation: Chemical formulas and ionic charges use Unicode subscripts and superscripts. Decreasing pH increases the solubility of a sparingly soluble
+  salt when its anion is protonated; common ions decrease solubility.
+question_count: 20
+questions:
+- id: pHSolubility-01
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: AgCl
+    B: PbBr₂
+    C: CaF₂
+    D: CuI
+  distractors:
+    A: Cl⁻ is not appreciably protonated as pH decreases.
+    B: Br⁻ is not appreciably protonated as pH decreases.
+    D: I⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: C
+- id: pHSolubility-02
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: MgCO₃
+    B: AgBr
+    C: CuI
+    D: PbCl₂
+  distractors:
+    B: Br⁻ is not appreciably protonated as pH decreases.
+    C: I⁻ is not appreciably protonated as pH decreases.
+    D: Cl⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: A
+- id: pHSolubility-03
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: AgCl
+    B: Ca₃(PO₄)₂
+    C: CuI
+    D: PbBr₂
+  distractors:
+    A: Cl⁻ is not appreciably protonated as pH decreases.
+    C: I⁻ is not appreciably protonated as pH decreases.
+    D: Br⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: B
+- id: pHSolubility-04
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: AgCl
+    B: PbI₂
+    C: AgBr
+    D: ZnS
+  distractors:
+    A: Cl⁻ is not appreciably protonated as pH decreases.
+    B: I⁻ is not appreciably protonated as pH decreases.
+    C: Br⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: D
+- id: pHSolubility-05
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: CuI
+    B: PbBr₂
+    C: AgCN
+    D: AgCl
+  distractors:
+    A: I⁻ is not appreciably protonated as pH decreases.
+    B: Br⁻ is not appreciably protonated as pH decreases.
+    D: Cl⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: C
+- id: pHSolubility-06
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: AgI
+    B: CaCO₃
+    C: PbBr₂
+    D: AgCl
+  distractors:
+    A: I⁻ is not appreciably protonated as pH decreases.
+    C: Br⁻ is not appreciably protonated as pH decreases.
+    D: Cl⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: B
+- id: pHSolubility-07
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: PbF₂
+    B: AgCl
+    C: CuI
+    D: AgBr
+  distractors:
+    B: Cl⁻ is not appreciably protonated as pH decreases.
+    C: I⁻ is not appreciably protonated as pH decreases.
+    D: Br⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: A
+- id: pHSolubility-08
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: AgCl
+    B: PbI₂
+    C: AgBr
+    D: FeS
+  distractors:
+    A: Cl⁻ is not appreciably protonated as pH decreases.
+    B: I⁻ is not appreciably protonated as pH decreases.
+    C: Br⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: D
+- id: pHSolubility-09
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: PbCl₂
+    B: BaCO₃
+    C: CuI
+    D: AgBr
+  distractors:
+    A: Cl⁻ is not appreciably protonated as pH decreases.
+    C: I⁻ is not appreciably protonated as pH decreases.
+    D: Br⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: B
+- id: pHSolubility-10
+  question_stem: Which ionic compound becomes more soluble as the pH of the solution decreases?
+  choices:
+    A: AgBr
+    B: PbCl₂
+    C: Sr₃(PO₄)₂
+    D: CuI
+  distractors:
+    A: Br⁻ is not appreciably protonated as pH decreases.
+    B: Cl⁻ is not appreciably protonated as pH decreases.
+    D: I⁻ is not appreciably protonated as pH decreases.
+  correct_answer_choice: C
+- id: pHSolubility-11
+  question_stem: A saturated solution is in equilibrium with solid CaF₂. Which change will increase the solubility of CaF₂?
+  choices:
+    A: Add CaCl₂.
+    B: Increase the pH.
+    C: Decrease the pH.
+    D: Add NaF.
+  distractors:
+    A: Ca²⁺ is a common ion and decreases the solubility of CaF₂.
+    B: Increasing the pH does not protonate or remove F⁻.
+    D: F⁻ is a common ion and decreases the solubility of CaF₂.
+  correct_answer_choice: C
+- id: pHSolubility-12
+  question_stem: A saturated solution is in equilibrium with solid CaCO₃. Which change will increase the solubility of CaCO₃?
+  choices:
+    A: Decrease the pH.
+    B: Add CaCl₂.
+    C: Add Na₂CO₃.
+    D: Increase the pH.
+  distractors:
+    B: Ca²⁺ is a common ion and decreases the solubility of CaCO₃.
+    C: CO₃²⁻ is a common ion and decreases the solubility of CaCO₃.
+    D: Increasing the pH does not remove carbonate through protonation.
+  correct_answer_choice: A
+- id: pHSolubility-13
+  question_stem: A saturated solution is in equilibrium with solid MgCO₃. Which change will increase the solubility of MgCO₃?
+  choices:
+    A: Add MgCl₂.
+    B: Add Na₂CO₃.
+    C: Increase the pH.
+    D: Decrease the pH.
+  distractors:
+    A: Mg²⁺ is a common ion and decreases the solubility of MgCO₃.
+    B: CO₃²⁻ is a common ion and decreases the solubility of MgCO₃.
+    C: Increasing the pH does not remove carbonate through protonation.
+  correct_answer_choice: D
+- id: pHSolubility-14
+  question_stem: A saturated solution is in equilibrium with solid Ca₃(PO₄)₂. Which change will increase the solubility of Ca₃(PO₄)₂?
+  choices:
+    A: Add Ca(NO₃)₂.
+    B: Decrease the pH.
+    C: Increase the pH.
+    D: Add Na₃PO₄.
+  distractors:
+    A: Ca²⁺ is a common ion and decreases the solubility of Ca₃(PO₄)₂.
+    C: Increasing the pH does not remove phosphate through protonation.
+    D: PO₄³⁻ is a common ion and decreases the solubility of Ca₃(PO₄)₂.
+  correct_answer_choice: B
+- id: pHSolubility-15
+  question_stem: A saturated solution is in equilibrium with solid ZnS. Which change will increase the solubility of ZnS?
+  choices:
+    A: Increase the pH.
+    B: Add Na₂S.
+    C: Decrease the pH.
+    D: Add Zn(NO₃)₂.
+  distractors:
+    A: Increasing the pH does not protonate or remove S²⁻.
+    B: S²⁻ is a common ion and decreases the solubility of ZnS.
+    D: Zn²⁺ is a common ion and decreases the solubility of ZnS.
+  correct_answer_choice: C
+- id: pHSolubility-16
+  question_stem: A saturated solution is in equilibrium with solid Ag₂CO₃. Which change will increase the solubility of Ag₂CO₃?
+  choices:
+    A: Decrease the pH.
+    B: Add Na₂CO₃.
+    C: Add AgNO₃.
+    D: Increase the pH.
+  distractors:
+    B: CO₃²⁻ is a common ion and decreases the solubility of Ag₂CO₃.
+    C: Ag⁺ is a common ion and decreases the solubility of Ag₂CO₃.
+    D: Increasing the pH does not remove carbonate through protonation.
+  correct_answer_choice: A
+- id: pHSolubility-17
+  question_stem: A saturated solution is in equilibrium with solid BaCO₃. Which change will increase the solubility of BaCO₃?
+  choices:
+    A: Add BaCl₂.
+    B: Increase the pH.
+    C: Add Na₂CO₃.
+    D: Decrease the pH.
+  distractors:
+    A: Ba²⁺ is a common ion and decreases the solubility of BaCO₃.
+    B: Increasing the pH does not remove carbonate through protonation.
+    C: CO₃²⁻ is a common ion and decreases the solubility of BaCO₃.
+  correct_answer_choice: D
+- id: pHSolubility-18
+  question_stem: A saturated solution is in equilibrium with solid PbF₂. Which change will increase the solubility of PbF₂?
+  choices:
+    A: Add Pb(NO₃)₂.
+    B: Decrease the pH.
+    C: Add NaF.
+    D: Increase the pH.
+  distractors:
+    A: Pb²⁺ is a common ion and decreases the solubility of PbF₂.
+    C: F⁻ is a common ion and decreases the solubility of PbF₂.
+    D: Increasing the pH does not protonate or remove F⁻.
+  correct_answer_choice: B
+- id: pHSolubility-19
+  question_stem: A saturated solution is in equilibrium with solid FeS. Which change will increase the solubility of FeS?
+  choices:
+    A: Add Na₂S.
+    B: Add FeCl₂.
+    C: Decrease the pH.
+    D: Increase the pH.
+  distractors:
+    A: S²⁻ is a common ion and decreases the solubility of FeS.
+    B: Fe²⁺ is a common ion and decreases the solubility of FeS.
+    D: Increasing the pH does not protonate or remove S²⁻.
+  correct_answer_choice: C
+- id: pHSolubility-20
+  question_stem: A saturated solution is in equilibrium with solid SrCO₃. Which change will increase the solubility of SrCO₃?
+  choices:
+    A: Decrease the pH.
+    B: Add Sr(NO₃)₂.
+    C: Increase the pH.
+    D: Add K₂CO₃.
+  distractors:
+    B: Sr²⁺ is a common ion and decreases the solubility of SrCO₃.
+    C: Increasing the pH does not remove carbonate through protonation.
+    D: CO₃²⁻ is a common ion and decreases the solubility of SrCO₃.
+  correct_answer_choice: A

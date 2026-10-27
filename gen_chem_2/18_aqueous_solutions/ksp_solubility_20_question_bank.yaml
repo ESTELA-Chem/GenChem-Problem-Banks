@@ -1,0 +1,348 @@
+title: Solubility and Solubility Product Comparisons
+date_created: '2026-10-26'
+learning_objective: Relate the solubility of an ionic compound to its solubility product.
+author: Julie Donnelly
+notation: Solubility product constants are written as K<sub>sp</sub>. Molar solubility is represented by s, and chemical formulas use Unicode subscripts
+  and superscripts.
+question_count: 20
+questions:
+- id: KspSolubility-01
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - AgCl: 1.77 × 10⁻¹⁰
+
+    - AgBr: 5.35 × 10⁻¹³
+
+    - AgI: 8.52 × 10⁻¹⁷
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: AgCl < AgBr < AgI
+    B: AgI < AgBr < AgCl
+    C: AgBr < AgI < AgCl
+    D: AgI < AgCl < AgBr
+  distractors:
+    A: Reverses the relationship between K<sub>sp</sub> and molar solubility for salts with the same stoichiometry.
+    C: Places AgBr below AgI even though AgBr has the larger K<sub>sp</sub>.
+    D: Places AgCl below AgBr even though AgCl has the larger K<sub>sp</sub>.
+  correct_answer_choice: B
+- id: KspSolubility-02
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - CdS: 8.0 × 10⁻²⁷
+
+    - AgI: 8.52 × 10⁻¹⁷
+
+    - CuI: 1.27 × 10⁻¹²
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: CdS < AgI < CuI
+    B: CuI < AgI < CdS
+    C: AgI < CdS < CuI
+    D: CdS < CuI < AgI
+  distractors:
+    B: Reverses the correct solubility order.
+    C: Places AgI below CdS even though CdS has the smaller K<sub>sp</sub>.
+    D: Places CuI below AgI even though CuI has the larger K<sub>sp</sub>.
+  correct_answer_choice: A
+- id: KspSolubility-03
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - AgBr: 5.35 × 10⁻¹³
+
+    - CuI: 1.27 × 10⁻¹²
+
+    - AgCl: 1.77 × 10⁻¹⁰
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: AgCl < CuI < AgBr
+    B: CuI < AgBr < AgCl
+    C: AgBr < CuI < AgCl
+    D: AgBr < AgCl < CuI
+  distractors:
+    A: Reverses the correct relationship between K<sub>sp</sub> and molar solubility.
+    B: Places CuI below AgBr even though CuI has the larger K<sub>sp</sub>.
+    D: Places AgCl below CuI even though AgCl has the larger K<sub>sp</sub>.
+  correct_answer_choice: C
+- id: KspSolubility-04
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - Mg(OH)₂: 5.61 × 10⁻¹²
+
+    - CaF₂: 3.45 × 10⁻¹¹
+
+    - PbF₂: 3.3 × 10⁻⁸
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: PbF₂ < CaF₂ < Mg(OH)₂
+    B: Mg(OH)₂ < CaF₂ < PbF₂
+    C: CaF₂ < Mg(OH)₂ < PbF₂
+    D: Mg(OH)₂ < PbF₂ < CaF₂
+  distractors:
+    A: Reverses the relationship between K<sub>sp</sub> and molar solubility for salts with the same stoichiometry.
+    C: Places CaF₂ below Mg(OH)₂ even though CaF₂ has the larger K<sub>sp</sub>.
+    D: Places PbF₂ below CaF₂ even though PbF₂ has the larger K<sub>sp</sub>.
+  correct_answer_choice: B
+- id: KspSolubility-05
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - Ag₂S: 6.3 × 10⁻⁵⁰
+
+    - Ag₂CO₃: 8.46 × 10⁻¹²
+
+    - Ag₂SO₄: 1.20 × 10⁻⁵
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: Ag₂S < Ag₂CO₃ < Ag₂SO₄
+    B: Ag₂SO₄ < Ag₂CO₃ < Ag₂S
+    C: Ag₂CO₃ < Ag₂S < Ag₂SO₄
+    D: Ag₂S < Ag₂SO₄ < Ag₂CO₃
+  distractors:
+    B: Reverses the correct solubility order.
+    C: Places Ag₂CO₃ below Ag₂S even though Ag₂S has the much smaller K<sub>sp</sub>.
+    D: Places Ag₂SO₄ below Ag₂CO₃ despite its larger K<sub>sp</sub>.
+  correct_answer_choice: A
+- id: KspSolubility-06
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: AgI; K<sub>sp</sub> = 8.52 × 10⁻¹⁷
+    B: AgBr; K<sub>sp</sub> = 5.35 × 10⁻¹³
+    C: CuI; K<sub>sp</sub> = 1.27 × 10⁻¹²
+    D: AgCl; K<sub>sp</sub> = 1.77 × 10⁻¹⁰
+  distractors:
+    A: AgI has the smallest K<sub>sp</sub> and therefore the smallest molar solubility in this set.
+    B: AgBr has a smaller K<sub>sp</sub> than CuI and AgCl.
+    C: CuI is less soluble than AgCl because its K<sub>sp</sub> is smaller.
+  correct_answer_choice: D
+- id: KspSolubility-07
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: CdS; K<sub>sp</sub> = 8.0 × 10⁻²⁷
+    B: CuI; K<sub>sp</sub> = 1.27 × 10⁻¹²
+    C: AgI; K<sub>sp</sub> = 8.52 × 10⁻¹⁷
+    D: AgBr; K<sub>sp</sub> = 5.35 × 10⁻¹³
+  distractors:
+    A: CdS has the smallest K<sub>sp</sub> and is the least soluble compound listed.
+    C: AgI has a smaller K<sub>sp</sub> than CuI.
+    D: AgBr has a smaller K<sub>sp</sub> than CuI.
+  correct_answer_choice: B
+- id: KspSolubility-08
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: CaF₂; K<sub>sp</sub> = 3.45 × 10⁻¹¹
+    B: PbI₂; K<sub>sp</sub> = 9.8 × 10⁻⁹
+    C: PbCl₂; K<sub>sp</sub> = 1.70 × 10⁻⁵
+    D: PbF₂; K<sub>sp</sub> = 3.3 × 10⁻⁸
+  distractors:
+    A: CaF₂ has the smallest K<sub>sp</sub> in this set.
+    B: PbI₂ has a smaller K<sub>sp</sub> than PbF₂ and PbCl₂.
+    D: PbF₂ has a smaller K<sub>sp</sub> than PbCl₂.
+  correct_answer_choice: C
+- id: KspSolubility-09
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: Mg(OH)₂; K<sub>sp</sub> = 5.61 × 10⁻¹²
+    B: PbF₂; K<sub>sp</sub> = 3.3 × 10⁻⁸
+    C: CaF₂; K<sub>sp</sub> = 3.45 × 10⁻¹¹
+    D: PbI₂; K<sub>sp</sub> = 9.8 × 10⁻⁹
+  distractors:
+    A: Mg(OH)₂ has the smallest K<sub>sp</sub> in the set.
+    C: CaF₂ has a smaller K<sub>sp</sub> than PbF₂.
+    D: PbI₂ has a smaller K<sub>sp</sub> than PbF₂.
+  correct_answer_choice: B
+- id: KspSolubility-10
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: AgBr; K<sub>sp</sub> = 5.35 × 10⁻¹³
+    B: AgCl; K<sub>sp</sub> = 1.77 × 10⁻¹⁰
+    C: AgI; K<sub>sp</sub> = 8.52 × 10⁻¹⁷
+    D: CdS; K<sub>sp</sub> = 8.0 × 10⁻²⁷
+  distractors:
+    A: AgBr has a smaller K<sub>sp</sub> than AgCl.
+    C: AgI has a much smaller K<sub>sp</sub> than AgCl.
+    D: CdS has the smallest K<sub>sp</sub> and molar solubility in the set.
+  correct_answer_choice: B
+- id: KspSolubility-11
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - AgCl: 1.77 × 10⁻¹⁰
+
+    - Mg(OH)₂: 5.61 × 10⁻¹²
+
+    - Ca₃(PO₄)₂: 2.07 × 10⁻³³
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: Ca₃(PO₄)₂ < AgCl < Mg(OH)₂
+    B: Mg(OH)₂ < AgCl < Ca₃(PO₄)₂
+    C: Ca₃(PO₄)₂ < Mg(OH)₂ < AgCl
+    D: AgCl < Ca₃(PO₄)₂ < Mg(OH)₂
+  distractors:
+    B: Ranks primarily by K<sub>sp</sub> without accounting for dissolution stoichiometry.
+    C: Places AgCl above Mg(OH)₂ even though the calculated molar solubility of Mg(OH)₂ is larger.
+    D: Places AgCl below Ca₃(PO₄)₂ even though AgCl has the larger calculated molar solubility.
+  correct_answer_choice: A
+- id: KspSolubility-12
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - CuI: 1.27 × 10⁻¹²
+
+    - Mg₃(PO₄)₂: 1.04 × 10⁻²⁴
+
+    - Ag₂CO₃: 8.46 × 10⁻¹²
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: Mg₃(PO₄)₂ < CuI < Ag₂CO₃
+    B: CuI < Mg₃(PO₄)₂ < Ag₂CO₃
+    C: CuI < Ag₂CO₃ < Mg₃(PO₄)₂
+    D: Ag₂CO₃ < CuI < Mg₃(PO₄)₂
+  distractors:
+    A: Assumes the smallest K<sub>sp</sub> must give the lowest molar solubility, ignoring the 3:2 stoichiometry.
+    C: Places Ag₂CO₃ below Mg₃(PO₄)₂ even though its calculated molar solubility is larger.
+    D: Reverses much of the calculated solubility order.
+  correct_answer_choice: B
+- id: KspSolubility-13
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - Ag₂S: 6.3 × 10⁻⁵⁰
+
+    - AgBr: 5.35 × 10⁻¹³
+
+    - CaF₂: 3.45 × 10⁻¹¹
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: AgBr < Ag₂S < CaF₂
+    B: Ag₂S < CaF₂ < AgBr
+    C: Ag₂S < AgBr < CaF₂
+    D: CaF₂ < AgBr < Ag₂S
+  distractors:
+    A: Places AgBr below the far less soluble Ag₂S.
+    B: Places CaF₂ below AgBr even though its calculated molar solubility is larger.
+    D: Reverses the calculated solubility order.
+  correct_answer_choice: C
+- id: KspSolubility-14
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - AgI: 8.52 × 10⁻¹⁷
+
+    - Ca₃(PO₄)₂: 2.07 × 10⁻³³
+
+    - PbI₂: 9.8 × 10⁻⁹
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: Ca₃(PO₄)₂ < AgI < PbI₂
+    B: AgI < Ca₃(PO₄)₂ < PbI₂
+    C: AgI < PbI₂ < Ca₃(PO₄)₂
+    D: PbI₂ < Ca₃(PO₄)₂ < AgI
+  distractors:
+    A: Assumes the smaller K<sub>sp</sub> of Ca₃(PO₄)₂ necessarily gives a lower molar solubility than AgI.
+    C: Places Ca₃(PO₄)₂ above PbI₂ even though PbI₂ has the larger calculated molar solubility.
+    D: Reverses the overall calculated solubility trend.
+  correct_answer_choice: B
+- id: KspSolubility-15
+  question_stem: 'The K<sub>sp</sub> values for three ionic compounds at 25 °C are given below.
+
+
+    - CdS: 8.0 × 10⁻²⁷
+
+    - Mg₃(PO₄)₂: 1.04 × 10⁻²⁴
+
+    - Mg(OH)₂: 5.61 × 10⁻¹²
+
+
+    Rank the compounds in order of increasing molar solubility in pure water.'
+  choices:
+    A: Mg₃(PO₄)₂ < CdS < Mg(OH)₂
+    B: CdS < Mg(OH)₂ < Mg₃(PO₄)₂
+    C: Mg(OH)₂ < Mg₃(PO₄)₂ < CdS
+    D: CdS < Mg₃(PO₄)₂ < Mg(OH)₂
+  distractors:
+    A: Uses K<sub>sp</sub> values directly and overlooks the fifth-root relationship for Mg₃(PO₄)₂.
+    B: Places Mg(OH)₂ below Mg₃(PO₄)₂ even though its calculated molar solubility is larger.
+    C: Reverses the calculated solubility trend.
+  correct_answer_choice: D
+- id: KspSolubility-16
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: AgCl; K<sub>sp</sub> = 1.77 × 10⁻¹⁰
+    B: CaF₂; K<sub>sp</sub> = 3.45 × 10⁻¹¹
+    C: Ag₂CO₃; K<sub>sp</sub> = 8.46 × 10⁻¹²
+    D: Mg₃(PO₄)₂; K<sub>sp</sub> = 1.04 × 10⁻²⁴
+  distractors:
+    A: Chooses the compound with the largest K<sub>sp</sub> without accounting for stoichiometry.
+    C: Ag₂CO₃ is less soluble than CaF₂ after accounting for stoichiometry.
+    D: The fifth-root relationship increases the calculated solubility of Mg₃(PO₄)₂, but it is not the largest.
+  correct_answer_choice: B
+- id: KspSolubility-17
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: AgBr; K<sub>sp</sub> = 5.35 × 10⁻¹³
+    B: PbF₂; K<sub>sp</sub> = 3.3 × 10⁻⁸
+    C: Ag₂S; K<sub>sp</sub> = 6.3 × 10⁻⁵⁰
+    D: Ca₃(PO₄)₂; K<sub>sp</sub> = 2.07 × 10⁻³³
+  distractors:
+    A: AgBr is less soluble than PbF₂ after accounting for stoichiometry.
+    C: Ag₂S has the smallest calculated molar solubility in the set.
+    D: The 3:2 stoichiometry raises the calculated molar solubility relative to its K<sub>sp</sub>, but not enough to exceed PbF₂.
+  correct_answer_choice: B
+- id: KspSolubility-18
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: CuI; K<sub>sp</sub> = 1.27 × 10⁻¹²
+    B: PbI₂; K<sub>sp</sub> = 9.8 × 10⁻⁹
+    C: Ag₂CO₃; K<sub>sp</sub> = 8.46 × 10⁻¹²
+    D: Mg₃(PO₄)₂; K<sub>sp</sub> = 1.04 × 10⁻²⁴
+  distractors:
+    A: CuI has a smaller calculated molar solubility than PbI₂.
+    C: Ag₂CO₃ is the second most soluble compound in this set.
+    D: Mg₃(PO₄)₂ is more soluble than CuI under the calculation model, but not more soluble than PbI₂.
+  correct_answer_choice: B
+- id: KspSolubility-19
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: AgI; K<sub>sp</sub> = 8.52 × 10⁻¹⁷
+    B: Mg(OH)₂; K<sub>sp</sub> = 5.61 × 10⁻¹²
+    C: Ag₂SO₄; K<sub>sp</sub> = 1.20 × 10⁻⁵
+    D: Ca₃(PO₄)₂; K<sub>sp</sub> = 2.07 × 10⁻³³
+  distractors:
+    A: AgI has a much lower calculated molar solubility than Ag₂SO₄.
+    B: Mg(OH)₂ is less soluble than Ag₂SO₄ after accounting for stoichiometry.
+    D: The fifth-root relationship raises the calculated solubility of Ca₃(PO₄)₂, but it remains below that of Ag₂SO₄.
+  correct_answer_choice: C
+- id: KspSolubility-20
+  question_stem: The K<sub>sp</sub> values for four ionic compounds at 25 °C are given below. Which compound has the greatest molar solubility in pure water?
+  choices:
+    A: CdS; K<sub>sp</sub> = 8.0 × 10⁻²⁷
+    B: PbCl₂; K<sub>sp</sub> = 1.70 × 10⁻⁵
+    C: Ag₂CO₃; K<sub>sp</sub> = 8.46 × 10⁻¹²
+    D: Mg₃(PO₄)₂; K<sub>sp</sub> = 1.04 × 10⁻²⁴
+  distractors:
+    A: CdS has the smallest calculated molar solubility in the set.
+    C: Ag₂CO₃ is less soluble than PbCl₂ after accounting for stoichiometry.
+    D: Mg₃(PO₄)₂ has a greater calculated solubility than its small K<sub>sp</sub> alone suggests, but it is not the most soluble.
+  correct_answer_choice: B
