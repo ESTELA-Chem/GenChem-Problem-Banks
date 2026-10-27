@@ -1,0 +1,248 @@
+title: Approximate pH at the Equivalence Point
+date_created: '2026-10-26'
+learning_objective: Calculate the pH initially and after any volume of titrant is added in an acid-base titration.
+author: Julie Donnelly
+notation: Acid and base dissociation constants use portable HTML subscripts, K<sub>a</sub> and K<sub>b</sub>. Chemical formulas and ionic charges use
+  Unicode subscripts and superscripts. Assume 25 °C.
+question_count: 15
+questions:
+- id: TitrationEq-01
+  question_stem: 'What is the approximate pH at the equivalence point if 25.0 mL of aqueous HCl requires 20.0 mL of 0.125 M NaOH to reach the equivalence
+    point?
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '1.30'
+    B: '5.10'
+    C: '7.00'
+    D: '12.70'
+  distractors:
+    A: Represents an acidic solution with excess strong acid, but no HCl remains at equivalence.
+    B: Incorrectly predicts that the strong acid–strong base equivalence-point solution is acidic.
+    D: Represents excess strong base, which is not present at equivalence.
+  correct_answer_choice: C
+- id: TitrationEq-02
+  question_stem: 'What is the approximate pH at the equivalence point if 40.0 mL of aqueous HNO₃ requires 25.0 mL of 0.160 M KOH to reach the equivalence
+    point?
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '7.00'
+    B: '3.40'
+    C: '9.80'
+    D: '12.50'
+  distractors:
+    B: Incorrectly treats the equivalence-point solution as containing excess strong acid.
+    C: Incorrectly predicts that nitrate makes the solution basic.
+    D: Represents substantial excess KOH rather than the equivalence point.
+  correct_answer_choice: A
+- id: TitrationEq-03
+  question_stem: 'What is the approximate pH at the equivalence point if 30.0 mL of aqueous NaOH requires 45.0 mL of 0.100 M HCl to reach the equivalence
+    point?
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '2.20'
+    B: '7.00'
+    C: '10.60'
+    D: '13.00'
+  distractors:
+    A: Represents excess HCl, but the acid and base have reacted in stoichiometric amounts.
+    C: Incorrectly treats the strong base–strong acid equivalence-point solution as weakly basic.
+    D: Represents excess NaOH rather than the equivalence point.
+  correct_answer_choice: B
+- id: TitrationEq-04
+  question_stem: 'What is the approximate pH at the equivalence point if 50.0 mL of aqueous KOH requires 40.0 mL of 0.125 M HNO₃ to reach the equivalence
+    point?
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '1.70'
+    B: '4.50'
+    C: '11.20'
+    D: '7.00'
+  distractors:
+    A: Represents excess strong acid.
+    B: Incorrectly predicts an acidic equivalence point for a strong base–strong acid titration.
+    C: Represents excess strong base.
+  correct_answer_choice: D
+- id: TitrationEq-05
+  question_stem: 'What is the approximate pH at the equivalence point of a weak acid–strong base titration if 30.0 mL of aqueous acetic acid, CH₃COOH,
+    requires 20.0 mL of 0.150 M NaOH to reach the equivalence point? The K<sub>a</sub> for acetic acid is 1.8 × 10⁻⁵.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '2.90'
+    B: '7.00'
+    C: '8.76'
+    D: '12.40'
+  distractors:
+    A: Resembles the pH of the weak acid before much NaOH is added.
+    B: Ignores hydrolysis of the acetate ion present at equivalence.
+    D: Is too basic and would require excess NaOH.
+  correct_answer_choice: C
+- id: TitrationEq-06
+  question_stem: 'What is the approximate pH at the equivalence point of a weak acid–strong base titration if 25.0 mL of aqueous formic acid, HCOOH,
+    requires 25.0 mL of 0.100 M KOH to reach the equivalence point? The K<sub>a</sub> for formic acid is 1.77 × 10⁻⁴.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '8.23'
+    B: '2.60'
+    C: '7.00'
+    D: '12.10'
+  distractors:
+    B: Incorrectly uses an acidic pH associated with formic acid.
+    C: Treats potassium formate as a neutral salt.
+    D: Is too basic for a solution containing only the weakly basic formate ion.
+  correct_answer_choice: A
+- id: TitrationEq-07
+  question_stem: 'What is the approximate pH at the equivalence point of a weak acid–strong base titration if 40.0 mL of aqueous HF requires 20.0 mL
+    of 0.120 M NaOH to reach the equivalence point? The K<sub>a</sub> for HF is 6.8 × 10⁻⁴.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '2.20'
+    B: '7.88'
+    C: '7.00'
+    D: '12.60'
+  distractors:
+    A: Represents an acidic solution containing substantial HF.
+    C: Ignores hydrolysis of F⁻ at equivalence.
+    D: Is too basic and suggests excess NaOH.
+  correct_answer_choice: B
+- id: TitrationEq-08
+  question_stem: 'What is the approximate pH at the equivalence point of a weak acid–strong base titration if 25.0 mL of aqueous HOCl requires 25.0
+    mL of 0.100 M KOH to reach the equivalence point? The K<sub>a</sub> for HOCl is 3.0 × 10⁻⁸.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '4.10'
+    B: '7.00'
+    C: '13.10'
+    D: '10.11'
+  distractors:
+    A: Incorrectly predicts an acidic equivalence point.
+    B: Treats hypochlorite as a pH-neutral ion.
+    C: Is too basic and would indicate excess strong base.
+  correct_answer_choice: D
+- id: TitrationEq-09
+  question_stem: 'What is the approximate pH at the equivalence point of a weak acid–strong base titration if 30.0 mL of aqueous benzoic acid, C₆H₅COOH,
+    requires 30.0 mL of 0.160 M NaOH to reach the equivalence point? The K<sub>a</sub> for benzoic acid is 6.3 × 10⁻⁵.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '8.55'
+    B: '3.00'
+    C: '7.00'
+    D: '12.80'
+  distractors:
+    B: Represents a solution in which unneutralized benzoic acid remains.
+    C: Incorrectly treats sodium benzoate as a neutral salt.
+    D: Is too basic and would require excess NaOH.
+  correct_answer_choice: A
+- id: TitrationEq-10
+  question_stem: 'What is the approximate pH at the equivalence point of a weak acid–strong base titration if 30.0 mL of aqueous propionic acid, CH₃CH₂COOH,
+    requires 30.0 mL of 0.120 M KOH to reach the equivalence point? The K<sub>a</sub> for propionic acid is 1.3 × 10⁻⁵.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '2.80'
+    B: '7.00'
+    C: '8.83'
+    D: '12.30'
+  distractors:
+    A: Resembles the pH of the weak acid before titration.
+    B: Ignores the basic hydrolysis of propionate.
+    D: Is too basic for an equivalence-point solution without excess KOH.
+  correct_answer_choice: C
+- id: TitrationEq-11
+  question_stem: 'What is the approximate pH at the equivalence point of a weak base–strong acid titration if 30.0 mL of aqueous NH₃ requires 20.0
+    mL of 0.150 M HCl to reach the equivalence point? The K<sub>b</sub> for NH₃ is 1.8 × 10⁻⁵.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '2.10'
+    B: '5.24'
+    C: '7.00'
+    D: '11.20'
+  distractors:
+    A: Is too acidic and would suggest excess HCl.
+    C: Incorrectly treats ammonium chloride as a neutral salt.
+    D: Resembles the pH of an ammonia solution before titration.
+  correct_answer_choice: B
+- id: TitrationEq-12
+  question_stem: 'What is the approximate pH at the equivalence point of a weak base–strong acid titration if 25.0 mL of aqueous methylamine, CH₃NH₂,
+    requires 25.0 mL of 0.100 M HNO₃ to reach the equivalence point? The K<sub>b</sub> for methylamine is 4.4 × 10⁻⁴.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '5.97'
+    B: '1.60'
+    C: '7.00'
+    D: '12.00'
+  distractors:
+    B: Is too acidic and would require excess nitric acid.
+    C: Incorrectly treats methylammonium nitrate as a neutral salt.
+    D: Represents an unneutralized or excess weak-base solution.
+  correct_answer_choice: A
+- id: TitrationEq-13
+  question_stem: 'What is the approximate pH at the equivalence point of a weak base–strong acid titration if 40.0 mL of aqueous hydrazine, N₂H₄, requires
+    20.0 mL of 0.150 M HCl to reach the equivalence point? The K<sub>b</sub> for hydrazine is 1.3 × 10⁻⁶.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '1.30'
+    B: '7.00'
+    C: '10.60'
+    D: '4.71'
+  distractors:
+    A: Is too acidic and suggests excess strong acid.
+    B: Ignores the acidic behavior of the hydrazinium ion.
+    C: Incorrectly predicts that the weak base remains at equivalence.
+  correct_answer_choice: D
+- id: TitrationEq-14
+  question_stem: 'What is the approximate pH at the equivalence point of a weak base–strong acid titration if 25.0 mL of aqueous aniline, C₆H₅NH₂,
+    requires 25.0 mL of 0.100 M HNO₃ to reach the equivalence point? The K<sub>b</sub> for aniline is 4.3 × 10⁻¹⁰.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '7.00'
+    B: '10.20'
+    C: '2.97'
+    D: '13.00'
+  distractors:
+    A: Incorrectly treats the anilinium salt as neutral.
+    B: Incorrectly predicts that significant unreacted aniline remains at equivalence.
+    D: Represents a strongly basic solution and is incompatible with equivalence.
+  correct_answer_choice: C
+- id: TitrationEq-15
+  question_stem: 'What is the approximate pH at the equivalence point of a weak base–strong acid titration if 30.0 mL of aqueous ethylamine, C₂H₅NH₂,
+    requires 30.0 mL of 0.160 M HCl to reach the equivalence point? The K<sub>b</sub> for ethylamine is 5.6 × 10⁻⁴.
+
+
+    Hint: What is the most likely pH without doing any calculations?'
+  choices:
+    A: '1.80'
+    B: '5.92'
+    C: '7.00'
+    D: '11.70'
+  distractors:
+    A: Is too acidic and would indicate excess HCl.
+    C: Incorrectly assumes a neutral equivalence point.
+    D: Resembles a weak-base solution before equivalence.
+  correct_answer_choice: B
