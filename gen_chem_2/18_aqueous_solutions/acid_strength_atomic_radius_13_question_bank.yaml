@@ -1,0 +1,176 @@
+title: Acid Strength and Atomic Radius
+date_created: '2026-10-26'
+learning_objective: Predict acidity based on molecular structure by comparing the atomic radius of the atom bonded directly to the acidic proton.
+author: Julie Donnelly
+notation: Chemical formulas use Unicode subscripts and superscripts. Comparisons are limited to Group 16 and Group 17 acids so that atomic radius and
+  bond strength are the primary structural factors.
+question_count: 13
+questions:
+- id: AcidRadius-01
+  question_stem: 'Rank the following acids in order of increasing acid strength:
+
+
+    HF, HCl, HBr'
+  choices:
+    A: HF < HCl < HBr
+    B: HBr < HCl < HF
+    C: HCl < HF < HBr
+    D: HF < HBr < HCl
+  distractors:
+    B: Reverses the correct acid-strength trend.
+    C: Places HCl below HF even though HCl is the stronger acid.
+    D: Places HBr below HCl even though HBr is the stronger acid.
+  correct_answer_choice: A
+- id: AcidRadius-02
+  question_stem: 'Rank the following acids in order of increasing acid strength:
+
+
+    HCl, HBr, HI'
+  choices:
+    A: HI < HBr < HCl
+    B: HBr < HCl < HI
+    C: HCl < HBr < HI
+    D: HCl < HI < HBr
+  distractors:
+    A: Reverses the correct acid-strength trend.
+    B: Places HBr below HCl even though HBr is the stronger acid.
+    D: Places HI below HBr even though HI is the stronger acid.
+  correct_answer_choice: C
+- id: AcidRadius-03
+  question_stem: 'Rank the following acids in order of increasing acid strength:
+
+
+    H₂O, H₂S, H₂Se'
+  choices:
+    A: H₂Se < H₂S < H₂O
+    B: H₂O < H₂S < H₂Se
+    C: H₂S < H₂O < H₂Se
+    D: H₂O < H₂Se < H₂S
+  distractors:
+    A: Reverses the correct acid-strength trend.
+    C: Places H₂S below H₂O even though H₂S is the stronger acid.
+    D: Places H₂Se below H₂S even though H₂Se is the stronger acid.
+  correct_answer_choice: B
+- id: AcidRadius-04
+  question_stem: 'Rank the following acids in order of increasing acid strength:
+
+
+    H₂S, H₂Se, H₂Te'
+  choices:
+    A: H₂Te < H₂Se < H₂S
+    B: H₂Se < H₂S < H₂Te
+    C: H₂S < H₂Te < H₂Se
+    D: H₂S < H₂Se < H₂Te
+  distractors:
+    A: Reverses the correct acid-strength trend.
+    B: Places H₂Se below H₂S even though H₂Se is the stronger acid.
+    C: Places H₂Te below H₂Se even though H₂Te is the stronger acid.
+  correct_answer_choice: D
+- id: AcidRadius-05
+  question_stem: Which of the following is the strongest acid?
+  choices:
+    A: HCl
+    B: HF
+    C: HI
+    D: HBr
+  distractors:
+    A: HCl is weaker than both HBr and HI.
+    B: HF is the weakest acid in this set.
+    D: HBr is stronger than HCl but weaker than HI.
+  correct_answer_choice: C
+- id: AcidRadius-06
+  question_stem: Which of the following is the strongest acid?
+  choices:
+    A: H₂O
+    B: H₂Te
+    C: H₂S
+    D: H₂Se
+  distractors:
+    A: H₂O is the weakest acid in this set.
+    C: H₂S is weaker than both H₂Se and H₂Te.
+    D: H₂Se is stronger than H₂S but weaker than H₂Te.
+  correct_answer_choice: B
+- id: AcidRadius-07
+  question_stem: Which of the following is the weakest acid?
+  choices:
+    A: HBr
+    B: HI
+    C: HCl
+    D: HF
+  distractors:
+    A: HBr is stronger than both HCl and HF.
+    B: HI is the strongest acid in this set.
+    C: HCl is stronger than HF.
+  correct_answer_choice: D
+- id: AcidRadius-08
+  question_stem: Which of the following is the weakest acid?
+  choices:
+    A: H₂O
+    B: H₂S
+    C: H₂Te
+    D: H₂Se
+  distractors:
+    B: H₂S is more acidic than H₂O.
+    C: H₂Te is the strongest acid in this set.
+    D: H₂Se is more acidic than both H₂O and H₂S.
+  correct_answer_choice: A
+- id: AcidRadius-09
+  question_stem: Which statement best explains why HI is a stronger acid than HBr?
+  choices:
+    A: Iodine is larger, giving a weaker bond and a more stable conjugate base.
+    B: Iodine is smaller, giving a weaker bond and a more stable conjugate base.
+    C: Iodine is larger, giving a stronger bond and a less stable conjugate base.
+    D: Iodine is smaller, giving a stronger bond and a less stable conjugate base.
+  distractors:
+    B: Iodine is larger than bromine, not smaller.
+    C: The bond to H becomes weaker, not stronger, as atomic size increases.
+    D: Both the atomic-size and bond-strength trends are reversed.
+  correct_answer_choice: A
+- id: AcidRadius-10
+  question_stem: Which statement best explains why HBr is a stronger acid than HCl?
+  choices:
+    A: Bromine is smaller, so its bond to H is weaker and Br⁻ is more stable.
+    B: Bromine is larger, so its bond to H is weaker and Br⁻ is more stable.
+    C: Bromine is smaller, so its bond to H is stronger and Br⁻ is less stable.
+    D: Bromine is larger, so its bond to H is stronger and Br⁻ is less stable.
+  distractors:
+    A: Bromine is larger than chlorine, not smaller.
+    C: Both the atomic-size and bond-strength trends are reversed.
+    D: A larger atom produces a weaker bond to H, not a stronger bond.
+  correct_answer_choice: B
+- id: AcidRadius-11
+  question_stem: Which statement best explains why H₂Se is a stronger acid than H₂S?
+  choices:
+    A: Selenium is smaller, weakening its bond to H and stabilizing the conjugate base.
+    B: Selenium is larger, strengthening its bond to H and destabilizing the conjugate base.
+    C: Selenium is larger, weakening its bond to H and stabilizing the conjugate base.
+    D: Selenium is smaller, strengthening its bond to H and destabilizing the conjugate base.
+  distractors:
+    A: Selenium is larger than sulfur, not smaller.
+    B: A larger atom produces a weaker bond to H, not a stronger bond.
+    D: Both the atomic-size and bond-strength trends are reversed.
+  correct_answer_choice: C
+- id: AcidRadius-12
+  question_stem: Consider the series HF, HCl, HBr, and HI. Which statement correctly describes the acid-strength trend?
+  choices:
+    A: Acid strength decreases because the bond to H weakens down the group.
+    B: Acid strength decreases because the conjugate base grows larger down the group.
+    C: Acid strength increases because the bond to H strengthens down the group.
+    D: Acid strength increases because the bond to H weakens down the group.
+  distractors:
+    A: A weaker bond makes proton loss easier, so acid strength increases.
+    B: A larger conjugate base is more stable, so acid strength increases.
+    C: The bond to H becomes weaker, not stronger, down the group.
+  correct_answer_choice: D
+- id: AcidRadius-13
+  question_stem: Consider the series H₂O, H₂S, H₂Se, and H₂Te. Which statement correctly describes the acid-strength trend?
+  choices:
+    A: Acid strength increases because the atom bonded to H grows larger down the group.
+    B: Acid strength increases because the atom bonded to H grows smaller down the group.
+    C: Acid strength decreases because the atom bonded to H grows larger down the group.
+    D: Acid strength decreases because the atom bonded to H grows smaller down the group.
+  distractors:
+    B: The atom bonded to H grows larger, not smaller, down the group.
+    C: Increasing atomic size causes acid strength to increase, not decrease.
+    D: Both the atomic-size and acid-strength trends are reversed.
+  correct_answer_choice: A
