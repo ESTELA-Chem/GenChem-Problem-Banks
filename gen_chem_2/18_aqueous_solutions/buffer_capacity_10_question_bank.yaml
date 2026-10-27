@@ -1,0 +1,129 @@
+title: Buffer Capacity and Destruction
+date_created: '2026-10-26'
+learning_objective: Evaluate the capacity of a buffer to resist changes in pH.
+author: Julie Donnelly
+notation: Chemical formulas and ionic charges use Unicode subscripts and superscripts. A buffer is destroyed when added strong acid or strong base
+  completely consumes one member of the conjugate acid-base pair.
+question_count: 10
+questions:
+- id: BufferCapacity-01
+  question_stem: The addition of which of the following would destroy a 1.00 L buffer solution that is 0.120 M CH₃COOH and 0.300 M CH₃COONa?
+  choices:
+    A: Adding 0.120 mol CH₃COONa
+    B: Adding 0.120 mol NaOH
+    C: Adding 0.120 mol HCl
+    D: Adding 0.120 mol CH₃COOH
+  distractors:
+    A: Adds more conjugate base, so both CH₃COOH and CH₃COO⁻ remain present.
+    C: HCl consumes 0.120 mol of the initial 0.300 mol CH₃COO⁻, so both buffer components remain.
+    D: Adds more weak acid, so both buffer components remain present.
+  correct_answer_choice: B
+- id: BufferCapacity-02
+  question_stem: The addition of which of the following would destroy a 0.500 L buffer solution that is 0.300 M HCOOH and 0.200 M HCOONa?
+  choices:
+    A: Adding 0.100 mol HCOONa
+    B: Adding 0.100 mol NaOH
+    C: Adding 0.100 mol HCOOH
+    D: Adding 0.100 mol HCl
+  distractors:
+    A: Adds more HCOO⁻, so both members of the conjugate pair remain.
+    B: NaOH consumes 0.100 mol of the initial 0.150 mol HCOOH, leaving 0.050 mol HCOOH.
+    C: Adds more weak acid without removing HCOO⁻.
+  correct_answer_choice: D
+- id: BufferCapacity-03
+  question_stem: The addition of which of the following would destroy a 2.00 L buffer solution that is 0.0800 M H₂CO₃ and 0.200 M NaHCO₃?
+  choices:
+    A: Adding 0.160 mol NaOH
+    B: Adding 0.160 mol HCl
+    C: Adding 0.160 mol NaHCO₃
+    D: Adding 0.160 mol H₂CO₃
+  distractors:
+    B: HCl consumes 0.160 mol of the initial 0.400 mol HCO₃⁻, so both buffer components remain.
+    C: Adds more conjugate base without removing H₂CO₃.
+    D: Adds more weak acid without removing HCO₃⁻.
+  correct_answer_choice: A
+- id: BufferCapacity-04
+  question_stem: The addition of which of the following would destroy a 1.50 L buffer solution that is 0.180 M NaH₂PO₄ and 0.100 M Na₂HPO₄?
+  choices:
+    A: Adding 0.150 mol NaH₂PO₄
+    B: Adding 0.150 mol NaOH
+    C: Adding 0.150 mol HCl
+    D: Adding 0.150 mol Na₂HPO₄
+  distractors:
+    A: Adds more H₂PO₄⁻, so both buffer components remain.
+    B: NaOH converts 0.150 mol H₂PO₄⁻ to HPO₄²⁻, but 0.120 mol H₂PO₄⁻ remains.
+    D: Adds more HPO₄²⁻, so both buffer components remain.
+  correct_answer_choice: C
+- id: BufferCapacity-05
+  question_stem: The addition of which of the following would destroy a 0.750 L buffer solution that is 0.240 M HOCl and 0.400 M NaOCl?
+  choices:
+    A: Adding 0.180 mol HOCl
+    B: Adding 0.180 mol NaOCl
+    C: Adding 0.180 mol HCl
+    D: Adding 0.180 mol KOH
+  distractors:
+    A: Adds more weak acid, so both HOCl and OCl⁻ remain.
+    B: Adds more conjugate base, so both buffer components remain.
+    C: HCl consumes 0.180 mol of the initial 0.300 mol OCl⁻, leaving 0.120 mol OCl⁻.
+  correct_answer_choice: D
+- id: BufferCapacity-06
+  question_stem: The addition of which of the following would destroy a 1.00 L buffer solution that is 0.250 M NH₃ and 0.150 M NH₄Cl?
+  choices:
+    A: Adding 0.150 mol NaOH
+    B: Adding 0.150 mol HCl
+    C: Adding 0.150 mol NH₃
+    D: Adding 0.150 mol NH₄Cl
+  distractors:
+    B: HCl consumes 0.150 mol of the initial 0.250 mol NH₃, leaving 0.100 mol NH₃.
+    C: Adds more weak base without removing NH₄⁺.
+    D: Adds more conjugate acid without removing NH₃.
+  correct_answer_choice: A
+- id: BufferCapacity-07
+  question_stem: The addition of which of the following would destroy a 0.400 L buffer solution that is 0.350 M HF and 0.200 M NaF?
+  choices:
+    A: Adding 0.0800 mol HF
+    B: Adding 0.0800 mol HCl
+    C: Adding 0.0800 mol NaOH
+    D: Adding 0.0800 mol NaF
+  distractors:
+    A: Adds more HF, so both buffer components remain.
+    C: NaOH consumes 0.0800 mol of the initial 0.140 mol HF, leaving 0.0600 mol HF.
+    D: Adds more F⁻, so both buffer components remain.
+  correct_answer_choice: B
+- id: BufferCapacity-08
+  question_stem: The addition of which of the following would destroy a 2.00 L buffer solution that is 0.150 M NaHCO₃ and 0.100 M Na₂CO₃?
+  choices:
+    A: Adding 0.200 mol NaHCO₃
+    B: Adding 0.200 mol Na₂CO₃
+    C: Adding 0.200 mol HNO₃
+    D: Adding 0.200 mol NaOH
+  distractors:
+    A: Adds more HCO₃⁻, so both buffer components remain.
+    B: Adds more CO₃²⁻, so both buffer components remain.
+    D: NaOH converts 0.200 mol of the initial 0.300 mol HCO₃⁻ to CO₃²⁻, leaving 0.100 mol HCO₃⁻.
+  correct_answer_choice: C
+- id: BufferCapacity-09
+  question_stem: The addition of which of the following would destroy a 0.500 L buffer solution that is 0.160 M C₆H₅COOH and 0.300 M NaC₆H₅COO?
+  choices:
+    A: Adding 0.0800 mol NaOH
+    B: Adding 0.0800 mol HCl
+    C: Adding 0.0800 mol NaC₆H₅COO
+    D: Adding 0.0800 mol C₆H₅COOH
+  distractors:
+    B: HCl consumes 0.0800 mol of the initial 0.150 mol C₆H₅COO⁻, leaving 0.0700 mol C₆H₅COO⁻.
+    C: Adds more conjugate base without removing C₆H₅COOH.
+    D: Adds more weak acid without removing C₆H₅COO⁻.
+  correct_answer_choice: A
+- id: BufferCapacity-10
+  question_stem: The addition of which of the following would destroy a 1.25 L buffer solution that is 0.160 M lactic acid, C₃H₆O₃, and 0.0800 M sodium
+    lactate, NaC₃H₅O₃?
+  choices:
+    A: Adding 0.100 mol NaC₃H₅O₃
+    B: Adding 0.100 mol NaOH
+    C: Adding 0.100 mol C₃H₆O₃
+    D: Adding 0.100 mol HCl
+  distractors:
+    A: Adds more lactate, so both buffer components remain.
+    B: NaOH consumes 0.100 mol of the initial 0.200 mol lactic acid, leaving 0.100 mol lactic acid.
+    C: Adds more weak acid without removing lactate.
+  correct_answer_choice: D
